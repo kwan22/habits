@@ -35,6 +35,8 @@ Lastly, as a teaser, I will introduce the zeroth habits level:
 ### Level 0  
 **Have fun.**
 
-That's it, but really, this is probably the most critical habit to have. Everyone has their own meaning of what fun is and how they want to play the game. The rest of the habits will reflect my own values and skills I want to see in my own speedrunning. I hope this seris is as entertaining as it is instructive. Enjoy.
+That's it, but really, this is probably the most critical habit to have. Everyone has their own meaning of what fun is and how they want to play the game. The rest of the habits will reflect my own values and skills I want to see in my own speedrunning. I hope this series is as entertaining as it is instructive. Enjoy.
+
+If you are reading this document before the video, you can find the video series here. (insert link).
 
 ---
