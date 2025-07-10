@@ -8,7 +8,7 @@
 
 ## Level 4
 
-Level 4 begins a deeper dive into some of the fundamentals of movement as well as more detailed inner workings of game mechanics and niche situations in which these arise. Situations become more specific and technical: understanding the inner workings is not required to execute the strats, but the details are not obviously available to a player without researching game mechanics and physics. Concepts start to become increasingly complicated, so several examples are provided for illustration.
+Level 4 begins a deeper dive into some of the fundamentals of movement as well as more detailed inner workings of game mechanics and niche situations in which these arise. Situations become more specific and technical: understanding the inner workings is not required to execute the strats, but the details are not obviously available to a player without researching game mechanics and physics. Concepts start to become increasingly complicated, so several examples are provided for illustration. Use of TAS tools can be useful for those interested in diving into the science.
 
 #### Conscious of bottlenecks  
 A general understanding of what bottlenecks are. This is usually divided between resolving a horizontal vs vertical bottleneck, but can also be dictated by other factors such as activating a block. Awareness and some principles to reducing airtime are included. The goal is to be conscious of these: some are difficult to greed and optimize well and may compromise consistency, but having awareness of these provides us with guidance on what the limits are.
