@@ -19,10 +19,10 @@ A general understanding of what bottlenecks are. This is usually divided between
 - 3a shaft entering demo room: instant hyper and hold jump to avoid bonking the ground
 - 5b depths first button: upright demo under the block be able to dash earlier, avoid bonk, and land earlier
 
-##### Getting crumble blocks to disappear with a wave/ext hyper  
-- 2a intervention
-- 5b cc pre spikejump
-- 7a 2500m fast key
+##### Activating entities asap (zippers, swapblocks, crumbles)
+- in general, can only grab while moving downwards to activate blocks (e.g. 4a trail pre 2nd blockless, 500m coin exit, 7a 2k vertical)
+- 5a dcb, early dash setup to initiate block movement
+- Removing crumbles fast+consistently with ext hyper/wave: 2a intervention 5b cc pre spikejump, 7a 2500m fast key
 
 #### Know the speed hierarchy  
 This goes hand in hand with being conscious of bottlenecks. Know some of the nuanced properties of dashes, wallbounces, jumps, etc. Emphasis that dashing downwards, especially diagdown, can be deceptively slow for vertical bottleneck.  
