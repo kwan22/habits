@@ -3,7 +3,7 @@
 Level 3 rounds out most of the RTA-viable speed tech that most speedrunners will ever encounter. We emphasize a selection of strats with speed generation/conservation, and finding ways to perform them in a consistent manner via normalization. Use of speedrun tool is highly recommended.
 
 #### Extension timing  
-Perhaps the true bread and butter of Celeste speed tech. If you have to pick one arbitrary rhythm/timing in this game for speedrunning, it is this timing. Mastery of the reverse super from Level 2 should have built the dash-to-jump timing into muscle memory that we now utilize more broadly.
+Perhaps the true bread and butter of Celeste speed tech. If you have to pick one arbitrary rhythm/timing in this game to memorize for speedrunning, it is this timing. Mastery of the reverse super from Level 2 should have built the dash-to-jump timing into muscle memory that we now utilize more broadly.
 
 #### Ultras, cbs, demos, neutrals, cornerkicks  
 Some scary words for beginners but none of these are actually difficult if you know extension timing. We are just starting to implement some setups to use these where they are most friendly to being consistent.
