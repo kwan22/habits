@@ -1,3 +1,11 @@
+## Table of Contents
+- [Introduction](#introduction)
+- [Level 1](https://github.com/kwan22/habits/blob/main/level1.md)
+- [Level 2](https://github.com/kwan22/habits/blob/main/level2.md)
+- [Level 3](https://github.com/kwan22/habits/blob/main/level3.md)
+- [Level 4](https://github.com/kwan22/habits/blob/main/level4.md)
+- [Closing thoughts and FAQ](https://github.com/kwan22/habits/blob/main/conclusions-faq.md)
+
 ## Level 3
 
 Level 3 rounds out most of the RTA-viable speed tech that most speedrunners will ever encounter. We emphasize a selection of strats with speed generation/conservation, and finding ways to perform them in a consistent manner via normalization. Use of speedrun tool is highly recommended.
