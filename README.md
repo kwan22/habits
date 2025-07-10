@@ -32,13 +32,6 @@ Non-basic setups would include strats with pixel lineups, egregiously long movem
 ### 2. Never reset
 **Never reset** is simple: the goal of the habits is to develop skillsets and knowledge, not to chase good filetimes. Resetting for a good pace is simply a waste of time in this context. We are here to play the game to learn the basics, evaluate if we are truly consistent at our strat selection, and diagnose patterns of strats that are repeat offenders of going wrong. The end time we achieve will naturally improve along our skillsets and knowledge.
 
-Lastly, as a teaser, I will introduce the zeroth habits level:
-
-### Level 0  
-**Have fun.**
-
-That's it, but really, this is probably the most critical habit to have. Everyone has their own meaning of what fun is and how they want to play the game. The rest of the habits will reflect my own values and skills I want to see in my own speedrunning. I hope this series is as entertaining as it is instructive. Enjoy.
-
-If you are reading this document before the video, you can find the video series here. (insert link).
+If you are reading this document before the video, you can find the video series here. (insert link). I hope this series is as entertaining as it is instructive. Enjoy. 
 
 ---
