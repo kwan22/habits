@@ -3,12 +3,15 @@
 Level 2 is meant to simulate a player that has likely already dabbled in speedrunning Celeste and wants to take it more seriously. Perhaps they have completed all the chapters or even 100%'d the game. Here, we nominally unleash the basic speed tech taught in the game. Use of speedrun tool is recommended.
 
 #### Basic dash tech  
-This includes supers, hypers, wallbounces, and wavedashes. I specify wavedash here as it is taught in Farewell, while extended hypers are not. A small but key distinction: we will not know the timing for extensions.  
-The one and only exception to this will be the reverse super in Search. This will be our launching pad to learn extension timing in the future.
+This includes supers, hypers, wallbounces, and wavedashes. I specify wavedash here as it is taught in Farewell, while extended hypers are not. A small but key distinction: we will not know the timing for extensions. The one and only exception to this will be the reverse super in Search. This will be our launching pad to learn extension timing in the future.
 
-*Show some example rooms where tech is useful and easy to implement*
-1a crossing 6
-2a awake: meme about hypering in awake actual checkpoint room
+*Show some example rooms where basic, no extension tech is useful and easy to implement*
+-1a crossing 6
+-2a start pre-mirror
+-3a start 1st indoor cycle room, past 2nd door
+-3a huge mess towels 2+3
+-3a suite 3
+-4a cliff face final snowball
 
 
 #### Basic entity tech  
