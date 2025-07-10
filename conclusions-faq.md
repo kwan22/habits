@@ -13,7 +13,7 @@ Thank you for reading and (presumably) watching the series. I hope you found thi
 ## FAQ
 
 **Q: Why is x at habit level y? It should be in habit level z!**  
-*A: Maybe, there's no one way to build a good habits series. These just reflect my personal take and values on how to incrementally improve on the fundamentals. I think I did a pretty good job at being self-consistent.*
+*A: Maybe, there's no one way to build a good habits series. These just reflect my personal take and values on how to incrementally improve on the fundamentals.*
 
 **Q: Why aren't you doing x strat at habit level y? It's easier and faster!**  
 *A: Because I don't care about the time, I want to emphasize skillset development. If you find a different strat that you think is easier and faster, congrats, go ahead and do it to save time.*
@@ -23,9 +23,9 @@ Thank you for reading and (presumably) watching the series. I hope you found thi
 
 **Q: Why not play 5b from Level 1? Why bother spending time learning 5a if we're just switching to 5b at Level 4?**  
 *A: There is some merit to this idea, and a habits series could be viable starting with 5b from Level 1, but my justifications are the following:*
-1. 5b presents too high of a barrier to entry in terms of the precision platforming.
+1. 5b presents a high barrier to entry that simply isn't necessary at a beginner level.
 2. 5b requires niche tech (pause-buffering, neutral spikejump) to save time over 5a. I originally did not want to ever introduce pause-buffering as it's a textbook example of only being useful in extremely niche situations. However, I decided that pause-buffering is still a useful skill to have and muscle memory to learn.
-3. Search reverse super is a nice gateway to learning extension timing, just like how bubsdrop can be a gateway to learning more complex pause strats like 3a fast demo and 4a 2nd blockless for those looking to push further beyond the habits.
+3. Search skip is a nice gateway to learning extension timing, just like how bubsdrop can be a gateway to learning more complex pause strats like 3a fast demo and 4a 2nd blockless for those looking to push further beyond the habits, as well as performing some basic science.
 4. With good fundamentals at Level 3, skills are transferable and learning 5b is not that different from learning new strats in 5a.
 
 **Q: 6b when?**  
