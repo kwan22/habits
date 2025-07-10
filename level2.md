@@ -14,4 +14,3 @@ Retransition if possible to reset the entry cycle. The goal is to reinforce lear
 
 #### Good, ergonomic binds  
 This means having dash (or demo), 2 jump binds, and grab on keys that can all be pressed and released independently of each other. This also means we will be using the 2 jump buttons for any vertical movement.  
-I considered putting this in level 1, but decided to keep the controls as basic as possible in Level 1. The idea here is to take the effort to set more complex binds outside the minimum requirements should target those that are getting ready to take the game more seriously.
