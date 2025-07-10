@@ -37,10 +37,9 @@ If you updash near a wall, prefer wallbounce over climbjumping unless absolutely
 - 5b cc-1 cornerglide
 - 6a rb last badeline: instant hyper over ext hyper ultra
 - 7a 1000m-2: dj upright, transition wallbounce (ties into dashcd)
-- 7a 0m orb early right dash, fast fall
-- 7a 0m orb: bkgd cue for left dash
-- 7a 2500m avoid upright along the wall
-- 7a 2500m door: only 1 downright
+- 7a 0m orb early left dash, fast fall
+- 7a 2500m-3 avoid upright along the wall
+- 7a 2500m key door: only 1 downright
 
 #### DashCD control  
 Awareness of DashCD and movement to intentionally avoid or retain DashCD for setups. Selection of instant hyper, hyper bhop, vs ext-hyper. Buffering dashes out of DashCD, related to grounded ultra timing. Managing DashCD from vertical transitions (canceling vertical momentum, 3a-suite cutscene delay) and developing intuition for buffering out of vertical DashCD.
