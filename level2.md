@@ -1,3 +1,11 @@
+## Table of Contents
+- [Introduction](#introduction)
+- [Level 1](https://github.com/kwan22/habits/blob/main/level1.md)
+- [Level 2](https://github.com/kwan22/habits/blob/main/level2.md)
+- [Level 3](https://github.com/kwan22/habits/blob/main/level3.md)
+- [Level 4](https://github.com/kwan22/habits/blob/main/level4.md)
+- [Closing thoughts and FAQ](https://github.com/kwan22/habits/blob/main/conclusions-faq.md)
+
 ## Level 2
 
 Level 2 is meant to simulate a player that has likely already dabbled in speedrunning Celeste and wants to take it more seriously. Perhaps they have completed all the chapters or even 100%'d the game. Here, we nominally unleash the basic speed tech taught in the game. Use of speedrun tool is recommended.
