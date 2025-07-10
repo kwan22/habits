@@ -21,5 +21,5 @@ No more entering a room and then starting movement, movement exiting a room shou
 The goal is to make strats more consistent. The transition hyper and wallbounce will be the most common for using the buffer system and introducing normalization. Other movement and setups that emphasize using the buffer system include spikejumps, dream hypers/doublejumps, and pausing for some cutscene skips (gateway to lv 4 pausebuffering).  
 Cornercorrection is a mechanic that will be naturally used at all levels, but here we will intentionally use it to mostly emphasize that 3-tile jumps line up well for midair supers, and both 1- and 2-tile hypers line up well with midair supers (or demohypers) because of cornercorrection. Jumpthrough cornercorrection leniency is also demonstrated. This is also a place to learn the timing for dashing out of max height and not releasing jump while doing so.
 
-- **Buffer setups:** 1a chasm spikejump, 2a cutscene skip, 3a spikejump, rooftop cutscenes, 4a spikejump, wallbounce
+- **Buffer setups:** 1a chasm spikejump, 2a intervention-1 cutscene skip, 3a spikejump, rooftop cutscenes, 4a shrine spikejump, wallbounce
 - **Cornercorrection:** 1a start-1, 2a start+awake, 3a shaft final, 3a suite final, 4a cliff face-2, 5a rescue-3, 6a resolution, 7a flag1
