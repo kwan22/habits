@@ -22,7 +22,6 @@ A general understanding of what bottlenecks are. This is usually divided between
 ##### Getting crumble blocks to disappear with a wave/ext hyper  
 - 2a intervention
 - 5b cc pre spikejump
-- 7a 0m 2crystal room: bkgd tile border for updash cue
 - 7a 2500m fast key
 
 #### Know the speed hierarchy  
