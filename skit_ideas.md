@@ -1,7 +1,7 @@
 
 ## Some Skit Ideas for Fun
 
-- 2 jump button demonstration and try using SirNewt 27 any% example (3a shaft-1), get bamboozled
+- 2 jump button demonstration and try using SirNewt 27 any% example (3a shaft-1), get bamboozled, maybe parallel to h3 snorkel
 - Hypering in awake-1 (game checkpoint) and getting stuck on walls -> hypering for no reason (inverse parallel to RPM), ignore until lv 4
 - Oshiro,seekers - parallel to red dot at level 1
 - Oshiro final: struggle with differences in entry vs death cycle at lv 2, attempt to learn a death cycle, brain blast trying to do death cycle on entry, decide to revert to level 1
