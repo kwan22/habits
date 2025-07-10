@@ -10,7 +10,7 @@ A general understanding of what bottlenecks are. This is usually divided between
 - 3a start post triplat
 
 #### Wallkick/wallbouncing timing for vertical vs horizontal movement  
-- *Vertical:* 1a chasm2, 2a start ending, 3a boxes final, 5b start final  
+- *Vertical:* 1a chasm2 ending, 2a start ending, 3a boxes final, 5b start final  
 - *Horizontal:* 1a start 5, chasm left wall, 4a start (updemo), 3a towels final, 7a 1000m transition wallbounces
 
 #### Minimizing needing to re-accelerate in the bottlenecked direction  
