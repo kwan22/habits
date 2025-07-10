@@ -15,7 +15,7 @@ This includes supers, hypers, wallbounces, and wavedashes. I specify wavedash he
 - 4a cliff face final snowball
 - 5a start bubbleskip
 - 6a rb various places
-- 
+- 7a 500m-1 wallbounce
 
 #### Basic entity tech and game mechanics
 This includes dream jumps (2b), fastbubbling, using bubbles as dashes, archie, liftboosted tech (hollows 2 hyper, hollows 3 wallbounce).
