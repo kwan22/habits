@@ -13,7 +13,7 @@ A general understanding of what bottlenecks are. This is usually divided between
 - *Vertical:* 1a chasm2 ending, 2a start ending, 3a boxes final, 5b start final  
 - *Horizontal:* 1a start 5, chasm left wall, 4a start (updemo), 3a towels final, 7a 1000m transition wallbounces
 
-##### Minimizing needing to re-accelerate in the bottlenecked direction  
+##### Minimizing speed bumps in the bottlenecked direction  
 - 1a crossing-7: late dash to first zipper
 - 2a intervention near top: transition hyper to avoid colliding w/ jumpthru
 - 3a shaft entering demo room: instant hyper and hold jump to avoid bonking the ground
