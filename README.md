@@ -20,12 +20,14 @@ For those curious, [the chess series can be found here](https://www.youtube.com/
 - Pattern recognition of common setups for consistency
 - Throttle intake of information
 
-Note that "getting the fastest time we can" or anything along those lines is **not** an explicit goal of the habits. The philosophy here is that fast times will naturally follow upon mastery of the fundamentals. Just like in the chess habits, there will be 4 levels of habits, starting from a complete beginner, and compounding on skills and concepts learned in previous levels.
+Note that "getting the fastest time we can" or anything along those lines is **not** an explicit goal of the habits. The philosophy here is that fast times will naturally follow upon mastery of the fundamentals. Just like in the chess habits, there will be 4 levels of habits, starting from a complete beginner, and compounding on skills and concepts focused on in previous levels.
 
 All levels of the habits will follow two global rules:
 
 ### 1. Basic setups  
 **Basic setups** refer to a setup that is simple to understand and easy to replicate at the corresponding level. The specifics of a setup can range from a broad action such as "wait for Oshiro to pass" or a more refined detail such as "line up on this corner." Niche setups that require specific knowledge that has no direct application anywhere else are avoided (e.g., 4a cpop). Whether these niche strats are good or not is irrelevant if they are not instructive to the fundamental principles we are trying to learn.
+
+Non-basic setups would include strats with pixel lineups, egregiously long movement sequences, long pause-buffer setups requiring memorizing specifc pixels or frames, invisible details like avoiding half-grav on 4a cpop setup, 2fs in general, etc. 
 
 ### 2. Never reset
 **Never reset** is simple: the goal of the habits is to develop skillsets and knowledge, not to chase good filetimes. Resetting for a good pace is simply a waste of time in this context. We are here to play the game to learn the basics, evaluate if we are truly consistent at our strat selection, and diagnose patterns of strats that are repeat offenders of going wrong. The end time we achieve will naturally improve along our skillsets and knowledge.
