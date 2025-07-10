@@ -15,7 +15,7 @@ Some scary words for beginners but none of these are actually difficult if you k
 - **Cornerkick:** 1a chasm, 2a intervention, 4a shrine, 7a 500m, 3000m
 
 #### Active movement  
-No more entering a room and then starting movement, movement exiting a room should consciously chain into the next room. Cycles should also become largely irrelevant when strats are well executed (many cycle rooms in 3a, 1500m; many transition super/hyper/wallbounce).
+No more entering a room and then starting movement, movement exiting a room should consciously chain into the next room. Cycles or other moviong hazards should also become largely irrelevant or incorporated into the movement when strats are well executed (many cycle rooms in 3a, 1500m; seekers/snowballs, many transition super/hyper/wallbounce).
 
 #### Normalization with leniency  
 The goal is to make strats more consistent. The transition hyper and wallbounce will be the most common for using the buffer system and introducing normalization. Other movement and setups that emphasize using the buffer system include spikejumps, dream hypers/doublejumps, and pausing for some cutscene skips.  
