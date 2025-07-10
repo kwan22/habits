@@ -19,7 +19,7 @@ Thank you for reading and (presumably) watching the series. I hope you found thi
 *A: Because I don't care about the time, I want to emphasize skillset development. If you find a different strat that you think is easier and faster, congrats, go ahead and do it to save time.*
 
 **Q: That strat was nice but you could have optimized it better by doing this.**  
-*A: Sure, maybe I was aware of that, maybe I wasn't. If I intentionally excluded it, then I decided it wasn't worth the level of detail to explain in a fundamentals-based approach. If I didn't know about it...well hopefully I didn't egregiously violate any of the habits by not including that detail. I want to say my peer reviewers and I have a good enough grasp of the game where this might pop up occasionally but not be a major issue. Reference Aman's Qg4 and 'no need to be a hero' clips*
+*A: Similar as above. Sure, maybe I was aware of that, maybe I wasn't. If I intentionally excluded it, then I decided it wasn't worth the level of detail to explain in a fundamentals-based approach. If I didn't know about it...well hopefully I didn't egregiously violate any of the habits by not including that detail. I want to say my peer reviewers and I have a good enough grasp of the game where this might pop up occasionally but not be a major issue. Reference Aman's Qg4 and 'no need to be a hero' clips*
 
 **Q: Why not play 5b from Level 1? Why bother spending time learning 5a if we're just switching to 5b at Level 4?**  
 *A: There is some merit to this idea, and a habits series could be viable starting with 5b from Level 1, but my justifications are the following:*
