@@ -1,3 +1,11 @@
+## Table of Contents
+- [Introduction](#introduction)
+- [Level 1](https://github.com/kwan22/habits/blob/main/level1.md)
+- [Level 2](https://github.com/kwan22/habits/blob/main/level2.md)
+- [Level 3](https://github.com/kwan22/habits/blob/main/level3.md)
+- [Level 4](https://github.com/kwan22/habits/blob/main/level4.md)
+- [Closing thoughts and FAQ](https://github.com/kwan22/habits/blob/main/conclusions-faq.md)
+
 ## Level 4
 
 Level 4 begins a deeper dive into some of the fundamentals of movement as well as more detailed inner workings of game mechanics and niche situations in which these arise. Situations become more specific and technical: understanding the inner workings is not required to execute the strats, but the details are not obviously available to a player without researching game mechanics and physics. Concepts start to become increasingly complicated, so several examples are provided for illustration.
