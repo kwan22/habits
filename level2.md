@@ -7,13 +7,15 @@ This includes supers, hypers, wallbounces, and wavedashes. I specify wavedash he
 
 *Show some example rooms where basic tech is useful and easy to implement*
 
--1a crossing 6
--2a start pre-mirror
--3a start 1st indoor cycle room, past 2nd door
--3a huge mess towels 2+3
--3a suite 3
--4a cliff face final snowball
--5a start bubbleskip
+- 1a crossing 6
+- 2a start pre-mirror
+- 3a start 1st indoor cycle room, past 2nd door
+- 3a huge mess towels 2+3
+- 3a suite 3
+- 4a cliff face final snowball
+- 5a start bubbleskip
+- 6a rb various places
+- 
 
 #### Basic entity tech and game mechanics
 This includes dream jumps (2b), fastbubbling, using bubbles as dashes, archie, liftboosted tech (hollows 2 hyper, hollows 3 wallbounce).
