@@ -78,6 +78,7 @@ Making decisions to cover multiple possible outcomes to reduce risk at little/no
 ##### Pressing extra buttons to cover unexpected scenarios  
 General cornerkicks: 2 jump inputs to cover weird timing  
 Holding grab to cover aggressive movement, e.g. missed clean landing, missed wave on a corner
+- 2a awake exiting checkpoint room
 - 3a shaft 1st berry room ending
 - 7a 2000m pre-orb
 
