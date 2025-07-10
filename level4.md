@@ -17,7 +17,7 @@ A general understanding of what bottlenecks are. This is usually divided between
 - 1a crossing-7: late dash to first zipper
 - 2a intervention near top: transition hyper to avoid colliding w/ jumpthru
 - 3a shaft entering demo room: instant hyper and hold jump to avoid bonking the ground
-- 5b depths first button: upright demo under the block to avoid bonk to land earlier
+- 5b depths first button: upright demo under the block be able to dash earlier, avoid bonk, and land earlier
 
 ##### Getting crumble blocks to disappear with a wave/ext hyper  
 - 2a intervention
