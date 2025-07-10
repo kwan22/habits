@@ -18,7 +18,7 @@ Some scary words for beginners but none of these are actually difficult if you k
 No more entering a room and then starting movement, movement exiting a room should consciously chain into the next room. Cycles or other moviong hazards should also become largely irrelevant or incorporated into the movement when strats are well executed (many cycle rooms in 3a, 1500m; seekers/snowballs, many transition super/hyper/wallbounce).
 
 #### Normalization with leniency  
-The goal is to make strats more consistent. The transition hyper and wallbounce will be the most common for using the buffer system and introducing normalization. Other movement and setups that emphasize using the buffer system include spikejumps, dream hypers/doublejumps, and pausing for some cutscene skips.  
+The goal is to make strats more consistent. The transition hyper and wallbounce will be the most common for using the buffer system and introducing normalization. Other movement and setups that emphasize using the buffer system include spikejumps, dream hypers/doublejumps, and pausing for some cutscene skips (gateway to lv 4 pausebuffering).  
 Cornercorrection is a mechanic that will be naturally used at all levels, but here we will intentionally use it to mostly emphasize that 3-tile jumps line up well for midair supers, and both 1- and 2-tile hypers line up well with midair supers (or demohypers) because of cornercorrection. Jumpthrough cornercorrection leniency is also demonstrated. This is also a place to learn the timing for dashing out of max height and not releasing jump while doing so.
 
 - **Cornercorrection:** 1a start-1, 2a start+awake, 3a shaft final, 3a suite final, 4a cliff face-2, 5a rescue-3, 6a resolution, 7a flag1
