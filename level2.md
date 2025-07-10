@@ -5,7 +5,7 @@ Level 2 is meant to simulate a player that has likely already dabbled in speedru
 #### Basic dash tech  
 This includes supers, hypers, wallbounces, and wavedashes. I specify wavedash here as it is taught in Farewell, while extended hypers are not. A small but key distinction: we will not know the timing for extensions. The one and only exception to this will be the reverse super in Search. This will be our launching pad to learn extension timing in the future.
 
-*Show some example rooms where basic tech is useful and easy to implement*
+*Show some example rooms where basic tech is easy to implement and provides large returns*
 
 - 1a crossing 6
 - 2a start pre-mirror
