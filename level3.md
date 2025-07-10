@@ -10,7 +10,7 @@ Some scary words for beginners but none of these are actually difficult if you k
 
 - **Ultras:** 2a start, awake, 3a hub1, boxes1, 4a start, 2nd block ultra 5a depths-1
 - **Cornerboosts:** 1a r2, 2a intervention near end, 3a start past 1st door, 5a start 3, 6a hollows-1, 7a 2500m-1 archie
-- **Demos:** 2a awake, 3a shaft 8f setup
+- **Demos:** 2a awake demohypers, 3a shaft 8f setup
 - **Neutrals:** 1a chasm left wall, 6a hollows
 - **Cornerkick:** 1a chasm left wall, 2a intervention, 4a shrine, 7a 500m, 3000m
 
