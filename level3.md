@@ -5,10 +5,11 @@ Level 3 rounds out most of the RTA-viable speed tech that most speedrunners will
 #### Extension timing  
 Perhaps the true bread and butter of Celeste speed tech. If you have to pick one arbitrary rhythm/timing in this game to memorize for speedrunning, it is this timing. Mastery of the reverse super from Level 2 should have built the dash-to-jump timing into muscle memory that we now utilize more broadly.
 
-#### Ultras, cbs, demos, neutrals, cornerkicks  
+#### Ultras, CBs, demos, neutrals, cornerkicks  
 Some scary words for beginners but none of these are actually difficult if you know extension timing. We are just starting to implement some setups to use these where they are most friendly to being consistent.
 
 - **Ultras:** 2a start, awake, 3a hub1, boxes1, 4a start, 2nd block ultra 5a depths-1
+- **Cornerboosts:** 1a r2, 2a intervention near end, 3a start past 1st door, 5a start 3, 7a 2500m-1 archie
 - **Demos:** 2a awake, 3a shaft 8f setup
 - **Neutrals:** 1a chasm, 6a hollows
 - **Cornerkick:** 1a chasm, 2a intervention, 4a shrine, 7a 500m, 3000m
