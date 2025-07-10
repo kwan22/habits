@@ -44,6 +44,7 @@ If you updash near a wall, prefer wallbounce over climbjumping unless absolutely
 #### DashCD control  
 Awareness of DashCD and movement to intentionally avoid or retain DashCD for setups. Selection of instant hyper, hyper bhop, vs ext-hyper. Buffering dashes out of DashCD, related to grounded ultra timing. Managing DashCD from vertical transitions (canceling vertical momentum, 3a-suite cutscene delay) and developing intuition for buffering out of vertical DashCD.
 
+- 1a chasm-2, 3a start post triplat transition cancel for ext super
 - 2a start before mirror: ext hyper
 - 4a 1st block ultra
 - 5a start fast cycle
@@ -56,16 +57,16 @@ Awareness of DashCD and movement to intentionally avoid or retain DashCD for set
 #### Option-selecting movement  
 Making decisions to cover multiple possible outcomes in case something unexpected happens with movement
 
-#### Holding into the wall for wallkicks for forcemove  
+##### Holding into the wall for wallkicks for forcemove  
 - 3a start post triplat: hold left for wallkick
 - 7a 3k flag14: wallkick while holding left
 
-#### Using dash-attack leniency on wallbounces to hold toward a wall  
+##### Using dash-attack leniency on wallbounces to hold toward a wall  
 - 3a suite-1
 - 4a start final
 - 7a 500m-1
 
-#### Pressing extra buttons to cover unexpected scenarios  
+##### Pressing extra buttons to cover unexpected scenarios  
 General cornerkicks: 2 jump inputs to cover weird timing  
 Holding grab in case of missed landings  
 - 3a shaft 1st berry room ending
