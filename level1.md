@@ -1,3 +1,11 @@
+## Table of Contents
+- [Introduction](#introduction)
+- [Level 1](https://github.com/kwan22/habits/blob/main/level1.md)
+- [Level 2](https://github.com/kwan22/habits/blob/main/level2.md)
+- [Level 3](https://github.com/kwan22/habits/blob/main/level3.md)
+- [Level 4](https://github.com/kwan22/habits/blob/main/level4.md)
+- [Closing thoughts and FAQ](https://github.com/kwan22/habits/blob/main/conclusions-faq.md)
+
 ## Level 1
 
 Level 1 is meant to simulate a player that has just completed a casual playthrough of the base game and wants to immediately jump into speedrunning. They likely have collected some berries here and there, maybe found a few cassettes and blue hearts, but have not played any B-sides or Farewell. Thus, they have not been introduced to any of the game-taught speed tech and thus this level will reflect that.
