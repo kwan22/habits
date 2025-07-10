@@ -1,3 +1,11 @@
+## Table of Contents
+- [Introduction](#introduction)
+- [Level 1](https://github.com/kwan22/habits/blob/main/level1.md)
+- [Level 2](https://github.com/kwan22/habits/blob/main/level2.md)
+- [Level 3](https://github.com/kwan22/habits/blob/main/level3.md)
+- [Level 4](https://github.com/kwan22/habits/blob/main/level4.md)
+- [Closing thoughts and FAQ](https://github.com/kwan22/habits/blob/main/conclusions-faq.md)
+
 ## Closing Thoughts
 
 Habits cap out as we approach higher levels of gameplay. In chess, a lot of the higher level learning becomes learning when to break the habits. My opinion is that in Celeste, further learning becomes paying attention to increasingly granular levels of detail, and trying to rely only on the fundamentals becomes limited.
