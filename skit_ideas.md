@@ -2,6 +2,7 @@
 ## Some Skit Ideas for Fun
 
 - 2 jump button demonstration and try using SirNewt 27 any% example (3a shaft-1), get bamboozled
+- Hypering in awake-1 (game checkpoint) and pretending like it's good because hyper = fast surely
 - Oshiro final: struggle with differences in entry vs death cycle at lv 2, attempt to learn a death cycle, brain blast trying to do death cycle on entry, decide to revert to level 1
 - "Statistical anomaly" get owned by oshiro freezeframe in suite-4 trying to hyper bhop in lv 2 or 3, revisit in lv4 about optimizing dash to the coin
 - Paid chatter asking about 5b, 6b, no demo weirdge
