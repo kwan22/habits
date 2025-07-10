@@ -6,6 +6,11 @@ Level 2 is meant to simulate a player that has likely already dabbled in speedru
 This includes supers, hypers, wallbounces, and wavedashes. I specify wavedash here as it is taught in Farewell, while extended hypers are not. A small but key distinction: we will not know the timing for extensions.  
 The one and only exception to this will be the reverse super in Search. This will be our launching pad to learn extension timing in the future.
 
+*Show some example rooms where tech is useful and easy to implement*
+1a crossing 6
+2a awake: meme about hypering in awake actual checkpoint room
+
+
 #### Basic entity tech  
 This includes dream jumps, fastbubbling, using bubbles as dashes, archie, and setups for liftboost in ways not seen in Level 1 (think of block hyper in Shrine).
 
