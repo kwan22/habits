@@ -43,7 +43,7 @@ If you updash near a wall, prefer wallbounce over climbjumping unless absolutely
 #### DashCD control  
 Awareness of DashCD and movement to intentionally avoid or retain DashCD for setups. Selection of instant hyper, hyper bhop, vs ext-hyper. Buffering dashes out of DashCD, related to grounded ultra timing. Managing DashCD from vertical transitions (canceling vertical momentum, 3a-suite cutscene delay) and developing intuition for buffering out of vertical DashCD.
 
-- 1a chasm-2, 3a start post triplat transition cancel for ext super
+- 1a chasm-2, 3a start post triplat transition cj for ext super
 - 2a start before mirror: ext hyper
 - 4a 1st block ultra
 - 5a start fast cycle
