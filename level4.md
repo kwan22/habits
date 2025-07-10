@@ -5,21 +5,21 @@ Level 4 begins a deeper dive into some of the fundamentals of movement as well a
 #### Conscious of bottlenecks  
 A general understanding of what bottlenecks are. This is usually divided between resolving a horizontal vs vertical bottleneck, but can also be dictated by other factors such as activating a block. Awareness and some principles to reducing airtime are included. The goal is to be conscious of these: some are difficult to greed and optimize well and may compromise consistency, but having awareness of these provides us with guidance on what the limits are.
 
-#### Selecting super or hyper for more vertical vs horizontal  
+##### Selecting super or hyper for more vertical vs horizontal  
 - Crossing 6
 - 3a start post triplat
 
-#### Wallkick/wallbouncing timing for vertical vs horizontal movement  
+##### Wallkick/wallbouncing timing for vertical vs horizontal movement  
 - *Vertical:* 1a chasm2 ending, 2a start ending, 3a boxes final, 5b start final  
 - *Horizontal:* 1a start 5, chasm left wall, 4a start (updemo), 3a towels final, 7a 1000m transition wallbounces
 
-#### Minimizing needing to re-accelerate in the bottlenecked direction  
+##### Minimizing needing to re-accelerate in the bottlenecked direction  
 - 1a crossing-7: late dash to first zipper
 - 2a intervention near top: transition hyper to avoid colliding w/ jumpthru
 - 3a shaft entering demo room: instant hyper and hold jump
 - 5b depths first button: upright demo to avoid bonk to land earlier
 
-#### Getting crumble blocks to disappear with a wave/ext hyper  
+##### Getting crumble blocks to disappear with a wave/ext hyper  
 - 2a intervention
 - 5b cc pre spikejump
 - 7a 0m 2crystal room: bkgd tile border for updash cue
