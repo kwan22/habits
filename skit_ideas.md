@@ -6,6 +6,7 @@
 - Oshiro,seekers - parallel to red dot at level 1&2
 - Oshiro final: struggle with differences in entry vs death cycle at lv 2, attempt to learn a death cycle, brain blast trying to do death cycle on entry, decide to revert to level 1
 - "Statistical anomaly" get owned by roof tile clip and oshiro freezeframe in suite-4 in lv 2 or 3, revisit in lv4 about optimizing dash to the coin
+- Get owned by game-forced hypers/supers (6a rb trying to hyper while crouched in coyote becomes a super, downleft to crumble buffered super becomes a hyper)
 - Paid chatter asking about 5b, 6b, no demo weirdge, other strat backseaters
 - Using search skip "spacing" as a way to learn "extension timing" that is technically incorrect but parallels wavedash.ppt in Farewell
 - Insist on ultras being easy to perform in a vacuum with good binds (lv 2 habits!!), criticize using face buttons only, share personal story of how both hand health and controller longevity improved dramatically when I switched to independent dash and jump binds
