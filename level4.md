@@ -46,6 +46,7 @@ Awareness of DashCD and movement to intentionally avoid or retain DashCD for set
 
 - 2a start before mirror: ext hyper
 - 4a 1st block ultra
+- 5a start fast cycle
 - 5b pillarful: ext hyper
 - 6a hollows kevin slide
 - 7a 1500m entering 1-coin room
