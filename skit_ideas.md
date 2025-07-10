@@ -3,8 +3,9 @@
 
 - 2 jump button demonstration and try using SirNewt 27 any% example (3a shaft-1), get bamboozled
 - Hypering in awake-1 (game checkpoint) and pretending like it's good because hyper = fast surely
+- Oshiro,seekers - red dot at level 1
 - Oshiro final: struggle with differences in entry vs death cycle at lv 2, attempt to learn a death cycle, brain blast trying to do death cycle on entry, decide to revert to level 1
-- "Statistical anomaly" get owned by oshiro freezeframe in suite-4 trying to hyper bhop in lv 2 or 3, revisit in lv4 about optimizing dash to the coin
+- "Statistical anomaly" get owned by roof tile clip and oshiro freezeframe in suite-4 in lv 2 or 3, revisit in lv4 about optimizing dash to the coin
 - Paid chatter asking about 5b, 6b, no demo weirdge
 - Trying to instant hyper and pressing jump-dash instead of dash-jump, learning to apply sensitivity analysis (naively believe pressing jump+dash together results in super, find it doesn't always work, try perturbing timings and see what happens)
 - Insist on ultras being easy to perform in a vacuum with good binds (lv 2 habits!!), criticize using face buttons only, share personal story of how both hand health and controller longevity improved dramatically when I switched to independent dash and jump binds
