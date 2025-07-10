@@ -25,7 +25,7 @@ Note that "getting the fastest time we can" or anything along those lines is **n
 All levels of the habits will follow two global rules:
 
 ### 1. Basic setups  
-**Basic setups** refer to a setup that is simple to understand and easy to replicate at the corresponding level. The specifics of a setup can range from a broad action such as "wait for Oshiro to pass" or a more refined detail such as "line up on this corner." Niche setups that require specific knowledge that has no direct application anywhere else are avoided (e.g., 4a cpop). Whether these niche strats are good or not is irrelevant if they are not instructive to the fundamental principles we are trying to learn.
+**Basic setups** refer to a setup that is simple to understand and easy to replicate at the corresponding level. The specifics of a setup can range from a broad action such as "wait for Oshiro to pass" or a more refined detail such as "line up on this corner." Niche setups that require specific knowledge that has no direct application anywhere else are avoided (e.g., 4a cpop). Whether these niche strats are good or not is irrelevant if they are not instructive to the fundamental principles we are trying to master.
 
 Non-basic setups would include strats with pixel lineups, egregiously long movement sequences, long pause-buffer setups requiring memorizing specifc pixels or frames, invisible details like avoiding half-grav on 4a cpop setup, 2fs in general, etc. 
 
