@@ -13,8 +13,12 @@ This primarily focuses on Oshiro, snowballs, and seekers. The plan here is to be
 #### Plan for every room  
 One of the staples of Celeste speedrunning advice for beginners. Every action should be done with intent, and learning is done by repetition. At level 1, this will be generally more vague, such as "reach this platform," "grab this wall," or "wait for Oshiro to pass," etc. As the levels rise, these become more detailed and nuanced.
 
+*Present example strats of some rooms, e.g. 2a badeline final, 3a suite final, 4a cliff face last snowball, 5a unraveling final, rescue 2 seeker room, last seeker*
+
 #### Ignore statistical anomalies  
 The "statistical anomaly": taken from the chess series, this refers to a problem that suddenly arises. We will follow the same approach: if a strat breaks once during a run, we will chalk it up to a statistical anomaly. If we start chronically missing execution, we will perform a deeper investigation and re-evaluate our strat selection.
 
 #### Useful things-to-know  
-These include miscellaneous details about game mechanics that require no technical expertise and are easy to save time with. This includes skipping cutscenes, confirming deaths, transitions refilling dashes, and retrying with keys.
+These include miscellaneous details about game mechanics that require no technical precision and are easy to save time with. This includes skipping cutscenes, confirming deaths, transitions refilling dashes, and retrying with keys.
+
+*transitions refill dashes used in 3a start 1st key and easy path for 2k top route*
