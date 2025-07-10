@@ -1,6 +1,6 @@
 # Building Habits: Improving on the Fundamentals of Celeste Speedrunning
 
-*insert banner of 7a ending cutscene*
+banner ideas 7a ending cutscene, various ways to for shrine block strats*
 
 ## Table of Contents
 - [Introduction](#introduction)
