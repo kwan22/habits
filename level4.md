@@ -24,8 +24,10 @@ A general understanding of what bottlenecks are. This is usually divided between
 ##### Minimizing speed bumps in the bottlenecked direction  
 - 1a crossing-7: late dash to first zipper
 - 2a intervention near top: transition hyper to avoid colliding w/ jumpthru
-- 3a shaft entering demo room: instant hyper and hold jump to avoid bonking the ground
-- 5b depths first button: upright demo under the block be able to dash earlier, avoid bonk, and land earlier
+- 3a shaft entering demo room: instant hyper and hold jump until transition to avoid bonking the ground
+- 5a depths 2nd button: upright demo under the block be able to dash earlier, avoid bonk, and land earlier
+- 7a 1500m between long rooms: transition neutral hyper
+- 7a 1500m exiting dog room: instant super and release jump
 
 ##### Activating entities asap (zippers, swapblocks, crumbles)
 - in general, can only grab while moving downwards to activate blocks (e.g. 4a trail pre 2nd blockless, 500m coin exit, 7a 2k vertical)
@@ -75,7 +77,7 @@ Making decisions to cover multiple possible outcomes to reduce risk at little/no
 
 ##### Pressing extra buttons to cover unexpected scenarios  
 General cornerkicks: 2 jump inputs to cover weird timing  
-Holding grab in case of missed landings  
+Holding grab to cover aggressive movement, e.g. missed clean landing, missed wave on a corner
 - 3a shaft 1st berry room ending
 - 7a 2000m pre-orb
 
