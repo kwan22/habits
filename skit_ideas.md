@@ -13,3 +13,15 @@
 - Using search skip "spacing" as a way to learn "extension timing" that is technically incorrect but parallels wavedash.ppt in Farewell
 - Insist on ultras being easy to perform in a vacuum with good binds (lv 2 habits!!), criticize using face buttons only, share personal story of how both hand health and controller longevity improved dramatically when I switched to independent dash and jump binds
 - 5b cc final updash: pretend to use flawed logic to setup 5f window (like apparent RPM but is actually a strong move), discuss how habits can't cover higher levels of learning with weird niche setups
+
+## Clips from Chessbrah building habits
+
+- [First time seeing scholar's mate](https://youtu.be/K82MVHQjmZ4?si=mXKQlYyeVG5gDUg-&t=117)
+- [Intro to red dot](https://youtu.be/K82MVHQjmZ4?si=AchsHCyqKnHZkPJN&t=1717)
+- [Observation of anti-habits kingside pawn push but not worrying about it at level 1](https://youtu.be/K82MVHQjmZ4?si=UeuZ29VV1KBHZ2zQ&t=1879)
+- [No longer blindly developing bishop, learning from previous games to adjust to not get pawn forked](https://youtu.be/K82MVHQjmZ4?si=5IcRZCa2-rvSDZ-N&t=1961)
+- ["Why are you trading pieces when you're down material? game at Lv 1 that wins the endgame](https://youtu.be/K82MVHQjmZ4?si=IpVoX1hOJ76fUG0T&t=2834)
+- [Diagnosing fried liver, keep it simple instead of going into anti-fried liver theory](https://youtu.be/K82MVHQjmZ4?si=C-91wppXCeCL2gWd&t=2995)
+- [Gradually learning to play 'anti-habits moves' (knight away from the center) to deal with niche situations (Bxh6 sac)](https://youtu.be/nVimLD6wMUw?si=-pjFvQhtRjoYUzgH&t=1262)
+- [Need to practice tactics before learning how to use them](https://youtu.be/nVimLD6wMUw?si=nTwrvXfBbsFILcKM&t=3175)
+- 
