@@ -29,7 +29,7 @@ A collection of moments I thought were both entertaining and instructive that in
 - [It's ok to miss tactics, focus on high-percentage moves when building fundamentals](https://youtu.be/tKXDFThCqTs?si=gR_lIEpsnhii3a4J&t=2133): it might feel bad to miss a tactic because you stuck to the habits, but you're not realizing the number of bad moves you're avoiding thanks to the habits.
 - [NEVER RESIGN](https://youtu.be/tKXDFThCqTs?si=5YXbJHAIfn6tRKt5&t=2436) (800 elo down a piece)
 - [Chat backseaters misunderstanding the series](https://youtu.be/tKXDFThCqTs?si=q9Uvedl3fxGqRIvV&t=2939): no need to sweat trying to find the best move every single turn (also check 51:10).
-- [Statistical anomaly turning into a recurring pattern](https://youtu.be/Roo2r_1zLP4?si=l_hEioFk5-Ac9UfB&t=241): coordinated kingside attack usually invovling B+Q.
+- [Statistical anomaly turning into a recurring pattern](https://youtu.be/Roo2r_1zLP4?si=l_hEioFk5-Ac9UfB&t=241): coordinated kingside attack usually involving B+Q.
 - [Backseaters finding a fork gone wrong](https://youtu.be/Roo2r_1zLP4?si=yd7Kxb3tsJ-Ox70N&t=914)
 - [Opponent resigns when losing a pawn??](https://youtu.be/Roo2r_1zLP4?si=fX0h0nqwdmnXLiZ-&t=1061) Like resetting in city.
 - [Being petty about being forced to make a good move](https://youtu.be/Roo2r_1zLP4?si=VBm3GBQlx0y5zasV&t=1168) like being annoyed by backseaters even though they are suggesting good advice.
