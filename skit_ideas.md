@@ -16,6 +16,8 @@
 
 ## Clips from Chessbrah building habits
 
+A collection of moments I thought were both entertaining and instructive that inspired me to develop this series for Celeste and I thought would have parallels to building Celeste fundamentals.
+
 - [First time seeing scholar's mate](https://youtu.be/K82MVHQjmZ4?si=mXKQlYyeVG5gDUg-&t=117)
 - [Intro to red dot](https://youtu.be/K82MVHQjmZ4?si=AchsHCyqKnHZkPJN&t=1717)
 - [Observation of anti-habits kingside pawn push but not worrying about it at level 1](https://youtu.be/K82MVHQjmZ4?si=UeuZ29VV1KBHZ2zQ&t=1879)
@@ -24,4 +26,4 @@
 - [Diagnosing fried liver, keep it simple instead of going into anti-fried liver theory](https://youtu.be/K82MVHQjmZ4?si=C-91wppXCeCL2gWd&t=2995)
 - [Gradually learning to play 'anti-habits moves' (knight away from the center) to deal with niche situations (Bxh6 sac)](https://youtu.be/nVimLD6wMUw?si=-pjFvQhtRjoYUzgH&t=1262)
 - [Need to practice tactics before learning how to use them (need to practice strats before learning them)](https://youtu.be/nVimLD6wMUw?si=nTwrvXfBbsFILcKM&t=3175)
-- 
+- [Habits playing Bc4 into Sicilian](https://youtu.be/tKXDFThCqTs?si=akXqH6UnM7Lvj89C&t=213) even though Aman has [his own video about why that's a bad move](https://www.youtube.com/watch?v=N4F0MnbxesQ), but sticking to the habits anyway to be instructive about habits principle of developing towards the center.
