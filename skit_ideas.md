@@ -1,4 +1,3 @@
-
 ## Some Skit Ideas for Fun
 
 - 2 jump button demonstration and try using SirNewt 27 any% example (3a shaft-1), get bamboozled, maybe parallel to h3 snorkel
