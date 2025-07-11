@@ -8,7 +8,7 @@
 
 ## Level 1
 
-Level 1 is meant to simulate a player that has just completed a casual playthrough of the base game and wants to immediately jump into speedrunning. They likely have collected some berries here and there, maybe found a few cassettes and blue hearts, but have not played any B-sides or Farewell. They have not been introduced to any of the game-taught speed tech and thus these rules will reflect that.
+Level 1 is meant to simulate a player that has just completed a casual playthrough of the base game and wants to immediately jump into speedrunning. They likely have collected some berries here and there, maybe found a few cassettes and blue hearts, but have not played any B-sides or Farewell. They have not been introduced to any of the game-taught speed tech and these rules will reflect that.
 
 *(graphic)*
 
