@@ -67,8 +67,7 @@ Awareness of DashCD and movement to intentionally avoid or retain DashCD for set
 Making decisions to cover multiple possible outcomes to reduce risk at little/no cost.
 
 ##### Holding into the wall for wallkicks for forcemove  
-- 3a start post triplat: hold left for wallkick
-- 7a 3k flag14: wallkick while holding left
+- 3a start post triplat, 7a 3k flag14: hold left for wallkick
 
 ##### Using dash-attack leniency on wallbounces to hold toward a wall  
 - 3a suite-1
