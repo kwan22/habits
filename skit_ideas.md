@@ -48,3 +48,4 @@ A collection of moments I thought were both entertaining and instructive that in
 - [Avoiding playing 'winning moves' (pawn fork involving pawn in front of king) b/c they overcomplicate the position, allow counterplay, and we've been burned before](https://youtu.be/U0ZIb6SlKd0?si=0gJ_VtfoOEgtg-GR&t=2541) (feels similar to going for risky 2fs to me)
 - [Rant about clueless sacs](https://youtu.be/275i0wgSWQw?si=6YQdIR03IylSmYZ-&t=1365)
 - [NEVER RESIGN](https://youtu.be/275i0wgSWQw?si=xRbJwZq6sAoCbG_9&t=2877) 1500 elo down a Q
+- [Keeping the rules simple about dodging red dot, easier to remember](https://youtu.be/fguhIJsc8rM?si=XrMJgoiFvC5-iEEg&t=554) + value of sticking to red-dot habits, esp in a winning position, than winning a rook. (Maybe some scenarios winning the rook is better, but handling red dot can't be a bad move in a winning position)
