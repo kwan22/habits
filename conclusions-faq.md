@@ -40,7 +40,10 @@ Thank you for reading and (presumably) watching the series. I hope you found thi
 *A: Barrier to entry is simply too high. A habits run of 6b would mostly look like a casual playthrough with a "try not to die" mentality.*
 
 **Q: This doesn't seem like a very efficient way of learning the speedrun. Why are we spending so much time not doing tech or learning setups?**  
-*A: Because I've seen one too many people rip out crazy strats but don't even have control of basic jump+dash+grab combos or have any basic movement fluidity. Reference Aman's Level 1 'don't even know where the pieces go' and 'look back at old games filled with tactics' clips as examples why tech isn't in level 1: you barely even know how to control Madeline, what are you doing trying to go fast.*
+*A: Depends on what you mean by efficient. Because I've seen one too many people rip out crazy strats but don't even have control of basic jump+dash+grab combos or have any basic movement fluidity. Reference Aman's Level 1 'don't even know where the pieces go' and 'look back at old games filled with tactics' clips as examples why tech isn't in level 1: you barely even know how to control Madeline, what are you doing trying to go fast.*
+
+**Q: What are the goal times for each level?** 
+*A: Doesn't matter, the goal is to develop skillsets and knowledge, not target arbitrary filetimes. The reader can have their own interpretation on what the corresponding fullgame times would be.*
 
 **Q: The goal of speedrunning is to get the fastest possible time. Why isn't this a goal of the habits?**  
 *A: Because my opinion is that speedrunning Celeste is a performing art, and the final time you get is secondary. Time of course is important when selecting strats, learning movement, and developing a plan. These are implicitly considered as we build the habits to improve our speed, consistency, and optimize movement. Once these are settled and we enter the mode of running fullgame, the focus should shift to whether we are executing our plan as intended or not. The time simply becomes a consequence of our performance at this point. Let the end time follow your personal growth, no need to chase after arbitrary filetimes.*
