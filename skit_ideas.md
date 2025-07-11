@@ -23,5 +23,5 @@
 - ["Why are you trading pieces when you're down material? game at Lv 1 that wins the endgame](https://youtu.be/K82MVHQjmZ4?si=IpVoX1hOJ76fUG0T&t=2834)
 - [Diagnosing fried liver, keep it simple instead of going into anti-fried liver theory](https://youtu.be/K82MVHQjmZ4?si=C-91wppXCeCL2gWd&t=2995)
 - [Gradually learning to play 'anti-habits moves' (knight away from the center) to deal with niche situations (Bxh6 sac)](https://youtu.be/nVimLD6wMUw?si=-pjFvQhtRjoYUzgH&t=1262)
-- [Need to practice tactics before learning how to use them](https://youtu.be/nVimLD6wMUw?si=nTwrvXfBbsFILcKM&t=3175)
+- [Need to practice tactics before learning how to use them (need to practice strats before learning them)](https://youtu.be/nVimLD6wMUw?si=nTwrvXfBbsFILcKM&t=3175)
 - 
