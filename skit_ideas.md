@@ -27,3 +27,5 @@ A collection of moments I thought were both entertaining and instructive that in
 - [Gradually learning to play 'anti-habits moves' (knight away from the center) to deal with niche situations (Bxh6 sac)](https://youtu.be/nVimLD6wMUw?si=-pjFvQhtRjoYUzgH&t=1262)
 - [Need to practice tactics before learning how to use them (need to practice strats before learning them)](https://youtu.be/nVimLD6wMUw?si=nTwrvXfBbsFILcKM&t=3175)
 - [Habits playing Bc4 into Sicilian](https://youtu.be/tKXDFThCqTs?si=akXqH6UnM7Lvj89C&t=213) even though Aman has [his own video about why that's a bad move](https://www.youtube.com/watch?v=N4F0MnbxesQ), but sticking to the habits anyway to be instructive about habits principle of developing towards the center.
+- [It's ok to miss tactics, focus on high-percentage moves when building fundamentals](https://youtu.be/tKXDFThCqTs?si=gR_lIEpsnhii3a4J&t=2133): it might feel bad to miss a tactic because you stuck to the habits, but you're not realizing the number of bad moves you're avoiding thanks to the habits.
+- [NEVER RESIGN](https://youtu.be/tKXDFThCqTs?si=5YXbJHAIfn6tRKt5&t=2436)(800 elo down a piece)
