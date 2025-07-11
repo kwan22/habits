@@ -24,6 +24,7 @@ A general understanding of what bottlenecks are. This is usually divided between
 ##### Minimizing speed bumps in the bottlenecked direction  
 - 1a crossing-7: late dash to first zipper
 - 2a intervention near top: transition hyper to avoid colliding w/ jumpthru
+- 2a awake: hyper bhop instead of transition hyper cb (into downright hyper for 1.2x multiplier instead of demohyper)
 - 3a shaft entering demo room: instant hyper and hold jump until transition to avoid bonking the ground
 - 5a depths 2nd button: upright demo under the block be able to dash earlier, avoid bonk, and land earlier
 - 7a 1500m between long rooms: transition neutral hyper
@@ -40,8 +41,10 @@ If you updash near a wall, prefer wallbounce over climbjumping unless absolutely
 
 - 1a crossing-3, 7a 500m-2 right dash 
 - 1a chasm2 ending
+- 2a start downright for 1.2x into blockbreak
 - 2a start near-end wallbounce
 - 3a boxes final wallbounce
+- 3a suite-2 ending downright for 1.2x
 - 4a trail/cliff face wallbounces
 - 5b cc-1 cornerglide
 - 6a rb last badeline: instant hyper over ext hyper ultra
