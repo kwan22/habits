@@ -38,3 +38,9 @@ A collection of moments I thought were both entertaining and instructive that in
 - [Backseaters: "Why not Qg4?"](https://youtu.be/FFVG_LqACiU?si=lh3bYXEo0PovsWFS&t=1477), check full VOD version too
 - [Another case of opponent trying to be too fancy](https://youtu.be/FFVG_LqACiU?si=0S_z2NmmiXirU5Mx&t=2327)
 - [Opponents keep resigning before you can practice endgame checkmate pattern](https://youtu.be/FFVG_LqACiU?si=0S_z2NmmiXirU5Mx&t=2327), funny inverse parallel where in speedruns, excessive resetting often leads to insufficient lategame practice.
+- [No need to be a hero, the difference between you and your opponent at 1100 elo is not 1 pawn](https://youtu.be/M_v0of2gduY?si=1Qrcx3G4StSEXqjE&t=1025)
+- [No tactics at lv 1, focus on where the pieces belong](https://youtu.be/M_v0of2gduY?si=fXAO-Yw6b-jY9E7F&t=1403)
+- [Player that doesn't understand the fundamentals of the game](https://youtu.be/M_v0of2gduY?si=SgiE7mSvwf613OI6&t=1683)
+- [Bit about finding a tactic that doesn't actually work, mald at lv 3 habits](https://youtu.be/M_v0of2gduY?si=Qb10SOgEsToJsOcx&t=2170)
+- [Incremental improvment of understanding as the habits levels rises](https://youtu.be/buguYn2gKYM?si=K2jGivXtJd478po5&t=836) (making use of a pin)
+- [Statistical anomaly getting checkmated in the middle of the board](https://youtu.be/buguYn2gKYM?si=hvmachNkgoDwcOUv&t=1867), not worth spending time overanalyzing
