@@ -45,3 +45,4 @@ A collection of moments I thought were both entertaining and instructive that in
 - [Incremental improvment of understanding as the habits levels rises](https://youtu.be/buguYn2gKYM?si=K2jGivXtJd478po5&t=836) (making use of a pin)
 - [Statistical anomaly getting checkmated in the middle of the board](https://youtu.be/buguYn2gKYM?si=hvmachNkgoDwcOUv&t=1867), not worth spending time overanalyzing
 - [Backseaters promoting ladder mate being a "free strat" but it doesn't always work b/c of some specific situations](https://youtu.be/U0ZIb6SlKd0?si=WfixGUkujrDzeAuL&t=1973)
+- [Avoiding playing 'winning moves' (pawn fork involving pawn in front of king) b/c they overcomplicate the position, allow counterplay, and we've been burned before](https://youtu.be/U0ZIb6SlKd0?si=0gJ_VtfoOEgtg-GR&t=2541) (feels similar to going for risky 2fs to me)
