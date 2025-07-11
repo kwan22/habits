@@ -37,4 +37,4 @@ A collection of moments I thought were both entertaining and instructive that in
 - [First game of the day, don't sweat it too much](https://youtu.be/FFVG_LqACiU?si=YVvjj3lxsCqbT6QQ&t=226)
 - [Backseaters: "Why not Qg4?"](https://youtu.be/FFVG_LqACiU?si=lh3bYXEo0PovsWFS&t=1477), check full VOD version too
 - [Another case of opponent trying to be too fancy](https://youtu.be/FFVG_LqACiU?si=0S_z2NmmiXirU5Mx&t=2327)
-- [Opponents keep resigning before you can practice endgame checkmate pattern](https://youtu.be/FFVG_LqACiU?si=0S_z2NmmiXirU5Mx&t=2327), funny inverse parallel where in speedruns, excessive resetting on your own end often leads to insufficient lategame practice.
+- [Opponents keep resigning before you can practice endgame checkmate pattern](https://youtu.be/FFVG_LqACiU?si=0S_z2NmmiXirU5Mx&t=2327), funny inverse parallel where in speedruns, excessive resetting often leads to insufficient lategame practice.
