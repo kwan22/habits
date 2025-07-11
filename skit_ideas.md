@@ -33,3 +33,8 @@ A collection of moments I thought were both entertaining and instructive that in
 - [Backseaters finding a fork gone wrong](https://youtu.be/Roo2r_1zLP4?si=yd7Kxb3tsJ-Ox70N&t=914)
 - [Opponent resigns when losing a pawn??](https://youtu.be/Roo2r_1zLP4?si=fX0h0nqwdmnXLiZ-&t=1061) Like resetting in city.
 - [Being petty about being forced to make a good move](https://youtu.be/Roo2r_1zLP4?si=VBm3GBQlx0y5zasV&t=1168) like being annoyed by backseaters even though they are suggesting good advice.
+- [Opponent throwing a winning/drawn position by trying to be too fancy](https://youtu.be/Roo2r_1zLP4?si=Qa6LvCVOgUBAhm92&t=2022)
+- [First game of the day, don't sweat it too much](https://youtu.be/FFVG_LqACiU?si=YVvjj3lxsCqbT6QQ&t=226)
+- [Backseaters: "Why not Qg4?"](https://youtu.be/FFVG_LqACiU?si=lh3bYXEo0PovsWFS&t=1477), check full VOD version too
+- [Another case of opponent trying to be too fancy](https://youtu.be/FFVG_LqACiU?si=0S_z2NmmiXirU5Mx&t=2327)
+- [Opponents keep resigning before you can practice endgame checkmate pattern](https://youtu.be/FFVG_LqACiU?si=0S_z2NmmiXirU5Mx&t=2327), funny inverse parallel where in speedruns, excessive resetting on your own end often leads to insufficient lategame practice.
