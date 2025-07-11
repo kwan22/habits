@@ -47,3 +47,4 @@ A collection of moments I thought were both entertaining and instructive that in
 - [Backseaters promoting ladder mate being a "free strat" but it doesn't always work b/c of some specific situations](https://youtu.be/U0ZIb6SlKd0?si=WfixGUkujrDzeAuL&t=1973)
 - [Avoiding playing 'winning moves' (pawn fork involving pawn in front of king) b/c they overcomplicate the position, allow counterplay, and we've been burned before](https://youtu.be/U0ZIb6SlKd0?si=0gJ_VtfoOEgtg-GR&t=2541) (feels similar to going for risky 2fs to me)
 - [Rant about clueless sacs](https://youtu.be/275i0wgSWQw?si=6YQdIR03IylSmYZ-&t=1365)
+- [NEVER RESIGN](https://youtu.be/275i0wgSWQw?si=xRbJwZq6sAoCbG_9&t=2877) 1500 elo down a Q
