@@ -5,7 +5,7 @@
 - Lv 2 hypering for no reason in awake in a way that loses time to level 1 movement by less bonking on walls and springs, while proclaiming "we must be faster than before now that we're hypering" and then show side-by-side comparison
 - Get destroyed by towels 2+3 in lv 1 habits like Bxh3 sacs
 - Oshiro,seekers - parallel to red dot at level 1&2
-- Oshiro final: struggle with differences in entry vs death cycle at lv 2, attempt to learn a death cycle, brain blast trying to do death cycle on entry, decide to revert to level 1
+- Oshiro final and/or towels 2: struggle with differences in entry vs death cycle at lv 2, attempt to learn a death cycle, brain blast trying to do death cycle on entry, decide to revert to level 1
 - "Statistical anomaly" get owned by roof tile clip and oshiro freezeframe in suite-4 in lv 2 or 3, revisit in lv4 about optimizing dash to the coin
 - Get owned by game-forced hypers/supers (6a rb trying to hyper while crouched in coyote becomes a super, downleft to crumble buffered super becomes a hyper)
 - Lv 2 learning how to hyper based on 8c tutorial: try pressing dash and jump at the same time, get owned sometimes, perform perturbation analysis (which one to press first?), discuss how this 'sensitivity analysis' type logic can be applied for general troubleshooting. "Something isn't working, should I be pressing the button earlier or later?"
