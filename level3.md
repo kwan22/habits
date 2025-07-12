@@ -30,5 +30,5 @@ The goal is to make strats more consistent. The transition hyper and wallbounce 
 Cornercorrection is a mechanic that will be naturally used at all levels, but here we will intentionally use it to mostly emphasize that 3-tile jumps line up well for midair supers, and both 1- and 2-tile hypers line up well with midair supers (or demohypers) because of cornercorrection. Jumpthrough cornercorrection leniency is also demonstrated. This is also a place to learn the timing for dashing out of max height and not releasing jump while doing so.
 
 - **Transition tech** intro'd in level 2, too many examples to list
-- **Buffer setups:** 1a chasm spikejump, 2a intervention-1 cutscene skip, 3a spikejump, rooftop cutscenes, 4a shrine spikejump, wallbounce
+- **Buffer setups:** 1a chasm spikejump, 2a intervention-1 cutscene skip, 3a spikejump, rooftop cutscenes, 4a shrine spikejump, wallbounce, 7a 2500m boomer keyskip
 - **Cornercorrection:** 1a start-1, 2a start+awake, 3a shaft final, 3a suite final, 4a cliff face-2, 5a rescue-3, 6a resolution, 7a flag1
