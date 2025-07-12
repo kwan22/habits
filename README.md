@@ -15,12 +15,11 @@
 
 For those curious, [the chess series can be found here](https://www.youtube.com/watch?v=ibDX4ReEikQ&list=PLUjxDD7HNNThwCNW3f36RZcMxPwQIjYae). Those familiar with chess and the rules will find parallels in this series. As a casual chess enjoyer and dedicated Celeste speedrunner, I've been inspired to attempt to apply this philosophy towards Celeste speedrunning. My approach to learning is also largely rooted in learning the fundamentals first before learning to break them. In summary, the goals of the Celeste habits are to:
 
-- Master basic movement mechanics in increments
-- Develop transferable skillsets and knowledge of movement
-- Pattern recognition of common setups for consistency
-- Throttle intake of information
+- Master basic movement mechanics
+- Develop transferable skillsets and knowledge 
+- Pattern recognition of common setups
 
-Note that "getting the fastest time we can" or anything along those lines is **not** an explicit goal of the habits. The philosophy here is that fast times will naturally follow upon mastery of the fundamentals. Just like in the chess habits, there will be 4 levels of habits, starting from a complete beginner, and compounding on skills and concepts focused on in previous levels.
+Note that "getting the fastest time we can" or anything along those lines is **not** an explicit goal of the habits. The philosophy here is that fast times will naturally follow upon mastery of the fundamentals. Just like in the chess habits, there will be 4 levels of habits, starting from a complete beginner, and compounding on skills and concepts focused on in previous levels. A key focus will be on **incremental learning**, where we gradually increase our skillsets and knowledge to not overwhelm ourselves with details.
 
 All levels of the habits will follow two global rules:
 
