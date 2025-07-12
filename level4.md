@@ -22,7 +22,7 @@ A general understanding of what bottlenecks are. This is usually divided between
 - *Horizontal:* 1a start 5, chasm left wall, 3a towels final, 7a 1000m transition wallbounces
 
 ##### Minimizing speed bumps in the bottlenecked direction  
-- 1a crossing-7: late dash to first zipper
+- 1a crossing-7: instant hyper out of crossing 6, late dash to first zipper
 - 2a intervention near top: transition hyper to avoid colliding w/ jumpthru
 - 2a awake: hyper bhop instead of transition hyper cb (into downright hyper for 1.2x multiplier instead of demohyper)
 - 3a shaft entering demo room: instant hyper and hold jump until transition to avoid bonking the ground
