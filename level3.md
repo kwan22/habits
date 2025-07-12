@@ -31,4 +31,4 @@ Cornercorrection is a mechanic that will be naturally used at all levels, but he
 
 - **Transition tech** intro'd in level 2, too many examples to list
 - **Buffer setups:** 1a chasm spikejump, 2a intervention-1 cutscene skip, 3a spikejump, rooftop cutscenes, 4a shrine spikejump, wallbounce, 7a 2500m boomer keyskip
-- **Cornercorrection:** 1a start-1, 2a start+awake, 3a shaft final, 3a suite final, 4a cliff face-2, 5a rescue-3, 6a resolution, 7a flag1
+- **Dashing at/near peak height and/or cornercorrection:** 1a start-1, 2a start+awake, 3a shaft demo, 3a shaft final, 3a suite final, 4a cliff face-2, 5a rescue-3, 6a resolution, 7a flag1
