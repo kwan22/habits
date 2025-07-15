@@ -28,56 +28,68 @@ These include miscellaneous details about game mechanics that require no technic
 <details>
 <summary>2a</summary>
 The plan for the last few coins in the Badeline chase sequence is to never cross your own path.
-
-![Image of 2a route](https://github.com/kwan22/habits/blob/main/images/lv1/2a_intervention.png)
+<img src = "https://github.com/kwan22/habits/blob/main/images/lv1/2a_intervention.png" width = "480">
 </details>
 
 <details>
   <summary>3a</summary>
+  
 Transitions refill dashes!
-  
-![Image of 3a key1](https://github.com/kwan22/habits/blob/main/images/lv1/3a_key1.webp)
-  
-Introducing the "red dot": be aware of when Oshiro is about to charge and ensure you have space to dodge. Whether your strat is able to line up with the Oshiro cycles shown in the clips depends on your movement: apply the red-dot principle to whatever Oshiro cycle you end up settling upon.
+\
+<img src = "https://github.com/kwan22/habits/blob/main/images/lv1/3a_key1.webp" width = "480">
 
-![Image of Oshiro dodge 1](https://github.com/kwan22/habits/blob/main/images/lv1/3a_final_1.webp)
-![Image of Oshiro dodge 2](https://github.com/kwan22/habits/blob/main/images/lv1/3a_final_2.webp)
-![Image of Oshiro dodge 3](https://github.com/kwan22/habits/blob/main/images/lv1/3a_final_3.webp)
+Introducing the "red dot": be aware of when Oshiro is about to charge and ensure you have space to dodge. Whether your strat is able to line up with the Oshiro cycles shown in the clips depends on your movement: apply the red-dot principle to whatever Oshiro cycle you end up settling upon.
+\
+    <img src = "https://github.com/kwan22/habits/blob/main/images/lv1/3a_final_1.webp" width = "480">
+    <img src = "https://github.com/kwan22/habits/blob/main/images/lv1/3a_final_2.webp" width = "480">
+    <img src = "https://github.com/kwan22/habits/blob/main/images/lv1/3a_final_3.webp" width = "480">
+
 </details>
 
 <details>
   <summary>4a</summary>
   Generally, horizontal dashing cuts through strong wind much better than updiagonal dashes
+\
+    <img src = "https://github.com/kwan22/habits/blob/main/images/lv1/4a_snowball_4springs.webp" width = "480">
+    <img src = "https://github.com/kwan22/habits/blob/main/images/lv1/4a_snowball_final.webp" width = "480">
 
-  ![Image of snowball springs](https://github.com/kwan22/habits/blob/main/images/lv1/4a_snowball_4springs.webp)
-  ![Image of snowball final](https://github.com/kwan22/habits/blob/main/images/lv1/4a_snowball_final.webp)
 </details>
 
 <details>
   <summary>5a</summary>
-  Know the depths keyskip.
   
-  ![Image of depths keyskip route](https://github.com/kwan22/habits/blob/main/images/lv1/5a_depths_keyskip.png)
+Know the depths keyskip.
+\
+<img src = "https://github.com/kwan22/habits/blob/main/images/lv1/5a_depths_keyskip.png" width = "480">
 
-  Use seekers to hit coins for you.
-  ![Image of unraveling 1st coin](https://github.com/kwan22/habits/blob/main/images/lv1/5a_unraveling_coin1.webp)
-  ![Image of unraveling 2nd last](https://github.com/kwan22/habits/blob/main/images/lv1/5a_unraveling_2ndlast.webp)
+Use seekers to hit coins for you.
+\
+<img src = "https://github.com/kwan22/habits/blob/main/images/lv1/5a_unraveling_coin1.webp" width = "480">
+<img src = "https://github.com/kwan22/habits/blob/main/images/lv1/5a_unraveling_2ndlast.webp" width = "480"> 
 
-  Learn to feel comfortable with stunning a charging seeker. Similar to the Oshiro red-dot: seekers are much smaller and easier to jump over, so stunning them gives you several seconds of free movement. Generally try to not let seekers approach you from above: letting them approach you from below or horizontally is much more reliable in jumping on top of them.
-  ![Image of unraveling final](https://github.com/kwan22/habits/blob/main/images/lv1/5a_unraveling_final_cut.webp)
+Learn to feel comfortable with stunning a charging seeker. Similar to the Oshiro red-dot: seekers are much smaller and easier to jump over, so stunning them gives you several seconds of free movement. Generally try to not let seekers approach you from above: letting them approach you from below or horizontally is much more reliable in jumping on top of them.
+\
+<img src = "https://github.com/kwan22/habits/blob/main/images/lv1/5a_unraveling_final_cut.webp" width = "480">
 
-  Suggested route for getting search keys.
-  ![Image of search route](https://github.com/kwan22/habits/blob/main/images/lv1/5a_search_keys.png)
+Suggested route for getting search keys.
+\
+<img src = "https://github.com/kwan22/habits/blob/main/images/lv1/5a_search_keys.png" alt = "5a_search_keys" width = "480">
 
 Avoid confronting a seeker from below, even if it means approaching the seeker intentionally (cue Jojo and Star Wars memes).
-![Image of rescue no fear](https://github.com/kwan22/habits/blob/main/images/lv1/5a_rescue_nofear.webp)
+\
+<img src = "https://github.com/kwan22/habits/blob/main/images/lv1/5a_rescue_nofear.webp" alt = "5a_rescue_nofear" width = "480">
+\
+Stunning a seeker while carrying Theo is a bit trickier since you don't have the luxury of jumping high and then dashing down. A small jump just before the seeker reaches you works well when the seeker is not charging you from above.
 
 The red-dot principle still applies.
-![Image of rescue berry room cut](https://github.com/kwan22/habits/blob/main/images/lv1/5a_rescue_berryroom_cut.webp)
+\
+<img src = "https://github.com/kwan22/habits/blob/main/images/lv1/5a_rescue_berryroom_cut.webp" width = "480">
 
 No shame in sending Theo first.
-![Image of rescue 2seeker room](https://github.com/kwan22/habits/blob/main/images/lv1/5a_rescue_2seeker.webp)
+\
+<img src = "https://github.com/kwan22/habits/blob/main/images/lv1/5a_rescue_2seeker.webp" width = "480">
 
 No shame in spending some time making sure the seeker is stunned if you missed it the 1st time.
-![Image of rescue seeker final 1miss](https://github.com/kwan22/habits/blob/main/images/lv1/5a_rescue_seeker_final_1miss_cut.webp)
+\
+<img src = "https://github.com/kwan22/habits/blob/main/images/lv1/5a_rescue_seeker_final_1miss_cut.webp" width = "480">
 </details>
