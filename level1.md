@@ -69,7 +69,7 @@ Introducing the "red dot": be aware of when Oshiro is about to charge and ensure
   Suggested route for getting search keys.
   ![Image of search route](https://github.com/kwan22/habits/blob/main/images/lv1/5a_search_keys.png)
 
-Don't let seekers attack you from above, even if it means approaching the seeker intentionally (cue Jojo meme).
+Avoid confronting a seeker from below, even if it means approaching the seeker intentionally (cue Jojo and Star Wars memes).
 ![Image of rescue no fear](https://github.com/kwan22/habits/blob/main/images/lv1/5a_rescue_nofear.webp)
 
 The red-dot principle still applies.
