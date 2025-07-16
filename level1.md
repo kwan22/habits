@@ -71,7 +71,7 @@ The "red dot": be aware of when Oshiro is about to charge and ensure you have sp
   
   Avoid confronting a seeker from below, even if it means approaching the seeker intentionally (cue Jojo and Star Wars memes). <br>
   <img src = "https://github.com/kwan22/habits/blob/main/images/lv1/5a_rescue_nofear.webp" alt = "5a_rescue_nofear" width = "480"> <br>
-  Stunning a seeker while carrying Theo is a bit trickier since you don't have the luxury of jumping high and then dashing down. A small jump just before the seeker reaches you works well when the seeker is not charging you from above.
+  Stunning a seeker while carrying Theo is a bit trickier since you don't have the luxury of jumping high and then dashing down. A small jump just before the seeker reaches you works well when the seeker is not approaching you from above.
     
   The red-dot principle still applies. Seekers can charge even when they're offscreen and can quickly catch up to you while you're throwing and regrabbing Theo. <br>
 <img src = "https://github.com/kwan22/habits/blob/main/images/lv1/5a_rescue_berryroom_cut.webp" width = "480">
