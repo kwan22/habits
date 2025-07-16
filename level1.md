@@ -61,7 +61,7 @@ The "red dot": be aware of when Oshiro is about to charge and ensure you have sp
   Learn to feel comfortable with stunning a charging seeker. Similar to the Oshiro red-dot: seekers are much smaller and easier to jump over, so stunning them gives you several seconds of free movement. Generally try to not let seekers approach you from above: letting them approach you from below or horizontally is much more reliable in jumping on top of them. <br>
   <img src = "https://github.com/kwan22/habits/blob/main/images/lv1/5a_unraveling_final_cut.webp" width = "480">
 
-  Route for getting search keys that avoids the most seekers. <br>
+  Route for getting search keys that avoids the most seekers: go left after taking the red bubble into the hub and make a clockwise path. <br>
   <img src = "https://github.com/kwan22/habits/blob/main/images/lv1/5a_search_keys.png" alt = "5a_search_keys" width = "960">
 </details>
 
