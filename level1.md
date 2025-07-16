@@ -24,7 +24,7 @@ These include details about the game that require little to no technical precisi
 <details>
 <summary>2a</summary>
 
-The last Badeline room conveniently has a dev shortcut. Maneuvering under the ice block opens up another shortcut: lining up against the wall above it may be useful. <br>
+The last Badeline room conveniently has a dev shortcut. Maneuvering around the ice block opens up another shortcut: lining up against the wall above it may be useful. Be sure to not grab when passing by it. <br>
 <img src = "https://github.com/kwan22/habits/blob/main/images/lv1/2a_intervention_dev.webp" width = "480">
   
 The plan for the last few coins in the Badeline chase sequence is to never cross your own path. <br>
@@ -41,7 +41,6 @@ The "red dot": be aware of when Oshiro is about to charge and ensure you have sp
     <img src = "https://github.com/kwan22/habits/blob/main/images/lv1/3a_final_1.webp" width = "480">
     <img src = "https://github.com/kwan22/habits/blob/main/images/lv1/3a_final_2.webp" width = "480">
     <img src = "https://github.com/kwan22/habits/blob/main/images/lv1/3a_final_3.webp" width = "480">
-
 </details>
 
 <details>
@@ -49,7 +48,6 @@ The "red dot": be aware of when Oshiro is about to charge and ensure you have sp
   Generally, horizontal dashing cuts through strong wind much better than updiagonal dashes <br>
     <img src = "https://github.com/kwan22/habits/blob/main/images/lv1/4a_snowball_4springs.webp" width = "480">
     <img src = "https://github.com/kwan22/habits/blob/main/images/lv1/4a_snowball_final.webp" width = "480">
-
 </details>
 
 <details>
@@ -65,8 +63,9 @@ The "red dot": be aware of when Oshiro is about to charge and ensure you have sp
   Learn to feel comfortable with stunning a charging seeker. Similar to the Oshiro red-dot: make it a priority to deal with these before making progress. Seekers are much smaller and easier to jump over, so stunning them gives you several seconds of free movement. The easiest way to do this is to do a big jump as they approach, and then dash down onto their heads as they pass under you. <br>
   <img src = "https://github.com/kwan22/habits/blob/main/images/lv1/5a_unraveling_final_cut.webp" width = "480"><br>
 Aim for the high ground! Try to not let seekers approach you from above: letting them approach you from below or horizontally is much more reliable in jumping on top of them. <br>
-  <img src = "https://github.com/kwan22/habits/blob/main/images/lv1/high_ground.png" width = "300">
-
+  <img src = "https://github.com/kwan22/habits/blob/main/images/lv1/high_ground.png" width = "300"><br>
+  A joke, if it helps you remember.
+  
   Route for getting search keys that avoids the most seekers. <br>
   <img src = "https://github.com/kwan22/habits/blob/main/images/lv1/5a_search_keys.png" alt = "5a_search_keys" width = "960">
 </details>
@@ -108,5 +107,4 @@ In the large falling room in Reflection (the checkpoint), do not take the 2nd sh
 <summary>7a</summary>
 Take the berry route which can be easily accessed by using transitions to refill dashes. <br>
 <img src = "https://github.com/kwan22/habits/blob/main/images/lv1/7a_2k_toproute.webp" width = "480">
-  
 </details>
