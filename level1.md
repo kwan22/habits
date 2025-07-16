@@ -14,7 +14,7 @@ Level 1 is meant to simulate a player that has just completed a casual playthrou
 The goal here is to build mastery of the three fundamental actions of Celeste gameplay. Some mastery of these actions is demanded to complete the base game in the first place. Here, the goal is to solidify that mastery and prove we can consistently handle all the challenges of each room.
 
 #### Plan for every room  
-One of the staples of Celeste speedrunning advice for beginners. Every action should be done with intent, and learning is done by repetition. At level 1, this will be generally more vague, such as "reach this platform," "grab this wall," "wait for Oshiro to pass," "stun the seeker here," etc. As the levels rise, these become more detailed and nuanced.
+One of the staples of Celeste speedrunning advice for beginners. Every action should be done with intent, and learning is done by repetition. At level 1, this will be generally more vague, such as "reach this platform," "grab this wall," "wait for Oshiro to pass," "stun the seeker here," etc. As the levels rise, these become more detailed and specific.
 
 #### Useful things-to-know  
 These include details about the game that require little to no technical precision and are easy to save time with. This includes routing knowledge, skipping cutscenes, confirming deaths, transitions refilling dashes, and retrying with keys (3a shaft, 7a 2500m).
