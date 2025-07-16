@@ -10,18 +10,14 @@
 
 Level 1 is meant to simulate a player that has just completed a casual playthrough of the base game and wants to immediately jump into speedrunning. They likely have collected some berries here and there, maybe found a few cassettes and blue hearts, but have not played any B-sides or Farewell. They have not been introduced to any of the game-taught speed tech and these rules will reflect that.
 
-*(graphic)*
-
 #### No tech: jump, dash, and grab  
 The goal here is to build mastery of the three fundamental actions of Celeste gameplay. Some mastery of these actions is demanded to complete the base game in the first place. Here, the goal is to solidify that mastery and prove we can consistently handle all the challenges of each room.
 
 #### Plan for every room  
-One of the staples of Celeste speedrunning advice for beginners. Every action should be done with intent, and learning is done by repetition. At level 1, this will be generally more vague, such as "reach this platform," "grab this wall," or "wait for Oshiro to pass," etc. As the levels rise, these become more detailed and nuanced.
-
-*Present example strats of some rooms, e.g. 2a badeline final, 3a suite final, 4a cliff face last snowball, 5a unraveling final, rescue 2 seeker room, last seeker*
+One of the staples of Celeste speedrunning advice for beginners. Every action should be done with intent, and learning is done by repetition. At level 1, this will be generally more vague, such as "reach this platform," "grab this wall," "wait for Oshiro to pass," "stun the seeker here," etc. As the levels rise, these become more detailed and nuanced.
 
 #### Useful things-to-know  
-These include miscellaneous details about game mechanics that require no technical precision and are easy to save time with. This includes skipping cutscenes, confirming deaths, transitions refilling dashes (3a start 1st key, 2k top route), and retrying with keys (shaft, 2500m).
+These include miscellaneous details about game mechanics that require little to no technical precision and are easy to save time with. This includes routing knowledge, skipping cutscenes, confirming deaths, transitions refilling dashes, and retrying with keys.
 
 #### Examples
 
@@ -38,7 +34,7 @@ Transitions refill dashes!
 \
 <img src = "https://github.com/kwan22/habits/blob/main/images/lv1/3a_key1.webp" width = "480">
 
-Introducing the "red dot": be aware of when Oshiro is about to charge and ensure you have space to dodge. Whether your strat is able to line up with the Oshiro cycles shown in the clips depends on your movement: apply the red-dot principle to whatever Oshiro cycle you end up settling upon.
+The "red dot": be aware of when Oshiro is about to charge and ensure you have space to dodge. Whether your strat is able to line up with the Oshiro cycles shown in the clips depends on your movement: apply the red-dot principle to whatever Oshiro cycle you end up settling upon.
 \
     <img src = "https://github.com/kwan22/habits/blob/main/images/lv1/3a_final_1.webp" width = "480">
     <img src = "https://github.com/kwan22/habits/blob/main/images/lv1/3a_final_2.webp" width = "480">
@@ -71,7 +67,7 @@ Learn to feel comfortable with stunning a charging seeker. Similar to the Oshiro
 \
 <img src = "https://github.com/kwan22/habits/blob/main/images/lv1/5a_unraveling_final_cut.webp" width = "480">
 
-Suggested route for getting search keys.
+Route for getting search keys.
 \
 <img src = "https://github.com/kwan22/habits/blob/main/images/lv1/5a_search_keys.png" alt = "5a_search_keys" width = "480">
 
@@ -92,4 +88,27 @@ No shame in sending Theo first.
 No shame in spending some time making sure the seeker is stunned if you missed it the 1st time.
 \
 <img src = "https://github.com/kwan22/habits/blob/main/images/lv1/5a_rescue_seeker_final_1miss_cut.webp" width = "480">
+</details>
+
+<details>
+  <summary>6a</summary>
+
+  There are 6 route forks between top and bottom routes in Hollows. The 1st and last forks are relatively inconsequential (bottom for 1st fork and top for last fork are generally recommended, pick your favorite), but forks 2-5 should be prescribed.
+
+Go top on both 2nd and 3rd forks.
+\
+<img src = "https://github.com/kwan22/habits/blob/main/images/lv1/6a_hollows_2ndsplit.png" width = "480">
+<img src = "https://github.com/kwan22/habits/blob/main/images/lv1/6a_hollows_3rdsplit.png" width = "480">
+\
+Go bottom on the 4th and top on the 5th forks
+\
+<img src = "https://github.com/kwan22/habits/blob/main/images/lv1/6a_hollows_4th5thsplit.png" width = "960">
+\
+
+In the large falling room in Reflection (the checkpoint), do not take the 2nd shortcut, it skips a mid-room checkpoint (and is not fast when taking the 3rd shortcut).
+\
+<img src = "https://github.com/kwan22/habits/blob/main/images/lv1/6a_reflection_route.png" width = "480">
+
+
+  
 </details>
