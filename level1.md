@@ -21,6 +21,8 @@ These include details about the game that require little to no technical precisi
 
 #### Examples
 
+(click on any of the below to see clips, images, etc)
+
 <details>
 <summary>2a</summary>
 
