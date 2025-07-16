@@ -34,4 +34,4 @@ This includes dream jumps (2b), fastbubbling, using bubbles as dashes, archie, l
 This means having dash (or demo), 2 jump binds, and grab on keys that can all be pressed and released independently of each other. This also means we will be using the 2 jump buttons for any vertical movement. Bind a menu down-confirm bind for retry and skip cutscene.
 
 #### One cycle only  
-Retransition if possible to reset the entry cycle. The goal is to reinforce learning of the entry cycle via repetition and avoid having to learn different strats for the same room. (If re-entry is not possible, revert to level 1, reveal as part of a skit?)
+Retransition if possible to reset the entry cycle. The goal is to reinforce learning of the entry cycle via repetition and avoid having to learn different strats for the same room. (If re-entry is not possible, wait to resync or revert to level 1, reveal as part of a skit?)
