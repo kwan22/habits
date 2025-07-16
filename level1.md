@@ -60,11 +60,13 @@ The "red dot": be aware of when Oshiro is about to charge and ensure you have sp
 
   Use seekers to hit coins for you. <br>
   <img src = "https://github.com/kwan22/habits/blob/main/images/lv1/5a_unraveling_coin1.webp" width = "480">
-  <img src = "https://github.com/kwan22/habits/blob/main/images/lv1/5a_unraveling_2ndlast.webp" width = "480"> 
+  <img src = "https://github.com/kwan22/habits/blob/main/images/lv1/5a_unraveling_2ndlast.webp" width = "480"> <br>
 
   Learn to feel comfortable with stunning a charging seeker. Similar to the Oshiro red-dot: make it a priority to deal with these before making progress. Seekers are much smaller and easier to jump over, so stunning them gives you several seconds of free movement. The easiest way to do this is to do a big jump as they approach, and then dash down onto their heads as they pass under you. <br>
   <img src = "https://github.com/kwan22/habits/blob/main/images/lv1/5a_unraveling_final_cut.webp" width = "480"><br>
-Aim for the high ground! Try to not let seekers approach you from above: letting them approach you from below or horizontally is much more reliable in jumping on top of them (cue Star Wars memes)
+  Aim for the high ground! Try to not let seekers approach you from above: letting them approach you from below or horizontally is much more reliable in jumping on top of them (cue Star Wars memes).<br>
+  
+  Seekers are technically deterministic but can have wildly different behaviors with slight changes in movement. Learning to stun seekers on command allows us a few seconds of free movement and mitigates their unpredictable behavior. You may find that you need to stun seekers in different spots than the strats shown here.
   
   Route for getting search keys that avoids the most seekers. <br>
   <img src = "https://github.com/kwan22/habits/blob/main/images/lv1/5a_search_keys.png" alt = "5a_search_keys" width = "960">
@@ -74,18 +76,19 @@ Aim for the high ground! Try to not let seekers approach you from above: letting
   <summary>Rescue</summary>
   Theo is a particularly challenging mechanic and deserves its own section.
   
-  Avoid confronting a seeker from below, even if it means approaching the seeker intentionally (cue Jojo and Star Wars memes). <br>
-  <img src = "https://github.com/kwan22/habits/blob/main/images/lv1/5a_rescue_nofear.webp" alt = "5a_rescue_nofear" width = "480"> <br>
-  Stunning a seeker while carrying Theo is a bit trickier since you don't have the luxury of jumping high and then dashing down. A small jump just before the seeker reaches you works well when the seeker is not approaching you from above.
-    
-  The red-dot principle still applies. Seekers can charge even when they're offscreen and can quickly catch up to you while you're throwing and regrabbing Theo. <br>
-<img src = "https://github.com/kwan22/habits/blob/main/images/lv1/5a_rescue_berryroom_cut.webp" width = "480">
+  As mentioned earlier in the 5a section, seekers are easier to deal with if you're not below them. <br>
+  <img src = "https://github.com/kwan22/habits/blob/main/images/lv1/5a_rescue_nofear_slow.webp" alt = "5a_rescue_nofear" width = "480"> <br>
+  The red-dot principle still applies. Seekers can charge even when they're offscreen and can quickly catch up to you while you're throwing and regrabbing Theo. 
+
+  Stunning a seeker while carrying Theo is a bit trickier since you can't dash while holding Theo. Handle the seeker and Theo separately, stunning the seeker where you can. A common tactic is to jump over the seeker, throw Theo forward, and then stun the seeker using the jump+downdash method. <br>
+<img src = "https://github.com/kwan22/habits/blob/main/images/lv1/5a_rescue_berryroom_slow1.webp" width = "480">
+<img src = "https://github.com/kwan22/habits/blob/main/images/lv1/5a_rescue_berryroom_slow2.webp" width = "480">
 
   No shame in sending Theo down the swap block first, but we can make this in 1 trip by doing a "dash, grab, and jump" combo instead of the usual "jump, dash, and grab". <br>
   <img src = "https://github.com/kwan22/habits/blob/main/images/lv1/5a_rescue_2seeker_fast.webp" width = "480">
 
-  Stick to the plan: make sure the seeker is stunned if you tried but missed it. <br>
-  <img src = "https://github.com/kwan22/habits/blob/main/images/lv1/5a_rescue_seeker_final_1miss_cut.webp" width = "480">
+  Stick to the plan: make sure the seeker is stunned if you tried but missed it. Your plan should be movement you are familiar with and practiced in so you don't need to improvise. By stunning this last seeker early in the room, we can play the rest of the room without the seeker. <br>
+  <img src = "https://github.com/kwan22/habits/blob/main/images/lv1/5a_rescue_seeker_final_1miss_slow.webp" width = "480">
 </details>
 
 <details>
@@ -98,9 +101,6 @@ Go top on both 2nd and 3rd forks. <br>
 <img src = "https://github.com/kwan22/habits/blob/main/images/lv1/6a_hollows_3rdsplit.png" width = "480"> <br>
 Go bottom on the 4th and top on the 5th forks. <br>
 <img src = "https://github.com/kwan22/habits/blob/main/images/lv1/6a_hollows_4th5thsplit.png" width = "960">
-
-In the large falling room in Reflection (the checkpoint), do not take the 2nd shortcut, it skips a mid-room checkpoint (and is not fast when taking the 3rd shortcut). <br>
-<img src = "https://github.com/kwan22/habits/blob/main/images/lv1/6a_reflection_route.png" width = "480">
 
 </details>
 <details>
