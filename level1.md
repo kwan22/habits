@@ -62,9 +62,7 @@ The "red dot": be aware of when Oshiro is about to charge and ensure you have sp
 
   Learn to feel comfortable with stunning a charging seeker. Similar to the Oshiro red-dot: make it a priority to deal with these before making progress. Seekers are much smaller and easier to jump over, so stunning them gives you several seconds of free movement. The easiest way to do this is to do a big jump as they approach, and then dash down onto their heads as they pass under you. <br>
   <img src = "https://github.com/kwan22/habits/blob/main/images/lv1/5a_unraveling_final_cut.webp" width = "480"><br>
-Aim for the high ground! Try to not let seekers approach you from above: letting them approach you from below or horizontally is much more reliable in jumping on top of them. <br>
-  <img src = "https://github.com/kwan22/habits/blob/main/images/lv1/high_ground.png" width = "300"><br>
-  A joke, if it helps you remember.
+Aim for the high ground! Try to not let seekers approach you from above: letting them approach you from below or horizontally is much more reliable in jumping on top of them (cue Star Wars memes)
   
   Route for getting search keys that avoids the most seekers. <br>
   <img src = "https://github.com/kwan22/habits/blob/main/images/lv1/5a_search_keys.png" alt = "5a_search_keys" width = "960">
