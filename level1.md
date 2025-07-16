@@ -24,7 +24,7 @@ These include details about the game that require little to no technical precisi
 <details>
 <summary>2a</summary>
 
-The last Badeline room conveniently has a dev shortcut. Maneuvering around the ice block opens up another shortcut: lining up against the wall above it may be useful. Be sure to not grab when passing by it. <br>
+The last Badeline room conveniently has a dev shortcut. Jump off the crumble block to make it disappear faster. Maneuvering around the ice block opens up another shortcut: lining up against the wall above it may be useful. Be sure to not grab when passing by it. <br>
 <img src = "https://github.com/kwan22/habits/blob/main/images/lv1/2a_intervention_dev.webp" width = "480">
   
 The plan for the last few coins in the Badeline chase sequence is to never cross your own path. <br>
