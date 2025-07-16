@@ -50,7 +50,7 @@ Retransition if possible to reset the entry cycle. The goal is to reinforce lear
 <details>
   <summary>Supers</summary>
 
-  Without having fully learned extension timing and only following the advice of wavedash.ppt, supers have limited use. As extension timing will become an integral part of the speedrunning journey, we will instead use Search skip to provide visual guidance on learning extension timing. <br>
+  Without having fully learned extension timing and only following the advice of wavedash.ppt, supers have limited use. As extension timing will become an integral part at higher levels of gameplay, we will instead use Search skip to provide visual guidance on learning extension timing. <br>
     <img src="https://github.com/kwan22/habits/blob/main/images/lv2/5a_search_skip.webp" width="480"/> <br>
     We can learn extension timing by lining up on the left wall, dashing right, and waiting until we hit the right wall before turning around and jumping for Search skip reverse super. This is about as accurate as wavedash.ppt is at teaching wavedashes, i.e. technically incorrect but sufficient for our purposes. The goal here is to provide a single, isolated case to practice extension (and reverse) timings, with a simple visual cue to guide the arbitrary timing. 
 </details>
@@ -61,6 +61,8 @@ Retransition if possible to reset the entry cycle. The goal is to reinforce lear
   Begin to apply active movement to simplify some rooms, commonly by hypering near transition into the next room.<br>
   <img src="https://github.com/kwan22/habits/blob/main/images/lv2/3a_towels_2,3.webp" width="480"/>
   <img src="https://github.com/kwan22/habits/blob/main/images/lv2/3a_suite_3,4.webp" width="480"/>
+  <img src="https://github.com/kwan22/habits/blob/main/images/lv2/5a_start_2,3.webp" width="480"/>
+  <img src="https://github.com/kwan22/habits/blob/main/images/lv2/7a_2500m_wave.webp" width="480"/>
 
   While the notion of active movement is still in its early stages, we still must abide by the red-dot principle at all times.
   <img src="https://github.com/kwan22/habits/blob/main/images/lv2/3a_suite_final_cut.webp" width="480"/>
