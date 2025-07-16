@@ -61,7 +61,7 @@ Retransition if possible to reset the entry cycle. The goal is to reinforce lear
   Begin to apply active movement to simplify some rooms, commonly by hypering near transition into the next room.<br>
   <img src="https://github.com/kwan22/habits/blob/main/images/lv2/3a_towels_2,3.webp" width="480"/>
   <img src="https://github.com/kwan22/habits/blob/main/images/lv2/3a_suite_3,4.webp" width="480"/>
-  <img src="https://github.com/kwan22/habits/blob/main/images/lv2/5a_start_2,3.webp" width="480"/>
+  <img src="https://github.com/kwan22/habits/blob/main/images/lv2/4a_face_snowball1.webp" width="480"/>
   <img src="https://github.com/kwan22/habits/blob/main/images/lv2/7a_2500m_wave.webp" width="480"/>
 
   While the notion of active movement is still in its early stages, we still must abide by the red-dot principle at all times.
