@@ -10,8 +10,8 @@
 
 Level 2 is meant to simulate a player that has likely already dabbled in speedrunning Celeste and wants to take it more seriously. Perhaps they have completed all the chapters or even 100%'d the game. Here, we nominally unleash the basic speed tech taught in the game. Use of speedrun tool is recommended.
 
-#### Basic dash tech  
-This includes supers, hypers, wallbounces, and wavedashes. I specify wavedash here as it is taught in Farewell, while extended hypers are not. A small but key distinction: we will not know the timing for extensions. The one and only exception to this will be the reverse super in Search. This will be our launching pad to learn extension timing in the future.
+#### Basic tech
+This includes supers, hypers, wallbounces, and wavedashes. I specify wavedash here as it is taught in Farewell, while extended hypers are not. A small but key distinction: we will not strictly know the timing for extensions. The one and only exception to this will be the reverse super in Search. This will be our launching pad to learn extension timing in the future.
 
 *Show some example rooms where basic tech is easy to implement and provides large returns*
 
@@ -27,11 +27,17 @@ This includes supers, hypers, wallbounces, and wavedashes. I specify wavedash he
 
 *Introduction to active movement in towels-2, using hyper before/on transition to trivialize the cycle*
 
-#### Basic entity tech and game mechanics
-This includes dream jumps (2b), fastbubbling, using bubbles as dashes, archie, liftboosted tech (hollows 2 hyper, hollows 3 wallbounce).
-
 #### Good, ergonomic binds  
 This means having dash (or demo), 2 jump binds, and grab on keys that can all be pressed and released independently of each other. This also means we will be using the 2 jump buttons for any vertical movement. Bind a menu down-confirm bind for retry and skip cutscene.
 
 #### One cycle only  
 Retransition if possible to reset the entry cycle. The goal is to reinforce learning of the entry cycle via repetition and avoid having to learn different strats for the same room. (If re-entry is not possible, wait to resync or revert to level 1, reveal as part of a skit?)
+
+#### Examples
+
+<details>
+  <summary>Supers, hypers, and wavedashes</summary>
+  Some examples of where basic speed tech is easy to implement and provides large returns on timesave.
+   <img src="https://github.com/koralreeef/cuedump-anypercent/blob/main/images/2start4.webp" width="384" height="216"/>
+  
+</details>
