@@ -13,8 +13,6 @@ Level 2 is meant to simulate a player that has likely already dabbled in speedru
 #### Basic tech
 This includes supers, hypers, wallbounces, and wavedashes. I specify wavedash here as it is taught in Farewell, while extended hypers are not. A small but key distinction: we will not strictly know the timing for extensions. The one and only exception to this will be the reverse super in Search. This will be our launching pad to learn extension timing in the future.
 
-*Introduction to active movement in towels-2, using hyper before/on transition to trivialize the cycle*
-
 #### Introduction to active movement
 With hyper-speed unlocked, we can simplify some rooms using active movement. For now, active movement means being aware of the what next room is when exiting the current room, and consciously performing movement into that room.
 
