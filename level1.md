@@ -17,25 +17,23 @@ The goal here is to build mastery of the three fundamental actions of Celeste ga
 One of the staples of Celeste speedrunning advice for beginners. Every action should be done with intent, and learning is done by repetition. At level 1, this will be generally more vague, such as "reach this platform," "grab this wall," "wait for Oshiro to pass," "stun the seeker here," etc. As the levels rise, these become more detailed and nuanced.
 
 #### Useful things-to-know  
-These include miscellaneous details about game mechanics that require little to no technical precision and are easy to save time with. This includes routing knowledge, skipping cutscenes, confirming deaths, transitions refilling dashes, and retrying with keys.
+These include details about the game that require little to no technical precision and are easy to save time with. This includes routing knowledge, skipping cutscenes, confirming deaths, transitions refilling dashes, and retrying with keys (3a shaft, 7a 2500m).
 
 #### Examples
 
 <details>
 <summary>2a</summary>
-The plan for the last few coins in the Badeline chase sequence is to never cross your own path.
+The plan for the last few coins in the Badeline chase sequence is to never cross your own path. <br>
 <img src = "https://github.com/kwan22/habits/blob/main/images/lv1/2a_intervention.png" width = "480">
 </details>
 
 <details>
   <summary>3a</summary>
   
-Transitions refill dashes!
-\
+Transitions refill dashes! <br>
 <img src = "https://github.com/kwan22/habits/blob/main/images/lv1/3a_key1.webp" width = "480">
 
-The "red dot": be aware of when Oshiro is about to charge and ensure you have space to dodge. Whether your strat is able to line up with the Oshiro cycles shown in the clips depends on your movement: apply the red-dot principle to whatever Oshiro cycle you end up settling upon.
-\
+The "red dot": be aware of when Oshiro is about to charge and ensure you have space to dodge. Whether your strat is able to line up with the Oshiro cycles shown in the clips depends on your movement: apply the red-dot principle to whatever Oshiro cycle you end up settling upon. <br>
     <img src = "https://github.com/kwan22/habits/blob/main/images/lv1/3a_final_1.webp" width = "480">
     <img src = "https://github.com/kwan22/habits/blob/main/images/lv1/3a_final_2.webp" width = "480">
     <img src = "https://github.com/kwan22/habits/blob/main/images/lv1/3a_final_3.webp" width = "480">
@@ -44,8 +42,7 @@ The "red dot": be aware of when Oshiro is about to charge and ensure you have sp
 
 <details>
   <summary>4a</summary>
-  Generally, horizontal dashing cuts through strong wind much better than updiagonal dashes
-\
+  Generally, horizontal dashing cuts through strong wind much better than updiagonal dashes <br>
     <img src = "https://github.com/kwan22/habits/blob/main/images/lv1/4a_snowball_4springs.webp" width = "480">
     <img src = "https://github.com/kwan22/habits/blob/main/images/lv1/4a_snowball_final.webp" width = "480">
 
@@ -53,41 +50,37 @@ The "red dot": be aware of when Oshiro is about to charge and ensure you have sp
 
 <details>
   <summary>5a</summary>
+    
+  Know the depths keyskip. <br>
+  <img src = "https://github.com/kwan22/habits/blob/main/images/lv1/5a_depths_keyskip.png" width = "480">
+
+  Use seekers to hit coins for you. <br>
+  <img src = "https://github.com/kwan22/habits/blob/main/images/lv1/5a_unraveling_coin1.webp" width = "480">
+  <img src = "https://github.com/kwan22/habits/blob/main/images/lv1/5a_unraveling_2ndlast.webp" width = "480"> 
+
+  Learn to feel comfortable with stunning a charging seeker. Similar to the Oshiro red-dot: seekers are much smaller and easier to jump over, so stunning them gives you several seconds of free movement. Generally try to not let seekers approach you from above: letting them approach you from below or horizontally is much more reliable in jumping on top of them. <br>
+  <img src = "https://github.com/kwan22/habits/blob/main/images/lv1/5a_unraveling_final_cut.webp" width = "480">
+
+  Route for getting search keys that avoids all seekers. <br>
+  <img src = "https://github.com/kwan22/habits/blob/main/images/lv1/5a_search_keys.png" alt = "5a_search_keys" width = "960">
+</details>
+
+<details>
+  <summary>Rescue</summary>
+  Theo is a particularly challenging mechanic and deserves its own section.
   
-Know the depths keyskip.
-\
-<img src = "https://github.com/kwan22/habits/blob/main/images/lv1/5a_depths_keyskip.png" width = "480">
-
-Use seekers to hit coins for you.
-\
-<img src = "https://github.com/kwan22/habits/blob/main/images/lv1/5a_unraveling_coin1.webp" width = "480">
-<img src = "https://github.com/kwan22/habits/blob/main/images/lv1/5a_unraveling_2ndlast.webp" width = "480"> 
-
-Learn to feel comfortable with stunning a charging seeker. Similar to the Oshiro red-dot: seekers are much smaller and easier to jump over, so stunning them gives you several seconds of free movement. Generally try to not let seekers approach you from above: letting them approach you from below or horizontally is much more reliable in jumping on top of them.
-\
-<img src = "https://github.com/kwan22/habits/blob/main/images/lv1/5a_unraveling_final_cut.webp" width = "480">
-
-Route for getting search keys.
-\
-<img src = "https://github.com/kwan22/habits/blob/main/images/lv1/5a_search_keys.png" alt = "5a_search_keys" width = "480">
-
-Avoid confronting a seeker from below, even if it means approaching the seeker intentionally (cue Jojo and Star Wars memes).
-\
-<img src = "https://github.com/kwan22/habits/blob/main/images/lv1/5a_rescue_nofear.webp" alt = "5a_rescue_nofear" width = "480">
-\
-Stunning a seeker while carrying Theo is a bit trickier since you don't have the luxury of jumping high and then dashing down. A small jump just before the seeker reaches you works well when the seeker is not charging you from above.
-
-The red-dot principle still applies.
-\
+  Avoid confronting a seeker from below, even if it means approaching the seeker intentionally (cue Jojo and Star Wars memes). <br>
+  <img src = "https://github.com/kwan22/habits/blob/main/images/lv1/5a_rescue_nofear.webp" alt = "5a_rescue_nofear" width = "480"> <br>
+  Stunning a seeker while carrying Theo is a bit trickier since you don't have the luxury of jumping high and then dashing down. A small jump just before the seeker reaches you works well when the seeker is not charging you from above.
+    
+  The red-dot principle still applies. Seekers can charge even when they're offscreen and can quickly catch up to you while you're throwing and regrabbing Theo. <br>
 <img src = "https://github.com/kwan22/habits/blob/main/images/lv1/5a_rescue_berryroom_cut.webp" width = "480">
 
-No shame in sending Theo first.
-\
-<img src = "https://github.com/kwan22/habits/blob/main/images/lv1/5a_rescue_2seeker.webp" width = "480">
+  No shame in sending Theo first, but we can make this in 1 trip by doing a "dash, grab, and jump" combo instead of the usual "jump, dash, and grab". <br>
+  <img src = "https://github.com/kwan22/habits/blob/main/images/lv1/5a_rescue_2seeker_fast.webp" width = "480">
 
-No shame in spending some time making sure the seeker is stunned if you missed it the 1st time.
-\
-<img src = "https://github.com/kwan22/habits/blob/main/images/lv1/5a_rescue_seeker_final_1miss_cut.webp" width = "480">
+  Stick to the plan: make sure the seeker is stunned if you tried but missed it. <br>
+  <img src = "https://github.com/kwan22/habits/blob/main/images/lv1/5a_rescue_seeker_final_1miss_cut.webp" width = "480">
 </details>
 
 <details>
@@ -95,18 +88,13 @@ No shame in spending some time making sure the seeker is stunned if you missed i
 
   There are 6 route forks between top and bottom routes in Hollows. The 1st and last forks are relatively inconsequential (bottom for 1st fork and top for last fork are generally recommended, pick your favorite), but forks 2-5 should be prescribed.
 
-Go top on both 2nd and 3rd forks.
-\
+Go top on both 2nd and 3rd forks. <br>
 <img src = "https://github.com/kwan22/habits/blob/main/images/lv1/6a_hollows_2ndsplit.png" width = "480">
-<img src = "https://github.com/kwan22/habits/blob/main/images/lv1/6a_hollows_3rdsplit.png" width = "480">
-\
-Go bottom on the 4th and top on the 5th forks
-\
+<img src = "https://github.com/kwan22/habits/blob/main/images/lv1/6a_hollows_3rdsplit.png" width = "480"> <br>
+Go bottom on the 4th and top on the 5th forks. <br>
 <img src = "https://github.com/kwan22/habits/blob/main/images/lv1/6a_hollows_4th5thsplit.png" width = "960">
-\
 
-In the large falling room in Reflection (the checkpoint), do not take the 2nd shortcut, it skips a mid-room checkpoint (and is not fast when taking the 3rd shortcut).
-\
+In the large falling room in Reflection (the checkpoint), do not take the 2nd shortcut, it skips a mid-room checkpoint (and is not fast when taking the 3rd shortcut). <br>
 <img src = "https://github.com/kwan22/habits/blob/main/images/lv1/6a_reflection_route.png" width = "480">
 
 
