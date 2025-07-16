@@ -76,7 +76,7 @@ The "red dot": be aware of when Oshiro is about to charge and ensure you have sp
   The red-dot principle still applies. Seekers can charge even when they're offscreen and can quickly catch up to you while you're throwing and regrabbing Theo. <br>
 <img src = "https://github.com/kwan22/habits/blob/main/images/lv1/5a_rescue_berryroom_cut.webp" width = "480">
 
-  No shame in sending Theo first, but we can make this in 1 trip by doing a "dash, grab, and jump" combo instead of the usual "jump, dash, and grab". <br>
+  No shame in sending Theo down the swap block first, but we can make this in 1 trip by doing a "dash, grab, and jump" combo instead of the usual "jump, dash, and grab". <br>
   <img src = "https://github.com/kwan22/habits/blob/main/images/lv1/5a_rescue_2seeker_fast.webp" width = "480">
 
   Stick to the plan: make sure the seeker is stunned if you tried but missed it. <br>
