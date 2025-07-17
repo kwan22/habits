@@ -24,7 +24,7 @@ These include details about the game that require little to no technical precisi
 (click on any of the below to see clips, images, etc)
 
 <details>
-<summary>2a</summary>
+<summary>Old Site</summary>
 
 The last Badeline room conveniently has a dev shortcut. Jump off the crumble block to make it disappear faster. Maneuvering around the ice block opens up another shortcut: lining up against the wall above it may be useful. Be sure to not grab when passing by it. <br>
 <img src = "https://github.com/kwan22/habits/blob/main/images/lv1/2a_intervention_dev.webp" width = "480">
@@ -34,7 +34,7 @@ The plan for the last few coins in the Badeline chase sequence is to never cross
 </details>
 
 <details>
-  <summary>3a</summary>
+  <summary>Celestial Resort</summary>
   
 Transitions refill dashes! <br>
 <img src = "https://github.com/kwan22/habits/blob/main/images/lv1/3a_key1.webp" width = "480">
@@ -46,14 +46,14 @@ The "red dot": be aware of when Oshiro is about to charge and ensure you have sp
 </details>
 
 <details>
-  <summary>4a</summary>
+  <summary>Golden Ridge</summary>
   Generally, horizontal dashing cuts through strong wind much better than updiagonal dashes <br>
     <img src = "https://github.com/kwan22/habits/blob/main/images/lv1/4a_snowball_4springs.webp" width = "480">
     <img src = "https://github.com/kwan22/habits/blob/main/images/lv1/4a_snowball_final.webp" width = "480">
 </details>
 
 <details>
-  <summary>5a</summary>
+  <summary>Mirror Temple</summary>
     
   Skip the depths key & door using the secret route for the heart. <br>
   <img src = "https://github.com/kwan22/habits/blob/main/images/lv1/5a_depths_keyskip.png" width = "480">
@@ -92,7 +92,7 @@ The "red dot": be aware of when Oshiro is about to charge and ensure you have sp
 </details>
 
 <details>
-  <summary>6a</summary>
+  <summary>Reflection</summary>
 
   There are 6 route forks between top and bottom routes in Hollows. The 1st and last forks are relatively inconsequential (bottom for 1st fork and top for last fork are generally recommended, pick your favorite), but forks 2-5 should be prescribed.
 
@@ -104,7 +104,7 @@ Go bottom on the 4th and top on the 5th forks. <br>
 
 </details>
 <details>
-<summary>7a</summary>
+<summary>Summit</summary>
 Take the berry route which can be easily accessed by using transitions to refill dashes. <br>
 <img src = "https://github.com/kwan22/habits/blob/main/images/lv1/7a_2k_toproute.webp" width = "480">
 </details>
