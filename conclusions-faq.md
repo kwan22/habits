@@ -34,7 +34,7 @@ Thank you for reading and (presumably) watching the series. I hope you found thi
 1. 5b presents a high barrier to entry that simply isn't necessary at a beginner level.
 2. 5b requires niche tech (pause-buffering, neutral spikejump) to save time over 5a in the first place. I originally did not want to ever introduce pause-buffering as it's a textbook example of only being useful in extremely niche situations. However, I decided that pause-buffering is still a useful skill to have and muscle memory to learn at the highest habits level.
 3. Search skip is a nice gateway to learning extension timing, just like how bubsdrop can be a gateway to learning more complex pause strats like 3a fast demo and 4a 2nd blockless for those looking to push further beyond the habits, as well as performing some basic science.
-4. With good fundamentals at Level 3, skills are transferable and learning 5b is not that different from learning new strats in 5a.
+4. With good fundamentals at Level 3, skills are transferable and learning 5b is not that different from learning more in 5a.
 
 **Q: 6b when?**  
 *A: Barrier to entry is simply too high. A habits run of 6b would mostly look like a casual playthrough with a "try not to die" mentality.*
