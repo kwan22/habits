@@ -86,6 +86,11 @@ Be cognizant of when you have leeway to throw and hyper, whether it be seekers o
   <img src="https://github.com/kwan22/habits/blob/main/images/lv2/3a_start_2j.webp" width="480"/> 
   <img src="https://github.com/kwan22/habits/blob/main/images/lv2/3a_shaft_2j_slow.webp" width="480"/> 
   <img src="https://github.com/kwan22/habits/blob/main/images/lv2/4a_start_final_2j.webp" width="480"/> <br>
-  Input display is provided here. Notice how "Jump2" is pressed first and held the entire time, while "Jump1" is pressed for subsequent jumps. 
-  
+  Input display is provided here. Notice how "Jump2" is pressed first and held the entire time, while "Jump1" is pressed for subsequent jumps.   
 </details>
+
+[&#8593; Main page](https://github.com/kwan22/habits/blob/main/README.md)
+
+[&#8592; Level 1](https://github.com/kwan22/habits/blob/main/level1.md) 
+
+[Level 3 &#8594;](https://github.com/kwan22/habits/blob/main/level3.md)
