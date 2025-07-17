@@ -40,9 +40,8 @@ Retransition if possible to reset the entry cycle. The goal is to reinforce lear
   <summary>Wallbounces</summary>
 
   Wallbounces at Level 2 improve vertical speed over climbjumping and occasionally enable some skips. <br>
-  <img src="https://github.com/kwan22/habits/blob/main/images/lv2/6a_res_2wb.webp" width="480"/>
+  <img src="https://github.com/kwan22/habits/blob/main/images/lv2/2a_start_wb.webp" width="480"/>
   <img src="https://github.com/kwan22/habits/blob/main/images/lv2/7a_500m_wb.webp" width="480"/>
-  <img src="https://github.com/kwan22/habits/blob/main/images/lv2/7a_500m_wb2.webp" width="480"/>
   <img src="https://github.com/kwan22/habits/blob/main/images/lv2/7a_2000m_berry1.webp" width="480"/>
   <img src="https://github.com/kwan22/habits/blob/main/images/lv2/7a_flag2_wb3.webp" width="480"/>
 </details>

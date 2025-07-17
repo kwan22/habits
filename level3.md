@@ -13,19 +13,19 @@ Level 3 rounds out most of the RTA-viable speed tech that most speedrunners will
 #### Extension timing  
 Perhaps the true bread and butter of Celeste speed tech. If you have to pick one arbitrary rhythm/timing in this game to memorize for speedrunning, it is this timing. Mastery of the reverse super from Level 2 should have built the dash-to-jump timing into muscle memory that we now utilize more broadly. Many wavedashes can be replaced with extended hypers by removing the "need" to jump.
 
-#### Normalization and leniency  
+#### Basic leniency and normalization
 The goal is to make strats and movement more consistent by taking advantage of various leniency mechanics offered in Celeste. These leniency mechanics are used at all levels of play, perhaps unintentionally for beginners, but now we begin to be more conscious of using them.
 
 <details>
   <summary>Transition buffers</summary>
   Dash through a transition and jump after to perform the dash tech across the screen transition. One of the best ways to normalize movement. <br>
-  <img src="https://github.com/kwan22/habits/blob/main/images/lv3/3a_start_triplat.webp" width="480">
   <img src="https://github.com/kwan22/habits/blob/main/images/lv3/4a_shrine_trans_wb.webp" width="480">
+  <img src="https://github.com/kwan22/habits/blob/main/images/lv3/7a_2500m_3_transsuper.webp" width="480">
 
   Pausing for cutscene skips on transition can be buffered in v1.4. When executed correctly, the pause menu should appear at the end of transition and before Madeline moves. <br>
   <img src="https://github.com/kwan22/habits/blob/main/images/lv3/2a_intervention_1_pause.webp" width="480">
   <img src="https://github.com/kwan22/habits/blob/main/images/lv3/3a_suite_final_pause.webp" width="480"> <br>
-  Buffering pause out of transition for cutscene skips isn't always optimal, but it is for these two cases.
+  While missing the buffer out of transition is largely inconsequential for cutscene skips, it provides instant feedback to evaluate if you are properly buffering out of the transition (segway into bubsdrop at level 4).
 </details>
 
 <details>
@@ -35,9 +35,13 @@ The goal is to make strats and movement more consistent by taking advantage of v
   <img src="https://github.com/kwan22/habits/blob/main/images/lv3/7a_2k_3tile_labeled.png" width="480"> <br>
 From a standstill, a hyper lines up well with a 1-tile or 2-tile platform. A jump lines up well with a 3-tile platform.
 
-Some examples of movement where midair lineups are lenient thanks to cornercorrection. <br>
+  Some examples of movement where midair lineups are lenient thanks to cornercorrection. <br>
   <img src="https://github.com/kwan22/habits/blob/main/images/lv3/5a_rescue_3tile.webp" width="480">
   <img src="https://github.com/kwan22/habits/blob/main/images/lv3/7a_flag01.webp" width="480">
+
+  Jumpthroughs, moving platforms, and clouds are even more forgiving with cornercorrection. 
+  <img src="https://github.com/kwan22/habits/blob/main/images/lv3/4a_start_triplat.webp" width="480">
+  <img src="https://github.com/kwan22/habits/blob/main/images/lv3/6a_resolution_super.webp" width="480">
 </details>
 <details>
   <summary>Buffer setups</summary>
@@ -49,12 +53,12 @@ Some examples of movement where midair lineups are lenient thanks to cornercorre
 </details>
 
 #### Advanced techniques
-The use of "advanced" here mostly implies a technique not naturally taught by the game. Runners will likely need to have done some external research to learn about these. Keep in mind that the difficulty of the technique, beyond the potential increase in input density from before, is largely dependent on the setup in which it is used.
+The use of "advanced" here mostly implies a technique not naturally taught by the game. Runners will likely need to have done some external research to learn about these. Keep in mind that the difficulty of the technique, beyond the potential increase in input density from before, is largely dependent on the setup in which it is used. At the end of the day, everything is some combination of pressing jump, dash, and grab.
 <details>
   <summary>Hyper bhop: hyper with a short jump to return to the ground quickly, and jump (bhop) again for a small speed boost. This is frequently the fastest way to accelerate from a standstill, and may provide some small optimizations over a simple large hyper. When well executed and given enough space, it can effectively provide the horizontal speed of a hyper and the vertical speed of a bhop.</summary>
+  <img src="https://github.com/kwan22/habits/blob/main/images/lv3/3a_suite_thumbnail_hyperbhop.webp" width="480">
   <img src="https://github.com/kwan22/habits/blob/main/images/lv3/4a_shrine_hyperbhop.webp" width="480">
   <img src="https://github.com/kwan22/habits/blob/main/images/lv3/6a_reflection_badelineboost.webp" width="480">
-  <img src="https://github.com/kwan22/habits/blob/main/images/lv3/6a_rb_hyperbhop_1.webp" width="480">
   <img src="https://github.com/kwan22/habits/blob/main/images/lv3/6a_rb_hyperbhop_2.webp" width="480">
 </details>
 <details>
@@ -90,7 +94,7 @@ The use of "advanced" here mostly implies a technique not naturally taught by th
 Movement should flow from one segment to the next. Movement exiting a room should consciously chain into the next room. Strats are designed such that avoiding hazards is incorporated into the movement when well executed. Transition tech commonly serves as an anchor point of normalization for movement across rooms. Time spent standing still should be minimized. This is largely enabled by leniency mechanics and often combines them in various ways.
 <details>
   <summary>Examples showcasing active movement</summary>
-  <img src="https://github.com/kwan22/habits/blob/main/images/lv3/3a_start_triplat.webp" width="480">
+  <img src="https://github.com/kwan22/habits/blob/main/images/lv3/3a_start_triplat_active.webp" width="480">
   <img src="https://github.com/kwan22/habits/blob/main/images/lv3/3a_suite_final.webp" width="480"> 
   <img src="https://github.com/kwan22/habits/blob/main/images/lv3/5a_rescue_start.webp" width="480">  
   <img src="https://github.com/kwan22/habits/blob/main/images/lv3/7a_2k_start.webp" width="480">  <br>
