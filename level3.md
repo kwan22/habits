@@ -53,10 +53,10 @@ From a standstill, a hyper lines up well with a 1-tile or 2-tile platform. A jum
 </details>
 
 #### Advanced techniques
-The use of "advanced" here mostly implies a technique not naturally taught by the game. Runners will likely need to have done some external research to learn about these. Keep in mind that the difficulty of the technique, beyond the potential increase in input density from before, is largely dependent on the setup in which it is used. At the end of the day, everything is some combination of pressing jump, dash, and grab.
+The use of "advanced" here mostly implies a technique not naturally taught by the game. Runners will likely need to have done some external research to learn about these. Keep in mind that there is nothing inherently new about each technique. At the end of the day, everything is some combination of pressing jump, dash, and grab. It is the setup on which these are used that can be challenging to make successful.
 <details>
   <summary>Hyper bhop</summary>
-  Hyper with a short jump to return to the ground quickly, and jump (bhop) again for a small speed boost. This is frequently the fastest way to accelerate from a standstill, and may provide some small optimizations over a simple large hyper. When well executed and given enough space, it can effectively provide the horizontal speed of a hyper and the vertical speed of a bhop.<br>
+  Hyper with a short jump to return to the ground quickly, and jump (bhop) again for a small speed boost. This is frequently the fastest way to accelerate from a standstill, and may provide some small optimizations over a simple hyper. When well executed and given enough space, it can effectively provide the horizontal speed of a hyper and the vertical speed of a bhop.<br>
   <img src="https://github.com/kwan22/habits/blob/main/images/lv3/3a_suite_thumbnail_hyperbhop.webp" width="480">
   <img src="https://github.com/kwan22/habits/blob/main/images/lv3/4a_shrine_hyperbhop.webp" width="480">
   <img src="https://github.com/kwan22/habits/blob/main/images/lv3/6a_reflection_badelineboost.webp" width="480">
@@ -80,7 +80,7 @@ The use of "advanced" here mostly implies a technique not naturally taught by th
 </details>
 <details>
   <summary>Demos</summary>
-  An in-game bind since v1.4; dash with a crouching hitbox. Enables some skips, opens up movement options, and adds some leniency in some cases. <br>
+  An in-game bind since v1.4; dash with a crouching hitbox. Enables some skips, opens up movement options, and adds leniency in some cases. <br>
   <img src="https://github.com/kwan22/habits/blob/main/images/lv3/2a_awake_midair_demos.webp" width="480">
   <img src="https://github.com/kwan22/habits/blob/main/images/lv3/3a_shaft_demo_8f.webp" width="480">
   <img src="https://github.com/kwan22/habits/blob/main/images/lv3/7a_2k_snowball.webp" width="480">
