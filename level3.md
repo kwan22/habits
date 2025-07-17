@@ -96,7 +96,7 @@ The use of "advanced" here mostly implies a technique not naturally taught by th
 </details>
 
 #### Active movement  
-Movement should flow from one segment to the next. Movement exiting a room should consciously chain into the next room. Strats are designed such that avoiding hazards is incorporated into the movement when well executed. Transition tech commonly serves as an anchor point of normalization for movement across rooms. Time spent standing still should be minimized. This is largely enabled by leniency mechanics and often combines them in various ways.
+Movement should flow from one segment to the next. Movement exiting a room should consciously chain into the next room. Strats are designed such that avoiding hazards is incorporated into the movement when well executed. Transition tech commonly serves as an anchor point of normalization for movement across rooms. Time spent standing still and reacting to the room should be minimized. This is largely enabled by leniency mechanics and often combines them in various ways.
 <details>
   <summary>Examples showcasing active movement</summary>
   <img src="https://github.com/kwan22/habits/blob/main/images/lv3/3a_start_triplat_active.webp" width="480">
