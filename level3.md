@@ -31,8 +31,8 @@ The goal is to make strats and movement more consistent by taking advantage of v
 <details>
   <summary>Cornercorrection and floorsnapping: </summary>
   These are leniency mechanics that will be naturally used at all levels, but here we will intentionally emphasize movement where lining up a midair dash for cornercorrection is lenient. Jumpthrough correction leniency is also demonstrated. This is also a nice place to learn the timing for dashing at or near max height and not releasing jump while doing so. <br>
-  <img src="https://github.com/kwan22/habits/blob/main/images/lv3/2a_start_hyper_1tile.png" width="480">
-  <img src="https://github.com/kwan22/habits/blob/main/images/lv3/2a_awake_3tile_1.png" width="480"> <br>
+  <img src="https://github.com/kwan22/habits/blob/main/images/lv3/2a_start_hyper_1tile_labeled.png" width="480">
+  <img src="https://github.com/kwan22/habits/blob/main/images/lv3/7a_2k_3tile_labeled.png" width="480"> <br>
 From a standstill, a hyper lines up well with a 1-tile or 2-tile platform. A jump lines up well with a 3-tile platform.
 
 Some examples of movement where midair lineups are lenient thanks to cornercorrection. <br>
