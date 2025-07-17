@@ -64,7 +64,7 @@ The use of "advanced" here mostly implies a technique not naturally taught by th
 </details>
 <details>
   <summary>Ultras</summary>
-  Collide with the ground after a downdiagonal dash ends to gain a 1.2x speed multiplier. Requires a minimum elevation change of almost 4 tiles or an interaction that cancels the dash (e.g. cutscenes, Theo). Commonly performed using an extended hyper into downdiagonal. <br>
+  Collide with the ground after a downdiagonal dash ends to gain a 1.2x speed multiplier. Requires a minimum elevation drop of almost 4 tiles from the start of the downdiagonal dash or an interaction that cancels the dash (e.g. Theo) to preserve the speed. Commonly performed using an extended hyper into downdiagonal. <br>
   <img src="https://github.com/kwan22/habits/blob/main/images/lv3/2a_start_ultra.webp" width="480">
   <img src="https://github.com/kwan22/habits/blob/main/images/lv3/2a_awake_ultra.webp" width="480">
   <img src="https://github.com/kwan22/habits/blob/main/images/lv3/3a_boxes_ultra.webp" width="480">
