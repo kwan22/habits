@@ -53,7 +53,7 @@ From a standstill, a hyper lines up well with a 1-tile or 2-tile platform. A jum
 </details>
 
 #### Advanced techniques
-The use of "advanced" here mostly implies a technique not naturally taught by the game. Runners will likely need to have done some external research to learn about these. Keep in mind that the difficulty of the technique, beyond the potential increase in input density from before, is largely dependent on the setup in which it is used.
+The use of "advanced" here mostly implies a technique not naturally taught by the game. Runners will likely need to have done some external research to learn about these. Keep in mind that the difficulty of the technique, beyond the potential increase in input density from before, is largely dependent on the setup in which it is used. At the end of the day, everything is some combination of pressing jump, dash, and grab.
 <details>
   <summary>Hyper bhop: hyper with a short jump to return to the ground quickly, and jump (bhop) again for a small speed boost. This is frequently the fastest way to accelerate from a standstill, and may provide some small optimizations over a simple large hyper. When well executed and given enough space, it can effectively provide the horizontal speed of a hyper and the vertical speed of a bhop.</summary>
   <img src="https://github.com/kwan22/habits/blob/main/images/lv3/3a_suite_thumbnail_hyperbhop.webp" width="480">
