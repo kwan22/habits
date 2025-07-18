@@ -87,7 +87,7 @@ The "red dot": be aware of when Oshiro is about to charge and ensure you have sp
   No shame in sending Theo down the swap block first, but we can make this in 1 trip by doing a "dash, grab, and jump" combo instead of the usual "jump, dash, and grab". <br>
   <img src = "https://github.com/kwan22/habits/blob/main/images/lv1/5a_rescue_2seeker_fast.webp" width = "480">
 
-  Stick to the plan: make sure the seeker is stunned if you tried but missed it. Your plan should be movement you are familiar with and practiced in so you don't need to improvise. By stunning this last seeker early in the room, we can play the rest of the room without the seeker. <br>
+  Stick to the plan: make sure the seeker is stunned if you tried but missed it. Your plan should be movement you are familiar with and practiced in so you don't need to improvise. <br>
   <img src = "https://github.com/kwan22/habits/blob/main/images/lv1/5a_rescue_seeker_final_1miss_slow.webp" width = "480">
 </details>
 
