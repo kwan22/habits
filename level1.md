@@ -109,6 +109,8 @@ Take the berry route which can be easily accessed by using transitions to refill
 <img src = "https://github.com/kwan22/habits/blob/main/images/lv1/7a_2k_toproute.webp" width = "480">
 </details>
 
+---
+
 [&#8593; Main page](https://github.com/kwan22/habits/blob/main/README.md)
 
 [Level 2 &#8594;](https://github.com/kwan22/habits/blob/main/level2.md) 
