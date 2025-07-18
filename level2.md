@@ -82,6 +82,7 @@ This means having dash (or demo), 2 jump binds, and grab on keys that can all be
 #### One cycle only  
 Retransition if possible to reset the entry cycle. The goal is to reinforce learning of the entry cycle via repetition and avoid having to learn different strats for the same room. (If re-entry is not possible, wait to resync or revert to level 1, reveal as part of a skit?)
 
+---
 
 [&#8593; Main page](https://github.com/kwan22/habits/blob/main/README.md)
 
