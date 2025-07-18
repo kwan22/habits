@@ -1,4 +1,4 @@
-# Building Habits: Improving on the Fundamentals of Celeste Speedrunning
+# Building Habits: Developing Fundamentals of Celeste Speedrunning
 
 ![Banner](https://github.com/kwan22/habits/blob/main/images/levelup.png)
 
