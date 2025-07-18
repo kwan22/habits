@@ -61,7 +61,7 @@ With hyper-speed unlocked, we can simplify some rooms using active movement. For
   <img src="https://github.com/kwan22/habits/blob/main/images/lv2/4a_face_snowball1.webp" width="480"/>
   <img src="https://github.com/kwan22/habits/blob/main/images/lv2/7a_2500m_wave.webp" width="480"/>
 
-  While the notion of active movement is still in its early stages, we still must abide by the red-dot principle at all times.
+  While the notion of active movement is still in its early stages, we still must be ready for the red-dot at all times.
   <img src="https://github.com/kwan22/habits/blob/main/images/lv2/3a_suite_final_cut.webp" width="480"/>
 </details>
 
