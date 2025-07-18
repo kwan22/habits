@@ -36,3 +36,5 @@ Non-basic setups would include strats with pixel lineups or subpixel manip (clim
 If you are reading this document before the video, you can find the video series here. (insert link). I hope this series is as entertaining as it is instructive. Enjoy. 
 
 ---
+
+[Level 1 &#8594;](https://github.com/kwan22/habits/blob/main/level1.md) 
