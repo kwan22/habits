@@ -14,7 +14,7 @@ Level 3 rounds out most of the RTA-viable speed tech that most speedrunners will
 Perhaps the true bread and butter of Celeste speed tech. If you have to pick one arbitrary timing in this game to memorize for speedrunning, it is this timing. Mastery of the reverse super from Level 2 should have built the dash-to-jump timing into muscle memory that we now utilize more broadly. Many wavedashes can be replaced with extended hypers by removing the "need" to jump.
 
 #### Basic leniency and normalization
-The goal is to make strats and movement more consistent by taking advantage of various leniency mechanics offered in Celeste. These leniency mechanics are used at all levels of play, perhaps unintentionally for beginners, but now we begin to be more conscious of using them.
+The goal is to take advantage of various leniency mechanics offered in Celeste to open up more movement options and normalization methods. These leniency mechanics are used at all levels of play, perhaps unintentionally for beginners, but now we begin to be more conscious of using them.
 
 <details>
   <summary>Transition buffers</summary>
