@@ -54,7 +54,7 @@ Be cognizant of when you have leeway to throw and hyper, whether it be seekers o
 With hyper-speed unlocked, we can simplify some rooms using active movement. For now, active movement means being aware of the what next room is when exiting the current room, and consciously performing movement into that room.
 
 <details>
-  <summary>Examples</summary>
+  <summary>Active movement</summary>
   Begin to apply active movement to simplify some rooms, commonly by hypering near transition into the next room.<br>
   <img src="https://github.com/kwan22/habits/blob/main/images/lv2/3a_towels_2,3.webp" width="480"/>
   <img src="https://github.com/kwan22/habits/blob/main/images/lv2/3a_suite_3,4.webp" width="480"/>
