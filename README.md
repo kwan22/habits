@@ -1,6 +1,6 @@
-# Building Habits: Improving on the Fundamentals of Celeste Speedrunning
+# Building Habits: Developing Fundamentals of Celeste Speedrunning
 
-*banner ideas: 7a ending cutscene, various ways to do shrine block strats*
+![Banner](https://github.com/kwan22/habits/blob/main/images/levelup.png)
 
 ## Table of Contents
 - [Introduction](#introduction)
@@ -21,6 +21,8 @@ For those curious, [the chess series can be found here](https://www.youtube.com/
 
 Note that "getting the fastest time we can" or anything along those lines is **not** an explicit goal of the habits. The philosophy here is that fast times will naturally follow upon mastery of the fundamentals. Just like in the chess habits, there will be 4 levels of habits, starting from a complete beginner, and compounding on skills and concepts focused on in previous levels. A key focus will be on **incremental learning**, where we gradually increase our skillsets and knowledge to not overwhelm ourselves with details. A common theme will be learning fundamental principles at one level, and then applying them in more specific ways at higher levels.
 
+![Block](https://github.com/kwan22/habits/blob/main/images/shrine_block.png)
+
 All levels of the habits will follow two global rules:
 
 ### 1. Basic setups  
@@ -34,3 +36,5 @@ Non-basic setups would include strats with pixel lineups or subpixel manip (clim
 If you are reading this document before the video, you can find the video series here. (insert link). I hope this series is as entertaining as it is instructive. Enjoy. 
 
 ---
+
+[Level 1 &#8594;](https://github.com/kwan22/habits/blob/main/level1.md) 

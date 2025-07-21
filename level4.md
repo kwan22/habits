@@ -86,3 +86,9 @@ Holding grab to cover aggressive movement, e.g. missed clean landing, missed wav
 
 #### Simple pausebuffer timing  
 Learning to buffer the pause at the start of 2a-Intervention and 3a-Suite segways into learning bubsdrop. This will be the only pausebuffer strat learned in the habits, but also acts as a gateway for learning more complicated pausebuffer strats for those who wish to go further.
+
+[&#8593; Main page](https://github.com/kwan22/habits/blob/main/README.md)
+
+[&#8592; Level 3](https://github.com/kwan22/habits/blob/main/level3.md) 
+
+[Conclusions &#8594;](https://github.com/kwan22/habits/blob/main/conclusions-faq.md)
