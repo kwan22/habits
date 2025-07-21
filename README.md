@@ -1,6 +1,6 @@
 # Building Habits: Developing Fundamentals of Celeste Speedrunning
 
-![Banner](https://github.com/kwan22/habits/blob/main/images/levelup.png)
+<img src = "https://github.com/kwan22/habits/blob/main/images/levelup.png" width = 960>
 
 ## Table of Contents
 - [Introduction](#introduction)
