@@ -40,7 +40,6 @@ Transitions refill dashes! <br>
 <img src = "https://github.com/kwan22/habits/blob/main/images/lv1/3a_key1.webp" width = "480">
 
 The "red dot": be aware of when Oshiro is about to charge and ensure you have space to dodge. Whether your strat is able to line up with the Oshiro cycles shown in the clips depends on your movement: apply the red-dot principle to whatever Oshiro cycle you end up settling upon. <br>
-    <img src = "https://github.com/kwan22/habits/blob/main/images/lv1/3a_final_1.webp" width = "480">
     <img src = "https://github.com/kwan22/habits/blob/main/images/lv1/3a_final_2.webp" width = "480">
     <img src = "https://github.com/kwan22/habits/blob/main/images/lv1/3a_final_3.webp" width = "480">
 </details>
@@ -83,9 +82,6 @@ The "red dot": be aware of when Oshiro is about to charge and ensure you have sp
   Stunning a seeker while carrying Theo is a bit trickier since you can't dash while holding Theo. Handle the seeker and Theo separately, stunning the seeker where you can. A common tactic is to jump over the seeker, throw Theo forward, and then stun the seeker using the jump+downdash method. <br>
 <img src = "https://github.com/kwan22/habits/blob/main/images/lv1/5a_rescue_berryroom_slow1.webp" width = "480">
 <img src = "https://github.com/kwan22/habits/blob/main/images/lv1/5a_rescue_berryroom_slow2.webp" width = "480">
-
-  No shame in sending Theo down the swap block first, but we can make this in 1 trip by doing a "dash, grab, and jump" combo instead of the usual "jump, dash, and grab". <br>
-  <img src = "https://github.com/kwan22/habits/blob/main/images/lv1/5a_rescue_2seeker_fast.webp" width = "480">
 
   Stick to the plan: make sure the seeker is stunned if you tried but missed it. Your plan should be movement you are familiar with and practiced in so you don't need to improvise. <br>
   <img src = "https://github.com/kwan22/habits/blob/main/images/lv1/5a_rescue_seeker_final_1miss_slow.webp" width = "480">
