@@ -1,5 +1,5 @@
 ## Table of Contents
-- [Introduction](#introduction)
+- [Introduction](https://github.com/kwan22/habits/blob/main/README.md)
 - [Level 1](https://github.com/kwan22/habits/blob/main/level1.md)
 - [Level 2](https://github.com/kwan22/habits/blob/main/level2.md)
 - [Level 3](https://github.com/kwan22/habits/blob/main/level3.md)
@@ -53,10 +53,10 @@ From a standstill, a hyper lines up well with a 1-tile or 2-tile platform. A jum
 </details>
 
 #### Advanced techniques
-The use of "advanced" here mostly implies a technique not naturally taught by the game. Runners will likely need to have done some external research to learn about these. Keep in mind that there is nothing inherently new about each technique. At the end of the day, everything is some combination of pressing jump, dash, and grab. It is the setup on which these are used that can be challenging to make successful.
+The use of "advanced" here mostly implies a technique not naturally taught by the game. Players will likely need to have done some external research to learn about these. Keep in mind that there is nothing inherently new about each technique. At the end of the day, everything is some combination of pressing jump, dash, and grab. It is the setup on which these are used that can be challenging to make successful.
 <details>
   <summary>Hyper bhop</summary>
-  Hyper with a short jump to return to the ground quickly, and jump (bhop) again for a small speed boost. This is frequently the fastest way to accelerate from a standstill, and may provide some small optimizations over a simple hyper. When well executed and given enough space, it can effectively provide the horizontal speed of a hyper and the vertical speed of a bhop.<br>
+  Hyper with a short jump to return to the ground quickly, and jump (bhop) again for a small speed boost. This is frequently the fastest way to accelerate from a standstill, and may provide some small optimizations over a simple hyper. When well executed in the right situations, it can effectively provide the horizontal speed of a hyper and the vertical speed of a bhop.<br>
   <img src="https://github.com/kwan22/habits/blob/main/images/lv3/3a_suite_thumbnail_hyperbhop.webp" width="480">
   <img src="https://github.com/kwan22/habits/blob/main/images/lv3/4a_shrine_hyperbhop.webp" width="480">
   <img src="https://github.com/kwan22/habits/blob/main/images/lv3/6a_reflection_badelineboost.webp" width="480">
@@ -64,7 +64,7 @@ The use of "advanced" here mostly implies a technique not naturally taught by th
 </details>
 <details>
   <summary>Ultras</summary>
-  Collide with the ground after a downdiagonal dash ends to gain a 1.2x speed multiplier. Requires a minimum elevation drop of almost 4 tiles from the start of the downdiagonal dash or an interaction that cancels the dash (e.g. Theo) to preserve the speed. Commonly performed using an extended hyper into downdiagonal. <br>
+  Collide with the ground after a downdiagonal dash ends to gain a 1.2x horizontal speed multiplier. Requires a minimum elevation drop of almost 4 tiles from the start of the downdiagonal, dash or an interaction that cancels the dash (e.g. Theo) to preserve the speed. Commonly performed using an extended hyper into downdiagonal. Avoid buffering jump on landing if possible.<br>
   <img src="https://github.com/kwan22/habits/blob/main/images/lv3/2a_start_ultra.webp" width="480">
   <img src="https://github.com/kwan22/habits/blob/main/images/lv3/2a_awake_ultra.webp" width="480">
   <img src="https://github.com/kwan22/habits/blob/main/images/lv3/3a_boxes_ultra.webp" width="480">
@@ -88,7 +88,7 @@ The use of "advanced" here mostly implies a technique not naturally taught by th
 </details>
 <details>
   <summary>Neutrals</summary>
-  Jump off a wall without holding any horizontal directions. Can be used to ascend without spending stamina or normalize horizontal trajectory from a walljump or wallbounce. <br>
+  Jump off a wall without holding grab and any horizontal directions. Can be used to ascend without spending stamina or normalize horizontal trajectory from a walljump or wallbounce. <br>
   <img src="https://github.com/kwan22/habits/blob/main/images/lv3/1a_chasm_leftwall_safe.webp" width="480">
   <img src="https://github.com/kwan22/habits/blob/main/images/lv3/4a_trail_ultra_neutrals.webp" width="480">
   <img src="https://github.com/kwan22/habits/blob/main/images/lv3/6a_hollows_1_neutral.webp" width="480">
