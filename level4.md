@@ -1,10 +1,10 @@
 [Back to main page](https://github.com/kwan22/habits/blob/main/README.md)
 
 ## Table of Contents
-- [Speed Hierarchy](#Speed-hierarchy)
+- [Speed hierarchy](#speed-hierarchy)
 - [Bottlenecks](#Bottlenecks)
 - [DashCD](#DashCD)
-- [More buffering](#more-buffer-applications)
+- [Applied buffering](#buffer-applications)
 - [Option-selecting](#option-selecting)
 - [Pausebuffering](#pausebuffering)
 
@@ -12,7 +12,7 @@
 
 Level 4 begins a deeper dive into some of the fundamentals of movement as well as more detailed inner workings of game mechanics and niche situations in which these arise. Situations become more specific and technical: understanding the inner workings is not required to execute the strats, but the details are not obviously available to a player without researching game mechanics and physics. Concepts start to become increasingly complicated, so several examples are provided for illustration. Use of speedrun tool is highly useful for timing movement options. Use of TAS tools can be useful for those interested in diving into the science.
 
-#### Speed hierarchy  
+## Speed hierarchy  
 Know some of the nuanced properties of dashes, wallbounces, jumps, etc. to understand how to resolve bottlenecks. 
 
 <details>
@@ -32,7 +32,7 @@ Know some of the nuanced properties of dashes, wallbounces, jumps, etc. to under
   <img src="https://github.com/kwan22/habits/blob/main/images/lv4/4a_cf_2.png" width="480"> <br>
 </details>
 
-#### Bottlenecks  
+## Bottlenecks  
 A general understanding of what bottlenecks are and how they influence all of movement. This is usually divided between resolving a horizontal vs vertical bottleneck, but can also be dictated by other factors such as activating an entity. The goal is to be conscious of these: some are difficult to greed and optimize well and may compromise consistency, but having awareness of these provides us with guidance on what the limits are.
 
 <details>
@@ -104,7 +104,7 @@ A general understanding of what bottlenecks are and how they influence all of mo
   <img src="https://github.com/kwan22/habits/blob/main/images/lv4/5b_cc_crumbles.webp" width="480">
 </details>
 
-#### DashCD 
+## DashCD 
 Be aware of DashCD and movement to intentionally avoid or retain DashCD for setups. Use setups to buffering dashes out of DashCD, related to grounded ultra timing. Manage DashCD from vertical transitions and develop intuition for buffering out of vertical DashCD.
 
 <details>
@@ -139,7 +139,7 @@ Be aware of DashCD and movement to intentionally avoid or retain DashCD for setu
   <img src="https://github.com/kwan22/habits/blob/main/images/lv4/3a_start_post-triplat_super.webp" width="480">
 </details>
 
-#### More buffer applications
+## Applied buffering
 Expanding upon the repertoire of concepts that rely on buffering from Level 3.
 
 <details>
@@ -180,7 +180,7 @@ Expanding upon the repertoire of concepts that rely on buffering from Level 3.
   <img src="https://github.com/kwan22/habits/blob/main/images/lv4/5b_mm3_regrab.webp" width="480">
 </details>
 
-#### Option-selecting  
+## Option-selecting  
 Making decisions to cover multiple possible outcomes to reduce risk at little/no cost.
 
 <details>
@@ -195,7 +195,7 @@ Making decisions to cover multiple possible outcomes to reduce risk at little/no
   <img src="https://github.com/kwan22/habits/blob/main/images/lv4/holdgrab.png" width="960">  
 </details>
 
-#### Pausebuffering
+## Pausebuffering
 <details>
   <summary>Bubsdrop</summary>
 From Level 3, we should know if we feel confident in buffering a pause out of transition. Paused bubsdrop will be the only pausebuffer strat learned in the habits, but also acts as a gateway for learning more complicated pausebuffer strats for those who wish to go further. <br>
