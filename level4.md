@@ -197,7 +197,7 @@ Making decisions to cover multiple possible outcomes to reduce risk at little/no
 ## Pausebuffering
 <details>
   <summary>Bubsdrop</summary>
-From Level 3, we should know if we feel confident in buffering a pause out of transition. Paused bubsdrop will be the only pausebuffer strat learned in the habits, but also acts as a gateway for learning more complicated pausebuffer strats for those who wish to go further. <br>
+From Level 3, we developed a feel for buffering a pause out of transition. Paused bubsdrop will be the only pausebuffer strat learned in the habits, but also acts as a gateway for learning more complicated pausebuffer strats for those who wish to go further. <br>
   <img src="https://github.com/kwan22/habits/blob/main/images/lv4/5b_cc_bubsdrop.webp" width="480">
 </details>
 
