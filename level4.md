@@ -1,5 +1,9 @@
 [Back to main page](https://github.com/kwan22/habits/blob/main/README.md)
 
+# Level 4
+
+Level 4 begins a deeper dive into some of the fundamentals of movement as well as more detailed inner workings of game mechanics and niche situations in which these arise. Situations become more specific and technical: understanding the inner workings is not required to execute the strats, but the details are not obviously available to a player without researching game mechanics and physics. Concepts start to become increasingly complicated, so several examples are provided for illustration. Use of speedrun tool is highly useful for timing movement options. Use of TAS tools can be useful for those interested in diving into the science.
+
 ## Table of Contents
 - [Speed hierarchy](#speed-hierarchy)
 - [Bottlenecks](#Bottlenecks)
@@ -7,11 +11,6 @@
 - [Applied buffering](#buffer-applications)
 - [Option-selecting](#option-selecting)
 - [Pausebuffering](#pausebuffering)
-
-## Level 4
-
-Level 4 begins a deeper dive into some of the fundamentals of movement as well as more detailed inner workings of game mechanics and niche situations in which these arise. Situations become more specific and technical: understanding the inner workings is not required to execute the strats, but the details are not obviously available to a player without researching game mechanics and physics. Concepts start to become increasingly complicated, so several examples are provided for illustration. Use of speedrun tool is highly useful for timing movement options. Use of TAS tools can be useful for those interested in diving into the science.
-
 ## Speed hierarchy  
 Know some of the nuanced properties of dashes, wallbounces, jumps, etc. to understand how to resolve bottlenecks. 
 
