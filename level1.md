@@ -107,6 +107,6 @@ Take the berry route which can be easily accessed by using transitions to refill
 
 ---
 
-[&#8593; Main page](https://github.com/kwan22/habits/blob/main/README.md)
+[&#8593; Back to top](#level-1)
 
 [Level 2 &#8594;](https://github.com/kwan22/habits/blob/main/level2.md) 
