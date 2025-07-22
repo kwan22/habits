@@ -11,7 +11,24 @@
 Level 4 begins a deeper dive into some of the fundamentals of movement as well as more detailed inner workings of game mechanics and niche situations in which these arise. Situations become more specific and technical: understanding the inner workings is not required to execute the strats, but the details are not obviously available to a player without researching game mechanics and physics. Concepts start to become increasingly complicated, so several examples are provided for illustration. Use of speedrun tool is highly useful for timing movement options. Use of TAS tools can be useful for those interested in diving into the science.
 
 #### Know the speed hierarchy  
-Know some of the nuanced properties of dashes, wallbounces, jumps, etc. to understand how to resolve bottlenecks.
+Know some of the nuanced properties of dashes, wallbounces, jumps, etc. to understand how to resolve bottlenecks. 
+
+<details>
+  <summary>1.2x multiplier</summary>
+  At high speed, a downright becomes faster than a right dash. Here are a couple of examples where it is less visually obvious that performing a downdiagonal for the multiplier is faster than a horizontal dash. <br>
+  <img src="https://github.com/kwan22/habits/blob/main/images/lv4/2a_start_1,2x.webp" width="480">
+  <img src="https://github.com/kwan22/habits/blob/main/images/lv4/3a_suite2_1,2x.webp" width="480"> <br>  
+</details>
+
+<details>
+  <summary>Delayed transition tech</summary>
+  It can be better to not buffer the transition hyper or wallbounce if the dash is coming in with high speed, e.g. a grounded ultra, or to reach higher heights for the wallbounce. <br>
+  <img src="https://github.com/kwan22/habits/blob/main/images/lv4/4a_shrine_wb.webp" width="480">
+  <img src="https://github.com/kwan22/habits/blob/main/images/lv4/4a_cf_2.webp" width="480"> <br>
+  See how late the wallbounce and hypers can be after transition. For this transition wallbounce in Shrine, it makes lining up the next wallbounce easier and enables enough height to get the left-side exit. For the grounded ultra in Cliff Face, not only does it carry more speed naturally but it's also better at cutting through the strong wind. <br>
+  <img src="https://github.com/kwan22/habits/blob/main/images/lv4/4a_shrine_wb.png" width="480">
+  <img src="https://github.com/kwan22/habits/blob/main/images/lv4/4a_cf_2.png" width="480"> <br>
+</details>
 
 #### Conscious of bottlenecks  
 A general understanding of what bottlenecks are and how they influence all of movement. This is usually divided between resolving a horizontal vs vertical bottleneck, but can also be dictated by other factors such as activating an entity. The goal is to be conscious of these: some are difficult to greed and optimize well and may compromise consistency, but having awareness of these provides us with guidance on what the limits are.
@@ -30,7 +47,7 @@ A general understanding of what bottlenecks are and how they influence all of mo
    <img src="https://github.com/kwan22/habits/blob/main/images/lv4/wb_vertical_compilation.png" width="960"> <br>
   These spots are some of the most common movement mistakes by beginners. In all cases, 0 ground or walljumps are required: an updash and late wallbounce is sufficient and optimal.
 
-  Conversly, when the height of the wallbounce (or walljump) is needed but the bottleneck is horizontal, then an early jump as possible is desired. Many transition wallbounces fall under this category, where vertical speed is reset to jump speed upon transition, but the horizontal speed from the wallbounce is also helpful. <br>
+  Conversely, when the height of the wallbounce (or walljump) is needed but the bottleneck is horizontal, then an early jump as possible is desired. Many transition wallbounces fall under this category, where vertical speed is reset to jump speed upon transition, but the horizontal speed from the wallbounce is also helpful. <br>
    <img src="https://github.com/kwan22/habits/blob/main/images/lv4/1a_crossing_3_wb.webp" width="480"> 
    <img src="https://github.com/kwan22/habits/blob/main/images/lv4/7a_1k_trans_wb_2.webp" width="480"> <br>
 
@@ -39,8 +56,15 @@ A general understanding of what bottlenecks are and how they influence all of mo
    <img src="https://github.com/kwan22/habits/blob/main/images/lv4/4a_start_updemo.webp" width="480">   
    <img src="https://github.com/kwan22/habits/blob/main/images/lv4/5b_ttm2_updemo.webp" width="480">   
 
-   Diagonal dashes still have faster vertical speed the jumping. When diagonal dashing upwards to get over a wall, try to reach the wall at the end of the dash. Minimize time spent sliding along the wall while dashing: this usually means you could have dashed earlier. <br>
+   Diagonal dashes still have faster vertical speed the jumping. When diagonal dashing upwards to get over a wall, try to reach the wall at or near the end of the dash. Minimize time spent sliding along the wall while dashing: time spent sliding usually means the dash could have been earlier to gain more height. <br>
   <img src="https://github.com/kwan22/habits/blob/main/images/lv4/7a_2500m_diagdash.png" width="960">  <br>
+</details>
+
+<details>
+  <summary>Crossover</summary>
+  The bottleneck depends on the route your strat takes and can rapidly switch between horizontal and vertical. Be conscious of when/where crossovers happen. For example, on the final climb on Flag 7, the bottleneck changes from vertical to horizontal at the lowest possible position where a wallkick can reach the Badeline orb. A decent cue is about halfway between the snow textures on the wall. <br>
+  <img src="https://github.com/kwan22/habits/blob/main/images/lv4/7a_flag30.webp" width="480"> 
+  <img src="https://github.com/kwan22/habits/blob/main/images/lv4/7a_flag7.webp" width="480"> 
 </details>
 
 <details>
@@ -49,7 +73,7 @@ A general understanding of what bottlenecks are and how they influence all of mo
 <details>
   <summary>Downwards collisions</summary>
   A frequent pattern to look out for is colliding with the ground when trying to move downwards. This commonly happens shortly after a transition. Different problems call for different movement options: hypering or supering shortly before or on transition, releasing jump during transition, and holding downdiagonal are common patterns. Be aware of which setup works best for each problem. By avoiding collision, we can clear the ground with some vertical speed to resolve the downwards bottleneck. <br>
-  Instant hyper or super before transition <br>
+  Examples of an instant hyper or super before transition <br>
   <img src="https://github.com/kwan22/habits/blob/main/images/lv4/1a_crossing_6_exit.webp" width="480"> 
   <img src="https://github.com/kwan22/habits/blob/main/images/lv4/7a_1500m_dog_exit.webp" width="480"> <br>
   Some transition hypers are guaranteed to avoid collisions no matter how small the jump height. <br>
@@ -78,21 +102,8 @@ A general understanding of what bottlenecks are and how they influence all of mo
   <img src="https://github.com/kwan22/habits/blob/main/images/lv4/5b_cc_crumbles.webp" width="480">
 </details>
 
-<details>
-  <summary>Case study: Central Chamber cornerglide</summary>
-  The details that make this cornerglide consistent are
-  
-  - Jump late on the wallbounce in the previous room.
-  - Aim to line up the midair demohyper from the center of the transition jumpthrough.
-  - Demohyper and upright around the middle of the seeker statue.
-
-  <img src="https://github.com/kwan22/habits/blob/main/images/lv4/5b_cc1_cg.webp" width="480">
-
-  The late wallbounce on the previous room follows good vertical movement principles, but also helps Madeline not move too far right. In the hub room, we purposely do not move to the right but aim to be above the middle of the transition jumpthrough. Rightward motion is irrelevant (and even detrimental) since the bottleneck for this movement becomes vertical. Staying in the middle creates space to gain height for the demohyper-upright to cornerglide into the next room. The upright dash needs to be timed so that the dash hits the end wall with minimal (<5f) sliding.
-</details>
-
 #### DashCD control 
-Awareness of DashCD and movement to intentionally avoid or retain DashCD for setups. Selection of instant hyper, hyper bhop, vs ext-hyper. Buffering dashes out of DashCD, related to grounded ultra timing. Managing DashCD from vertical transitions (canceling vertical momentum, 3a-suite cutscene delay) and developing intuition for buffering out of vertical DashCD.
+Be aware of DashCD and movement to intentionally avoid or retain DashCD for setups. Use setups to buffering dashes out of DashCD, related to grounded ultra timing. Managing DashCD from vertical transitions and develop intuition for buffering out of vertical DashCD.
 
 <details>
   <summary>Grounded ultra timing</summary>
@@ -105,7 +116,7 @@ Awareness of DashCD and movement to intentionally avoid or retain DashCD for set
 
 <details>
   <summary>Avoiding DashCD</summary>
-  Sometimes, we need to slow down before we can speed up. DashCD is preserved through horizontal screen transitions: sometimes we need to start a dash immediately upon crossing such a transition with the maximum amount of speed. A common pattern is to late extended hyper just before entering a room, and then getting a fast grounded ultra when starting the next room. Whether we actually extend or not is irrelevant; we just want to enter the next room with 0 DashCD and near-max speed from the hyper. 
+  Sometimes, we need to slow down before we can speed up. DashCD is preserved through horizontal screen transitions: many situations call for a dash immediately upon crossing such a transition with as much speed as possible. A common pattern is to late extended hyper just before entering a room. Jumping late on the extension lets us wait out DashCD before entering the next room, and firing the hyper off closer to the transition means less frictional losses when entering the next room. Whether we actually extend or not in the previous room is irrelevant since we are crossing a transition. We just want to enter the next room with 0 DashCD and near-max speed from the hyper. 
   <img src="https://github.com/kwan22/habits/blob/main/images/lv4/2a_start_gultra.webp" width="480">
   <img src="https://github.com/kwan22/habits/blob/main/images/lv4/5a_start_fastkey.webp" width="480">
   <img src="https://github.com/kwan22/habits/blob/main/images/lv4/5b_ttm_pillars_cut1.webp" width="480">
@@ -114,20 +125,34 @@ Awareness of DashCD and movement to intentionally avoid or retain DashCD for set
 
 <details>
   <summary>Retaining DashCD</summary>
-  Some setups and movement intentionally retain DashCD to make a dash in the next room more lenient by allowing to be bufferable. These require precise positioning at the end of the previous room where the dash starts. Keep in mind that the dash in the next room is buffered out of DashCD, which is slightly after the transition ends. <br>
+  Some setups and movement intentionally retain DashCD to make a dash in the next room more lenient by allowing to be bufferable. These require precise positioning at the end of the previous room where the dash starts. Keep in mind that the dash in the next room is buffered out of DashCD in these cases, which is slightly after the transition ends as defined by the setup. <br>
   <img src="https://github.com/kwan22/habits/blob/main/images/lv4/5b_mm_final.webp" width="480">
   <img src="https://github.com/kwan22/habits/blob/main/images/lv4/6a_hollows_kevinslide.webp" width="480">
 </details>
 
 <details>
   <summary>Vertical transitions</summary>
-  Upwards trajectory and DashCD is fixed upon vertical transitions. While we must wait for DashCD to expire before dashing, we can cancel upwards trajectory if we are next to a wall by climbjumping. A small climbjump pairs well with a jumpthrough for cornercorrection leniency to line up midair supers and demohypers.<br>
+  Upwards trajectory and DashCD is fixed upon vertical transitions.  While we must wait for DashCD to expire before dashing, we can cancel upwards trajectory if we are next to a wall by climbjumping. A small climbjump pairs well with a jumpthrough for cornercorrection leniency to line up midair supers and demohypers.<br>
   <img src="https://github.com/kwan22/habits/blob/main/images/lv4/1a_chasm_2_super.webp" width="480">
   <img src="https://github.com/kwan22/habits/blob/main/images/lv4/3a_start_post-triplat_super.webp" width="480">
 </details>
 
-#### Cornerkick setups
-Adding to the repertoire of strats that rely on buffering from Level 3. A rule of thumb is to aim to dash to the corner from 3.5 tiles away horizontally. These are frequently easier with an updiagonal demo if height is not an issue, but dealing with the crouch state can lead to the cornerkick timing feeling awkward, as sometimes you need to wait for Madeline to uncrouch before getting the cornerkick.
+The movement rabbit hole goes far too deep for habits to cover. [Here](https://youtu.be/DOCTFCWPW5I) covers many ideas as well.
+
+#### More buffer applications
+Expanding upon the repertoire of concepts that rely on buffering from Level 3.
+
+<details>
+  <summary>Buffering instant or extended hyper</summary>
+  The abuse of the buffer window means the jump timing for instant and extended hypers is now influenced by how early the dash was buffered. This concept can be applied basically everywhere but is quite difficult to perform consistently due to the inherently variable timing. The setup for the 3a start winged room serves as a litmus test for buffering extended hypers on landing. <br>
+    <img src="https://github.com/kwan22/habits/blob/main/images/lv4/3a_start_winged.webp" width="480">
+</details>
+
+<details>
+  <summary>Cornerkick setups</summary>
+  For diagonal dashes at normal speed, a rule of thumb is to aim to dash to the corner from 3.5 tiles away horizontally. These are frequently easier with an updiagonal demo if height is not an issue, but dealing with the crouch state can lead to the cornerkick timing feeling awkward, as sometimes you need to wait for Madeline to uncrouch before getting the cornerkick.
+
+  <blockquote>
 
 <details>
   <summary>Forward cornerkicks</summary>
@@ -139,10 +164,20 @@ Adding to the repertoire of strats that rely on buffering from Level 3. A rule o
 
 <details>
   <summary>Neutral and turnarounds</summary>
-  These require slightly more technical precision with having to go neutral or turnaround grab before the jump input. 5b spikejump is included here as well despite not being out of a dash due to the strict requirement of being a neutral cornerkick.
+  These require slightly more technical precision with having to go neutral or turnaround grab before the jump input, though the window is quite forgiving comapred to extension timing. <br>
   <img src="https://github.com/kwan22/habits/blob/main/images/lv4/1a_chasm_ck.webp" width="480">
   <img src="https://github.com/kwan22/habits/blob/main/images/lv4/2a_intervention_tcj.webp" width="480">
-  <img src="https://github.com/kwan22/habits/blob/main/images/lv4/5b_cc_spikejump.webp" width="480">
+  <img src="https://github.com/kwan22/habits/blob/main/images/lv4/5a_depths_dcb_setup.webp" width="480">
+  <img src="https://github.com/kwan22/habits/blob/main/images/lv4/5b_cc_spikejump.webp" width="480"> 
+</details>
+</blockquote>
+</details>
+
+<details>
+  <summary>Theo regrabs</summary>
+  Dash before releasing grab to abuse the buffer window. <br>
+  <img src="https://github.com/kwan22/habits/blob/main/images/lv4/5b_mm2_regrab.webp" width="480"> 
+  <img src="https://github.com/kwan22/habits/blob/main/images/lv4/5b_mm3_regrab.webp" width="480">
 </details>
 
 #### Option-selecting movement  
