@@ -8,27 +8,61 @@
 
 ## Level 4
 
-Level 4 begins a deeper dive into some of the fundamentals of movement as well as more detailed inner workings of game mechanics and niche situations in which these arise. Situations become more specific and technical: understanding the inner workings is not required to execute the strats, but the details are not obviously available to a player without researching game mechanics and physics. Concepts start to become increasingly complicated, so several examples are provided for illustration. Use of TAS tools can be useful for those interested in diving into the science.
+Level 4 begins a deeper dive into some of the fundamentals of movement as well as more detailed inner workings of game mechanics and niche situations in which these arise. Situations become more specific and technical: understanding the inner workings is not required to execute the strats, but the details are not obviously available to a player without researching game mechanics and physics. Concepts start to become increasingly complicated, so several examples are provided for illustration. Use of speedrun tool is highly useful for timing movement options. Use of TAS tools can be useful for those interested in diving into the science.
+
+#### Know the speed hierarchy  
+Know some of the nuanced properties of dashes, wallbounces, jumps, etc. to understand how to resolve bottlenecks.
 
 #### Conscious of bottlenecks  
-A general understanding of what bottlenecks are. This is usually divided between resolving a horizontal vs vertical bottleneck, but can also be dictated by other factors such as activating a block. Awareness and some principles to reducing airtime are included. The goal is to be conscious of these: some are difficult to greed and optimize well and may compromise consistency, but having awareness of these provides us with guidance on what the limits are.
+A general understanding of what bottlenecks are and how they influence all of movement. This is usually divided between resolving a horizontal vs vertical bottleneck, but can also be dictated by other factors such as activating an entity. The goal is to be conscious of these: some are difficult to greed and optimize well and may compromise consistency, but having awareness of these provides us with guidance on what the limits are.
 
-##### Selecting super or hyper for more vertical vs horizontal  
-- Crossing 6
-- 3a start post triplat
+<details>
+  <summary>Supers and hypers</summary>
+  Hypers are overall used far more often than supers, but occasionally supers are useful in resolving a vertical bottleneck that still needs to cover some horizontal ground. <br>
+  <img src="https://github.com/kwan22/habits/blob/main/images/lv4/1a_crossing6_super.webp" width="480">
+  <img src="https://github.com/kwan22/habits/blob/main/images/lv4/3a_start_post-triplat_super.webp" width="480"> <br>
+  In both of these cases, a hyper would require an extra climbjump.
+</details>
 
-##### Wallkick/wallbounce timing for vertical vs horizontal movement  
-- *Vertical:* 1a chasm2 ending, 2a start ending, 3a boxes final, 5b start final  
-- *Horizontal:* 1a start 5, chasm left wall, 3a towels final, 7a 1000m transition wallbounces
+<details>
+  <summary>Walljumps and wallbounces </summary>
+  When wallbouncing for upwards movement, dash upwards for as much of the dash state as possible to maximize use of dash speed. One way to think of this is perform an "extended hyper" timing, but upwards. The extension timing can be biased to be on the later side of the window. Jumping slightly late on the "extension timing" is still allowed thanks to dash-attack leniency. Jumping should be minimized as much as possible compared to dashing and wallbouncing. <br>
+   <img src="https://github.com/kwan22/habits/blob/main/images/lv4/wb_vertical_compilation.png" width="960"> <br>
+  These spots are some of the most common movement mistakes by beginners. In all cases, 0 groud or walljumps are required: an updash and late wallbounce is sufficient and optimal.
 
+  Conversly, when the height of the wallbounce (or walljump) is needed but the bottleneck is horizontal, then an early jump as possible is desired. Many transition wallbounces fall under this category, where vertical speed is reset to jump speed upon transition, but the horizontal speed from the wallbounce is also helpful. <br>
+   <img src="https://github.com/kwan22/habits/blob/main/images/lv4/1a_crossing_3_wb.webp" width="480"> 
+   <img src="https://github.com/kwan22/habits/blob/main/images/lv4/7a_1k_trans_wb_2.webp" width="480"> <br>
+
+  Updemo wallbounces add another option to control the wallbounce height. Updemo _approximately_ shifts the lowest possible wallbounce position higher by half a tile, enabling some buffer setups that minimize vertical bottlenecks and removing possible low wallbounce positions. <br>
+   <img src="https://github.com/kwan22/habits/blob/main/images/lv4/1a_start_5_updemo.webp" width="480"> 
+   <img src="https://github.com/kwan22/habits/blob/main/images/lv4/4a_start_updemo.webp" width="480">   
+</details>
+
+<details>
+  <summary>Minimize speed bumps</summary>
+  This occurs frequently with downwards movement shortly after a transition. Different geometries call for different movement options: hypering or supering shortly before or on transition, releasing jump during transition, and holding downdiagonal are common patterns. Be aware of which setup works best for each problem. <br>
+<blockquote>
+<details>
+  <summary>Downwards movement</summary>
+  Instant hyper or super before transition <br>
+  <img src="https://github.com/kwan22/habits/blob/main/images/lv4/1a_crossing_6_exit.webp" width="480"> 
+  <img src="https://github.com/kwan22/habits/blob/main/images/lv4/7a_1500m_dog_exit.webp" width="480"> <br>
+  Some transition hypers are guaranteed to avoid collisions no matter how small the jump height. <br>
+  <img src="https://github.com/kwan22/habits/blob/main/images/lv4/2a_intervention_top_exit.webp" width="480"> 
+  <img src="https://github.com/kwan22/habits/blob/main/images/lv4/7a_1500m_neutral_trans_hyper.webp" width="480"> 
+</details>
+</blockquote>
+
+
+
+</details>
+
+
+  
 ##### Minimizing speed bumps in the bottlenecked direction  
-- 1a crossing-7: instant hyper out of crossing 6, late dash to first zipper
-- 2a intervention near top: transition hyper to avoid colliding w/ jumpthru
 - 2a awake: hyper bhop instead of transition hyper cb (into downright hyper for 1.2x multiplier instead of demohyper)
-- 3a shaft entering demo room: instant hyper and hold jump until transition to avoid bonking the ground
 - 5a depths 2nd button: upright demo under the block be able to dash earlier, avoid bonk, and land earlier
-- 7a 1500m between long rooms: transition neutral hyper
-- 7a 1500m exiting dog room: instant super and release jump
 
 ##### Activating entities asap (zippers, swapblocks, crumbles)
 - in general, can only grab while moving downwards to activate blocks (e.g. 4a trail pre 2nd blockless, 500m coin exit, 7a 2k vertical)
