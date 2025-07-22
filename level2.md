@@ -84,7 +84,7 @@ Retransition if possible to reset the entry cycle. The goal is to reinforce lear
 
 ---
 
-[&#8593; Main page](https://github.com/kwan22/habits/blob/main/README.md)
+[&#8593; Back to top](#level-2)
 
 [&#8592; Level 1](https://github.com/kwan22/habits/blob/main/level1.md) 
 
