@@ -4,6 +4,8 @@
 
 Level 4 begins a deeper dive into some of the fundamentals of movement as well as more detailed inner workings of game mechanics and niche situations in which these arise. Situations become more specific and technical: understanding the inner workings is not required to execute the strats, but the details are not obviously available to a player without researching game mechanics and physics. Concepts start to become increasingly complicated, so several examples are provided for illustration. Use of speedrun tool is highly useful for timing movement options. Use of TAS tools can be useful for those interested in diving into the science.
 
+The movement rabbit hole goes deeper than the habits can ever hope to cover. Tiyo has a nice [video](https://youtu.be/DOCTFCWPW5I) presentation going into some more details.
+
 ## Table of Contents
 - [Speed hierarchy](#speed-hierarchy)
 - [Bottlenecks](#Bottlenecks)
@@ -11,8 +13,9 @@ Level 4 begins a deeper dive into some of the fundamentals of movement as well a
 - [Applied buffering](#buffer-applications)
 - [Option-selecting](#option-selecting)
 - [Pausebuffering](#pausebuffering)
+  
 ## Speed hierarchy  
-Know some of the nuanced properties of dashes, wallbounces, jumps, etc. to understand how to resolve bottlenecks. 
+Know the key properties of the basic speed tech and how they compare to each other.
 
 <details>
   <summary>1.2x multiplier</summary>
@@ -44,7 +47,7 @@ A general understanding of what bottlenecks are and how they influence all of mo
 
 <details>
   <summary>Dashes, wallbounces and walljumps </summary>
-  When wallbouncing for upwards movement, dash upwards for as much of the dash state as possible to maximize use of dash speed. One way to think of this is perform an "extended hyper" timing, but upwards. The extension timing can be biased to be on the later side of the window. Jumping slightly late on the "extension timing" is still allowed thanks to dash-attack leniency. Jumping should be minimized as much as possible compared to dashing and wallbouncing. <br>
+  In general, most optimal wallbounce positions are arbitrarily dependent on the exact geometry of the room. However, when wallbouncing purely for vertical movement, dash upwards for as much of the dash state as possible to maximize use of dash speed. One way to think of this is perform an "extended hyper" timing, but upwards. The extension timing can be biased to be on the later side of the window. Jumping slightly late on the "extension timing" is still allowed thanks to dash-attack leniency. Jumping should be minimized as much as possible compared to dashing and wallbouncing. Look for 2 or 3 dash silhouettes as an indicator of a late wallbounce. <br>
    <img src="https://github.com/kwan22/habits/blob/main/images/lv4/wb_vertical_compilation.png" width="960"> <br>
   These spots are some of the most common movement mistakes by beginners. In all cases, 0 ground or walljumps are required: an updash and late wallbounce is sufficient and optimal.
 
@@ -52,13 +55,13 @@ A general understanding of what bottlenecks are and how they influence all of mo
    <img src="https://github.com/kwan22/habits/blob/main/images/lv4/1a_crossing_3_wb.webp" width="480"> 
    <img src="https://github.com/kwan22/habits/blob/main/images/lv4/7a_1k_trans_wb_2.webp" width="480"> <br>
 
-  In general though, most optimal wallbounce positions are arbitrarily dependent on the exact geometry of the room. Updemo wallbounces add another option to control the wallbounce height. Updemo _approximately_ shifts the lowest possible wallbounce position higher by half a tile, enabling some buffer setups that minimize vertical bottlenecks and removing possible low wallbounce positions. <br>
+  Updemo wallbounces add another option to control the wallbounce height. Updemo _approximately_ shifts the lowest possible wallbounce position higher by half a tile, enabling some buffer setups by removing possible low wallbounce positions. <br>
    <img src="https://github.com/kwan22/habits/blob/main/images/lv4/1a_start_5_updemo.webp" width="480"> 
    <img src="https://github.com/kwan22/habits/blob/main/images/lv4/4a_start_updemo.webp" width="480">   
    <img src="https://github.com/kwan22/habits/blob/main/images/lv4/5b_ttm2_updemo.webp" width="480">   
 
-   Diagonal dashes still have faster vertical speed the jumping. When diagonal dashing upwards to get over a wall, try to reach the wall at or near the end of the dash. Minimize time spent sliding along the wall while dashing: time spent sliding usually means the dash could have been earlier to gain more height. <br>
-  <img src="https://github.com/kwan22/habits/blob/main/images/lv4/7a_2500m_diagdash.png" width="960">  <br>
+   Diagonal dashes still have faster vertical speed the jumping. When diagonal dashing upwards to get over a wall, try to reach the wall at or near the end of the dash. Minimize time spent sliding along the wall while dashing: time spent sliding usually means the dash could have been earlier to gain more height. The dash ends when the 3rd silhouette appears. <br>
+  <img src="https://github.com/kwan22/habits/blob/main/images/lv4/7a_2500m_diagdash.png" width="960">  
 </details>
 
 <details>
@@ -95,7 +98,7 @@ A general understanding of what bottlenecks are and how they influence all of mo
 
 <details>
   <summary>Activating entities</summary>
-  Some entities are optimal to activate by grabbing. The key takeaway is that grabbing can only happen when Madeline is not moving upwards. Make sure she is not moving upwards by releasing jump well before reaching a block you are trying to activate by grabbing.
+  Some entities are best activated by grabbing. The key takeaway is that grabbing can only happen when Madeline is not moving upwards. Make sure she is not moving upwards by releasing jump well before reaching a block you are trying to activate by grabbing.
   <img src="https://github.com/kwan22/habits/blob/main/images/lv4/7a_500m_coin_exit.webp" width="480">
   <img src="https://github.com/kwan22/habits/blob/main/images/lv4/7a_2k_vert.webp" width="480"> <br>
   Extended hypers/wavedashes happen to work very well for getting crumble blocks to disappear quickly and consistently.
