@@ -101,7 +101,7 @@ Movement should flow from one segment to the next. Movement exiting a room shoul
 
 The "safe" section of the [sub 30 sheet](https://docs.google.com/spreadsheets/d/1HsFtpz_wfA4yrMuZOMX-f69O6ZEZph8db1ReKX8SNIY/edit?gid=0#gid=0) begins to become a useful resource for strats that showcases all of these principles.
 
-[&#8593; Main page](https://github.com/kwan22/habits/blob/main/README.md)
+[&#8593; Back to top](#level-3)
 
 [&#8592; Level 2](https://github.com/kwan22/habits/blob/main/level2.md) 
 
