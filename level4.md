@@ -25,7 +25,7 @@ A general understanding of what bottlenecks are and how they influence all of mo
 </details>
 
 <details>
-  <summary>Walljumps and wallbounces </summary>
+  <summary>Dashes, wallbounces and walljumps </summary>
   When wallbouncing for upwards movement, dash upwards for as much of the dash state as possible to maximize use of dash speed. One way to think of this is perform an "extended hyper" timing, but upwards. The extension timing can be biased to be on the later side of the window. Jumping slightly late on the "extension timing" is still allowed thanks to dash-attack leniency. Jumping should be minimized as much as possible compared to dashing and wallbouncing. <br>
    <img src="https://github.com/kwan22/habits/blob/main/images/lv4/wb_vertical_compilation.png" width="960"> <br>
   These spots are some of the most common movement mistakes by beginners. In all cases, 0 groud or walljumps are required: an updash and late wallbounce is sufficient and optimal.
@@ -37,14 +37,17 @@ A general understanding of what bottlenecks are and how they influence all of mo
   Updemo wallbounces add another option to control the wallbounce height. Updemo _approximately_ shifts the lowest possible wallbounce position higher by half a tile, enabling some buffer setups that minimize vertical bottlenecks and removing possible low wallbounce positions. <br>
    <img src="https://github.com/kwan22/habits/blob/main/images/lv4/1a_start_5_updemo.webp" width="480"> 
    <img src="https://github.com/kwan22/habits/blob/main/images/lv4/4a_start_updemo.webp" width="480">   
+
+   Diagonal dashes still have faster vertical speed the jumping. When diagonal dashing upwards to get over a wall, try to reach the wall at the end of the dash. Minimize time spent sliding along the wall while dashing: this usually means you could have dashed earlier. <br>
+  <img src="https://github.com/kwan22/habits/blob/main/images/lv4/7a_2500m_diagdash.png" width="960">   
 </details>
 
 <details>
-  <summary>Minimize speed bumps</summary>
-  This occurs frequently with downwards movement shortly after a transition. Different geometries call for different movement options: hypering or supering shortly before or on transition, releasing jump during transition, and holding downdiagonal are common patterns. Be aware of which setup works best for each problem. <br>
+  <summary>Downwards movement</summary>
 <blockquote>
 <details>
-  <summary>Downwards movement</summary>
+  <summary>Avoiding downwards collisions</summary>
+  A frequent pattern to look out for is colliding with the ground when trying to move downwards. This commonly happens shortly after a transition. Different problems call for different movement options: hypering or supering shortly before or on transition, releasing jump during transition, and holding downdiagonal are common patterns. Be aware of which setup works best for each problem. By avoiding collision, we can clear the ground with some vertical speed to resolve the downwards bottleneck. <br>
   Instant hyper or super before transition <br>
   <img src="https://github.com/kwan22/habits/blob/main/images/lv4/1a_crossing_6_exit.webp" width="480"> 
   <img src="https://github.com/kwan22/habits/blob/main/images/lv4/7a_1500m_dog_exit.webp" width="480"> <br>
@@ -52,6 +55,16 @@ A general understanding of what bottlenecks are and how they influence all of mo
   <img src="https://github.com/kwan22/habits/blob/main/images/lv4/2a_intervention_top_exit.webp" width="480"> 
   <img src="https://github.com/kwan22/habits/blob/main/images/lv4/7a_1500m_neutral_trans_hyper.webp" width="480"> 
 </details>
+
+  <details>
+    <summary>Avoiding downwards dashes</summary>
+    Downdashes and downdiagonal dashes can be deceptively slow may exacerbate a vertical bottleneck. <br>
+    When clearing a pillar, a horizontal dash is often preferred as it can be started earlier than a downdiagonal dash and enter fastfall state sooner. <br>
+  <img src="https://github.com/kwan22/habits/blob/main/images/lv4/horiz_dashes.png" width="960"> <br>
+  Downwards dashes (e.g. extended hyper into downright) interrupt fastfalling and may be outright slower than not dashing at all against vertical bottlenecks. <br>
+  One of the most common mistakes from beginners is to try to extended hyper into downright into the last Badeline hit in 6a, when a simple short hyper is faster. <br>
+  <img src="https://github.com/kwan22/habits/blob/main/images/lv4/6a_rb_hyper.webp" width="480"> 
+  </details>
 </blockquote>
 
 
