@@ -102,19 +102,6 @@ A general understanding of what bottlenecks are and how they influence all of mo
   <img src="https://github.com/kwan22/habits/blob/main/images/lv4/5b_cc_crumbles.webp" width="480">
 </details>
 
-<details>
-  <summary>Case study: Central Chamber cornerglide</summary>
-  The details that make this cornerglide consistent are
-  
-  - Jump late on the wallbounce in the previous room.
-  - Aim to line up the midair demohyper from the center of the transition jumpthrough.
-  - Demohyper and upright around the middle of the seeker statue.
-
-  <img src="https://github.com/kwan22/habits/blob/main/images/lv4/5b_cc1_cg.webp" width="480">
-
-  The late wallbounce on the previous room follows good vertical movement principles, but also helps Madeline not move too far right. In the hub room, we purposely do not move to the right but aim to be above the middle of the transition jumpthrough. Rightward motion is irrelevant (and even detrimental) since the bottleneck for this movement becomes vertical. Staying in the middle creates space to gain height for the demohyper-upright to cornerglide into the next room. The upright dash needs to be timed so that the dash hits the end wall with minimal (but nonzero) sliding.
-</details>
-
 #### DashCD control 
 Be aware of DashCD and movement to intentionally avoid or retain DashCD for setups. Use setups to buffering dashes out of DashCD, related to grounded ultra timing. Managing DashCD from vertical transitions and develop intuition for buffering out of vertical DashCD.
 
