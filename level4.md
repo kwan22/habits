@@ -2,7 +2,7 @@
 
 # Level 4
 
-<img src = "https://github.com/kwan22/habits/blob/main/images/lv4/lv4.png" width = "960">
+<img src = "https://github.com/kwan22/habits/blob/main/images/lv4.png" width = "960">
 
 Level 4 begins a deeper dive into some of the fundamentals of movement as well as more detailed inner workings of game mechanics and niche situations in which these arise. Situations become more specific and technical: understanding the inner workings is not required to execute the strats, but the details are not obviously available to a player without researching game mechanics and physics. Concepts start to become increasingly complicated, so several examples are provided for illustration. Use of speedrun tool is highly useful for timing movement options. Use of TAS tools can be useful for those interested in diving into the science.
 
@@ -21,7 +21,7 @@ Know the key properties of the speed tech and how they compare to each other.
 
 <details>
   <summary>1.2x multiplier</summary>
-  At high speed, a downright becomes faster than a right dash. Here are a couple of examples where it is less visually obvious that performing a downdiagonal for the multiplier is faster than a horizontal dash/demo. <br>
+  At high speed, a grounded downright dash becomes faster than a right dash. Here are a couple of examples where it is less visually obvious that performing a downdiagonal for the multiplier is faster than a horizontal dash/demo. <br>
   <img src="https://github.com/kwan22/habits/blob/main/images/lv4/2a_start_1,2x.webp" width="480">
   <img src="https://github.com/kwan22/habits/blob/main/images/lv4/3a_suite2_1,2x.webp" width="480"> <br>  
 </details>
@@ -78,7 +78,7 @@ A general understanding of what bottlenecks are and how they influence all of mo
 <blockquote>
 <details>
   <summary>Downwards collisions</summary>
-  A frequent pattern to look out for is colliding with the ground when trying to move downwards. This commonly happens shortly after a transition. Different problems call for different movement options: hypering or supering shortly before or on transition, releasing jump during transition, and holding downdiagonal are common patterns. Be aware of which setup works best for each problem. By avoiding collision, we can clear the ground with some vertical speed to resolve the downwards bottleneck. <br>
+  A frequent pattern to look out for is colliding with the ground when trying to move downwards. This commonly happens shortly after a transition. Different problems call for different movement options: hypering or supering shortly before transition, releasing jump during transition, and holding downdiagonal are common patterns. Be aware of which setup works best for each problem. By avoiding collision, we can clear the ground with some vertical speed to resolve the downwards bottleneck. <br>
   Examples of an instant hyper or super before transition <br>
   <img src="https://github.com/kwan22/habits/blob/main/images/lv4/1a_crossing_6_exit.webp" width="480"> 
   <img src="https://github.com/kwan22/habits/blob/main/images/lv4/7a_1500m_dog_exit.webp" width="480"> <br>
@@ -148,7 +148,7 @@ Expanding upon the repertoire of concepts that rely on buffering from Level 3.
 
 <details>
   <summary>Buffering instant or extended hyper</summary>
-  The abuse of the buffer window means the jump timing for instant and extended hypers is now influenced by how early the dash was buffered. Buffering movement in general can be applied basically everywhere but is quite difficult to perform consistently due to the inherently variable timing. Buffering means the action (dash) does not happen at the same time as you pressed the button for it, meaning our muscle memory for extension timing can be thrown off. The setup for the 3a start winged room serves as a good starting point for evaluating ability to buffer extended hypers on landing. <br>
+  When buffering a dash to begin an instant or extended hyper, the abuse of the buffer window means the jump timing is influenced by how early the dash was buffered. Buffering movement in general can be applied basically everywhere but is quite difficult to perform consistently, in part due to the inherently variable timing. Buffering means the action (dash) does not happen at the same time as you pressed the button for it, meaning our muscle memory for extension timing can be thrown off. The setup for the 3a start winged room serves as a good starting point for evaluating ability to buffer extended hypers on landing. <br>
     <img src="https://github.com/kwan22/habits/blob/main/images/lv4/3a_start_winged.webp" width="480">
 </details>
 
@@ -168,7 +168,7 @@ Expanding upon the repertoire of concepts that rely on buffering from Level 3.
 
 <details>
   <summary>Neutral and turnarounds</summary>
-  These require slightly more technical precision with having to go neutral or turnaround grab before the jump input, though the window is quite forgiving comapred to extension timing. <br>
+  These require slightly more technical precision with having to go neutral or turnaround grab before the jump input, though the window is quite forgiving comapred to extension timing. In some cases, the movement to set up the cornerkick is more difficult than the actual cornerkick. <br>
   <img src="https://github.com/kwan22/habits/blob/main/images/lv4/1a_chasm_ck.webp" width="480">
   <img src="https://github.com/kwan22/habits/blob/main/images/lv4/2a_intervention_tcj.webp" width="480">
   <img src="https://github.com/kwan22/habits/blob/main/images/lv4/5a_depths_dcb_setup.webp" width="480">

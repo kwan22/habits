@@ -2,7 +2,7 @@
 
 # Level 3
 
-<img src = "https://github.com/kwan22/habits/blob/main/images/lv3/lv3.png" width = "960">
+<img src = "https://github.com/kwan22/habits/blob/main/images/lv3.png" width = "960">
 
 Level 3 rounds out most of the RTA-viable speed tech that most speedrunners will ever encounter. We emphasize a selection of strats with speed generation/conservation, and finding ways to perform them in a consistent manner via normalization. Use of speedrun tool is highly recommended.
 
@@ -27,7 +27,7 @@ The goal is to take advantage of various leniency mechanics offered in Celeste t
   Pausing for cutscene skips on transition can be buffered in v1.4. When executed correctly, the pause menu should appear at the end of transition and before Madeline moves. <br>
   <img src="https://github.com/kwan22/habits/blob/main/images/lv3/2a_intervention_1_pause.webp" width="480">
   <img src="https://github.com/kwan22/habits/blob/main/images/lv3/3a_suite_final_pause.webp" width="480"> <br>
-  While missing the buffer out of transition is largely inconsequential for cutscene skips, it provides instant feedback to evaluate if you are properly buffering out of the transition (segway into bubsdrop at level 4).
+  While missing the buffer out of transition is largely inconsequential for cutscene skips, these are useful diagnostics as they provides instant feedback to evaluate if you are properly buffering out of the transition.
 </details>
 
 <details>
@@ -42,7 +42,7 @@ The goal is to take advantage of various leniency mechanics offered in Celeste t
   </details>
 <details>
   <summary>Buffer setups</summary>
-  Gradual introduction of the buffer mechanic with some setups that rely heavily on buffering to be viable. Jumps on or near spikes ("spikejumps") are common examples. <br>
+  Gradual introduction of the buffer mechanic with some setups that rely heavily on buffering to be viable. Jumps on or near spikes ("spikejumps") are common examples. The timesave from these is cool but not important: these are more useful as diagnostics in that the strat fails with improper buffering. <br>
   <img src="https://github.com/kwan22/habits/blob/main/images/lv3/3a_boxes_spikejump.webp" width="480">
   <img src="https://github.com/kwan22/habits/blob/main/images/lv3/4a_shrine_spikejump.webp" width="480">
   <img src="https://github.com/kwan22/habits/blob/main/images/lv3/5a_unraveling_spikejump.webp" width="480">
@@ -101,7 +101,7 @@ Movement should flow from one segment to the next. Movement exiting a room shoul
   Note the use of transition tech and leniency mechanics, including cornercorrection and buffering. Active movement is applicable literally everywhere, but has the most visually obvious impact on cycle-restricted movement. With good active movement, we don't need to worry about cycles or red-dot since those should be incorporated into the movement. However, if anything goes wrong and we get off-cycle, then red-dot can strike at any time.
 </details>
 
-The "safe" section of the [sub 30 sheet](https://docs.google.com/spreadsheets/d/1HsFtpz_wfA4yrMuZOMX-f69O6ZEZph8db1ReKX8SNIY/edit?gid=0#gid=0) begins to become a useful resource for strats that showcases all of these principles.
+The "safe" section of the [Vapo sheet](https://docs.google.com/spreadsheets/d/1HsFtpz_wfA4yrMuZOMX-f69O6ZEZph8db1ReKX8SNIY/edit?gid=0#gid=0) begins to become a useful resource for strats that showcases all of these principles.
 
 [&#8593; Back to top](#level-3)
 
