@@ -21,7 +21,7 @@ Know the key properties of the speed tech and how they compare to each other.
 
 <details>
   <summary>1.2x multiplier</summary>
-  At high speed, a downright becomes faster than a right dash. Here are a couple of examples where it is less visually obvious that performing a downdiagonal for the multiplier is faster than a horizontal dash/demo. <br>
+  At high speed, a grounded downright dash becomes faster than a right dash. Here are a couple of examples where it is less visually obvious that performing a downdiagonal for the multiplier is faster than a horizontal dash/demo. <br>
   <img src="https://github.com/kwan22/habits/blob/main/images/lv4/2a_start_1,2x.webp" width="480">
   <img src="https://github.com/kwan22/habits/blob/main/images/lv4/3a_suite2_1,2x.webp" width="480"> <br>  
 </details>
