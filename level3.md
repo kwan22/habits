@@ -4,7 +4,7 @@
 
 <img src = "https://github.com/kwan22/habits/blob/main/images/lv3.png" width = "960">
 
-Level 3 rounds out most of the RTA-viable speed tech that most speedrunners will ever encounter. We emphasize a selection of strats with speed generation/conservation, and finding ways to perform them in a consistent manner via normalization. Use of speedrun tool is highly recommended.
+Level 3 rounds out most of the RTA-viable speed tech that most speedrunners will ever encounter. We emphasize a selection of strats with speed generation/conservation, and finding ways to perform them in a consistent manner via normalization.
 
 ## Table of Contents
 - [Extension timing](#extension-timing)
