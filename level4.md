@@ -168,7 +168,7 @@ Expanding upon the repertoire of concepts that rely on buffering from Level 3.
 
 <details>
   <summary>Neutral and turnarounds</summary>
-  These require slightly more technical precision with having to go neutral or turnaround grab before the jump input, though the window is quite forgiving comapred to extension timing. <br>
+  These require slightly more technical precision with having to go neutral or turnaround grab before the jump input, though the window is quite forgiving comapred to extension timing. In some cases, the movement to set up the cornerkick is more difficult than the actual cornerkick. <br>
   <img src="https://github.com/kwan22/habits/blob/main/images/lv4/1a_chasm_ck.webp" width="480">
   <img src="https://github.com/kwan22/habits/blob/main/images/lv4/2a_intervention_tcj.webp" width="480">
   <img src="https://github.com/kwan22/habits/blob/main/images/lv4/5a_depths_dcb_setup.webp" width="480">
