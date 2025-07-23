@@ -23,6 +23,8 @@ Thank you for reading and (presumably) watching the series. I hope you found thi
 
 # FAQ
 
+<img src = "https://github.com/kwan22/habits/blob/main/images/faq.png" width = 960>
+
 **Q: Why is x at habit level y? It should be in habit level z!**  <br>
 *A: Maybe, there's no one way to build a good habits series. These just reflect my personal take and values on how to incrementally improve on the fundamentals.*
 
