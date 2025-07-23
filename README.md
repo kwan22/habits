@@ -37,4 +37,6 @@ If you are reading this document before the video, you can find the video series
 
 ---
 
+[&#8593; Back to top](#building-habits-developing-fundamentals-of-celeste-speedrunning)
+
 [Level 1 &#8594;](https://github.com/kwan22/habits/blob/main/level1.md) 
