@@ -4,7 +4,7 @@
 
 <img src = "https://github.com/kwan22/habits/blob/main/images/lv4.png" width = "960">
 
-Level 4 begins a deeper dive into some of the fundamentals of movement as well as more detailed inner workings of game mechanics and niche situations in which these arise. Situations become more specific and technical: understanding the inner workings is not required to execute the strats, but the details are not obviously available to a player without researching game mechanics and physics. Concepts start to become increasingly complicated, so several examples are provided for illustration. Use of speedrun tool is highly useful for timing movement options. Use of TAS tools can be useful for those interested in diving into the science.
+Level 4 begins a deeper dive into some of the fundamentals of movement as well as more detailed inner workings of game mechanics and niche situations in which these arise. Situations become more specific and technical: understanding the inner workings is not required to execute the strats, but the details are not obviously available to a player without researching game mechanics and physics. Concepts start to become increasingly complicated, so several examples are provided for illustration. We also switch to the 5b route as the concepts used here make 5b viable and instructive. Use of speedrun tool is highly useful for timing movement options. Use of TAS tools can be useful for those interested in diving into the science.
 
 The movement rabbit hole goes deeper than the habits can ever hope to cover. Tiyo has a nice [video](https://youtu.be/DOCTFCWPW5I) presentation going into some more details.
 
