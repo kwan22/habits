@@ -64,7 +64,6 @@ A general understanding of what bottlenecks are and how they influence all of mo
   Hypers are overall used far more often than supers, but occasionally supers are useful in resolving a vertical bottleneck that still needs to cover some horizontal ground. These are frequently followed by a precise updash, which are easier to time with a super thanks to the reduced horizontal speed. <br>
   <img src="https://github.com/kwan22/habits/blob/main/images/lv4/1a_crossing6_super.webp" width="480">
   <img src="https://github.com/kwan22/habits/blob/main/images/lv4/7a_flag21_super.webp" width="480"> <br>
-  In both of these cases, a hyper would require an extra climbjump.
 </details>
 
 <details>
