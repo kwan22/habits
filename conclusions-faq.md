@@ -1,12 +1,6 @@
-## Table of Contents
-- [Introduction](#introduction)
-- [Level 1](https://github.com/kwan22/habits/blob/main/level1.md)
-- [Level 2](https://github.com/kwan22/habits/blob/main/level2.md)
-- [Level 3](https://github.com/kwan22/habits/blob/main/level3.md)
-- [Level 4](https://github.com/kwan22/habits/blob/main/level4.md)
-- [Closing thoughts and FAQ](https://github.com/kwan22/habits/blob/main/conclusions-faq.md)
+[Back to main page](https://github.com/kwan22/habits/blob/main/README.md)
 
-## Closing Thoughts
+# Closing Thoughts
 
 Habits cap out as we approach higher levels of gameplay. In chess, a lot of the higher level learning becomes learning when to break the habits. My opinion is that in Celeste, further learning becomes paying attention to increasingly granular levels of detail, and trying to rely only on the fundamentals becomes limited.
 
@@ -18,7 +12,7 @@ Thank you for reading and (presumably) watching the series. I hope you found thi
 
 ---
 
-## FAQ
+# FAQ
 
 **Q: Why is x at habit level y? It should be in habit level z!**  <br>
 *A: Maybe, there's no one way to build a good habits series. These just reflect my personal take and values on how to incrementally improve on the fundamentals.*
@@ -27,7 +21,10 @@ Thank you for reading and (presumably) watching the series. I hope you found thi
 *A: Because I don't care about the time, I want to emphasize skillset development. If you find a different strat that you think is easier and faster, congrats, go ahead and do it to save time.*
 
 **Q: That strat was nice but you could have optimized it better by doing this.**  <br>
-*A: Similar as above. Sure, maybe I was aware of that, maybe I wasn't. If I intentionally excluded it, then I decided it wasn't worth the level of detail to explain in a fundamentals-based approach. If I didn't know about it...well hopefully I didn't egregiously violate any of the habits by not including that detail. I want to say my peer reviewers and I have a good enough grasp of the game where this might pop up occasionally but not be a major issue. Reference Aman's Qg4 and 'no need to be a hero' clips*
+*A: Similar as above. Sure, maybe I was aware of that, maybe I wasn't. If I intentionally excluded it, then I decided it wasn't worth the level of detail to explain in a fundamentals-based approach. If I didn't know about it...well hopefully I didn't egregiously violate any of the habits by not including that detail. I want to say my peer reviewers and I have a good enough grasp of the game where this might pop up occasionally but not be a major issue.*
+
+**Q: What would habits level 5 look like?**  <br>
+*A: The habits stop making sense after Level 4, as further improvement becomes understanding all of the little details specific to every situation. Level 4 itself is already stretching the limits of the habits, but I think we covered some important principles relevant for both movement and consistency.*
 
 **Q: Why not play 5b from Level 1? Why bother spending time learning 5a if we're just switching to 5b at Level 4?**  <br>
 *A: There is some merit to this idea, and a habits series could be viable starting with 5b from Level 1, but my justifications are the following:*
@@ -40,7 +37,7 @@ Thank you for reading and (presumably) watching the series. I hope you found thi
 *A: Barrier to entry is simply too high. A habits run of 6b would mostly look like a casual playthrough with a "try not to die" mentality.*
 
 **Q: This doesn't seem like a very efficient way of learning the speedrun. Why are we spending so much time not doing tech or fast strats so we can start building muscle memory earlier?**  <br>
-*A: Depends on what you mean by efficient. I've seen too many people rip out crazy strats but don't even have control of basic jump+dash+grab combos or have any basic movement fluidity. You barely even know how to control Madeline, what are you doing with these crazy strats? (Reference Aman's Level 1 'don't even know where the pieces go' and 'look back at old games filled with tactics' clips as examples why tech isn't in level 1)*
+*A: Depends on what you mean by efficient. No need to rip out all the hard strats when you don't even have control of basic jump+dash+grab combos or any movement fluidity. Beginners barely even know how to control Madeline, what are we doing learning difficult strats from the get-go? [Aman draws a similar parallel regarding the chess habits](https://www.youtube.com/watch?v=M_v0of2gduY&t=1403s)*
 
 **Q: What are the goal times for each level?** <br>
 *A: Doesn't matter, the goal is to develop skillsets and knowledge, not target arbitrary filetimes. The reader can have their own interpretation on what the corresponding fullgame times would be.*
