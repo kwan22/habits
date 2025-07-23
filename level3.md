@@ -42,7 +42,7 @@ The goal is to take advantage of various leniency mechanics offered in Celeste t
   </details>
 <details>
   <summary>Buffer setups</summary>
-  Gradual introduction of the buffer mechanic with some setups that rely heavily on buffering to be viable. Jumps on or near spikes ("spikejumps") are common examples. <br>
+  Gradual introduction of the buffer mechanic with some setups that rely heavily on buffering to be viable. Jumps on or near spikes ("spikejumps") are common examples. The timesave from these is cool but not important: these are more useful as diagnostics in that the strat fails with improper buffering. <br>
   <img src="https://github.com/kwan22/habits/blob/main/images/lv3/3a_boxes_spikejump.webp" width="480">
   <img src="https://github.com/kwan22/habits/blob/main/images/lv3/4a_shrine_spikejump.webp" width="480">
   <img src="https://github.com/kwan22/habits/blob/main/images/lv3/5a_unraveling_spikejump.webp" width="480">
