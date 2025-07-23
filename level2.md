@@ -4,7 +4,7 @@
 
 <img src = "https://github.com/kwan22/habits/blob/main/images/lv2.png" width = "960">
 
-Level 2 is meant to simulate a player that has likely already dabbled in speedrunning Celeste and wants to take it more seriously. Perhaps they have completed all the chapters or even 100%'d the game. Here, we nominally unleash the basic speed tech taught in the game. Use of speedrun tool is recommended.
+Level 2 is meant to simulate a player that has likely already dabbled in speedrunning Celeste and wants to take it more seriously. Perhaps they have completed all the chapters or even 100%'d the game. Here, we nominally unleash the basic speed tech taught in the game. 
 
 ## Table of Contents
 - [Basic tech](#basic-tech)
@@ -19,9 +19,7 @@ This includes supers, hypers, wallbounces, and wavedashes. I specify wavedash he
   <summary>Hypers and wavedashes</summary>
   Some examples of where basic speed tech is useful and provides large returns on timesave.<br>
   <img src="https://github.com/kwan22/habits/blob/main/images/lv2/1a_crossing6_wave.webp" width="480"/>
-  <img src="https://github.com/kwan22/habits/blob/main/images/lv2/3a_start_wave.webp" width="480"/>
   <img src="https://github.com/kwan22/habits/blob/main/images/lv2/4a_shrine_block_wave.webp" width="480"/>
-  <img src="https://github.com/kwan22/habits/blob/main/images/lv2/4a_face_4springs_wave.webp" width="480"/>
   <img src="https://github.com/kwan22/habits/blob/main/images/lv2/5a_start_bubbleskip.webp" width="480"/>
   <img src="https://github.com/kwan22/habits/blob/main/images/lv2/6a_lake_kevin_reroute.webp" width="480"/>
 </details>
