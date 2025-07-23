@@ -107,7 +107,7 @@ A general understanding of what bottlenecks are and how they influence all of mo
 </details>
 
 ## DashCD 
-Be aware of DashCD and movement to intentionally avoid or retain DashCD for setups. Use setups to buffering dashes out of DashCD, related to grounded ultra timing. Manage DashCD from vertical transitions and develop intuition for buffering out of vertical DashCD.
+Be aware of DashCD and movement to intentionally avoid or retain DashCD for setups. Learn to buffer consecutive dashes or dashes out of a hyper for grounded ultra timing. Use setups that rely on buffering a dash out of DashCD. Manage DashCD from vertical transitions and develop intuition for buffering out of vertical DashCD.
 
 <details>
   <summary>Grounded ultra timing</summary>
@@ -129,7 +129,7 @@ Be aware of DashCD and movement to intentionally avoid or retain DashCD for setu
 
 <details>
   <summary>Retaining DashCD</summary>
-  Some setups and movement intentionally retain DashCD to make a dash in the next room more lenient by allowing to be bufferable. These require precise positioning at the end of the previous room where the dash starts. Keep in mind that the dash in the next room is buffered out of DashCD in these cases, which is slightly after the transition ends as defined by the setup. <br>
+  Some setups intentionally retain DashCD to make a dash in the next room more lenient by allowing to be bufferable. These often require precise positioning at the end of the previous room where the dash starts. Keep in mind that the dash in the next room is buffered out of DashCD in these cases, which is slightly after the transition ends as defined by the setup. <br>
   <img src="https://github.com/kwan22/habits/blob/main/images/lv4/5b_mm_final.webp" width="480">
   <img src="https://github.com/kwan22/habits/blob/main/images/lv4/6a_hollows_kevinslide.webp" width="480">
 </details>
@@ -146,7 +146,7 @@ Expanding upon the repertoire of concepts that rely on buffering from Level 3.
 
 <details>
   <summary>Buffering instant or extended hyper</summary>
-  The abuse of the buffer window means the jump timing for instant and extended hypers is now influenced by how early the dash was buffered. This concept can be applied basically everywhere but is quite difficult to perform consistently due to the inherently variable timing. The setup for the 3a start winged room serves as a litmus test for buffering extended hypers on landing. <br>
+  The abuse of the buffer window means the jump timing for instant and extended hypers is now influenced by how early the dash was buffered. Buffering movement in general can be applied basically everywhere but is quite difficult to perform consistently due to the inherently variable timing. Buffering means the action (dash) does not happen at the same time as you pressed the button for it, meaning our muscle memory for extension timing can be thrown off. The setup for the 3a start winged room serves as a good starting point for evaluating ability to buffer extended hypers on landing. <br>
     <img src="https://github.com/kwan22/habits/blob/main/images/lv4/3a_start_winged.webp" width="480">
 </details>
 
@@ -177,7 +177,7 @@ Expanding upon the repertoire of concepts that rely on buffering from Level 3.
 
 <details>
   <summary>Theo regrabs</summary>
-  Dash before releasing grab to abuse the buffer window. <br>
+  Dash before releasing grab to use the buffer window to instantly regrab Theo with a diagonal dashing after throwing. <br>
   <img src="https://github.com/kwan22/habits/blob/main/images/lv4/5b_mm2_regrab.webp" width="480"> 
   <img src="https://github.com/kwan22/habits/blob/main/images/lv4/5b_mm3_regrab.webp" width="480">
 </details>
@@ -193,10 +193,11 @@ Making decisions to cover multiple possible outcomes to reduce risk at little/no
 
 <details>
   <summary>Press extra buttons for safety</summary>
-  Hold grab to cover overly aggressive movement, such as a missed clean landing to prevent accidental wallkick or otherwise unwanted results.
+  Hold grab to cover overly aggressive movement, such as a missed clean landing, to prevent accidental wallkicks. <br>
   <img src="https://github.com/kwan22/habits/blob/main/images/lv4/holdgrab.png" width="960">  <br>
 
-  Staggering jump presses can be useful for padding the timing for diagonal demo cornerkicks, as the jump timing can vary significantly depending on the starting dash position.
+  Staggering jump presses can be useful for padding the timing for diagonal demo cornerkicks, as the jump timing can vary significantly depending on the starting dash position. <br>
+  <img src="https://github.com/kwan22/habits/blob/main/images/lv4/jump_stagger.png" width="960">  <br>
 </details>
 
 ## Pausebuffering
