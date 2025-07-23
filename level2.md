@@ -1,16 +1,16 @@
-## Table of Contents
-- [Introduction](https://github.com/kwan22/habits/blob/main/README.md)
-- [Level 1](https://github.com/kwan22/habits/blob/main/level1.md)
-- [Level 2](https://github.com/kwan22/habits/blob/main/level2.md)
-- [Level 3](https://github.com/kwan22/habits/blob/main/level3.md)
-- [Level 4](https://github.com/kwan22/habits/blob/main/level4.md)
-- [Closing thoughts and FAQ](https://github.com/kwan22/habits/blob/main/conclusions-faq.md)
+[Back to main page](https://github.com/kwan22/habits/blob/main/README.md)
 
-## Level 2
+# Level 2
 
 Level 2 is meant to simulate a player that has likely already dabbled in speedrunning Celeste and wants to take it more seriously. Perhaps they have completed all the chapters or even 100%'d the game. Here, we nominally unleash the basic speed tech taught in the game. Use of speedrun tool is recommended.
 
-#### Basic tech
+## Table of Contents
+- [Basic tech](#basic-tech)
+- [Intro to active movement](#introduction-to-active-movement)
+- [Binds](#ergonomic-binds)
+- [One cycle only](#one-cycle-only)
+
+## Basic tech
 This includes supers, hypers, wallbounces, and wavedashes. I specify wavedash here as it is taught in Farewell, while extended hypers are not. A small but key distinction: we will not strictly know the timing for extensions. The one and only exception to this will be the reverse super in Search. This will be our launching pad to learn extension timing in the future.
 
 <details>
@@ -50,7 +50,7 @@ Be cognizant of when you have leeway to throw and hyper, whether it be seekers o
   Note the red-dot principle we follow against the eyeball waves.
 </details>
 
-#### Introduction to active movement
+## Introduction to active movement
 With hyper-speed unlocked, we can simplify some rooms using active movement. For now, active movement means being aware of the what next room is when exiting the current room, and consciously performing movement into that room.
 
 <details>
@@ -65,7 +65,7 @@ With hyper-speed unlocked, we can simplify some rooms using active movement. For
   <img src="https://github.com/kwan22/habits/blob/main/images/lv2/3a_suite_final_cut.webp" width="480"/>
 </details>
 
-#### Good, ergonomic binds  
+## Ergonomic binds  
 This means having dash (or demo), 2 jump binds, and grab on keys that can all be pressed and released independently of each other. This also means we will be using the 2 jump buttons for any vertical movement. Bind a menu down-confirm bind for retry and skip cutscene.
 
 <details>
@@ -79,12 +79,12 @@ This means having dash (or demo), 2 jump binds, and grab on keys that can all be
   Input display is provided here. Notice how "Jump2" is pressed first and held the entire time, while "Jump1" is pressed for subsequent jumps.   
 </details>
 
-#### One cycle only  
+## One cycle only  
 Retransition if possible to reset the entry cycle. The goal is to reinforce learning of the entry cycle via repetition and avoid having to learn different strats for the same room. (If re-entry is not possible, wait to resync or revert to level 1, reveal as part of a skit?)
 
 ---
 
-[&#8593; Main page](https://github.com/kwan22/habits/blob/main/README.md)
+[&#8593; Back to top](#level-2)
 
 [&#8592; Level 1](https://github.com/kwan22/habits/blob/main/level1.md) 
 

@@ -1,21 +1,25 @@
-## Table of Contents
-- [Introduction](https://github.com/kwan22/habits/blob/main/README.md)
-- [Level 1](https://github.com/kwan22/habits/blob/main/level1.md)
-- [Level 2](https://github.com/kwan22/habits/blob/main/level2.md)
-- [Level 3](https://github.com/kwan22/habits/blob/main/level3.md)
-- [Level 4](https://github.com/kwan22/habits/blob/main/level4.md)
-- [Closing thoughts and FAQ](https://github.com/kwan22/habits/blob/main/conclusions-faq.md)
+[Back to main page](https://github.com/kwan22/habits/blob/main/README.md)
 
-## Level 4
+# Level 4
 
 Level 4 begins a deeper dive into some of the fundamentals of movement as well as more detailed inner workings of game mechanics and niche situations in which these arise. Situations become more specific and technical: understanding the inner workings is not required to execute the strats, but the details are not obviously available to a player without researching game mechanics and physics. Concepts start to become increasingly complicated, so several examples are provided for illustration. Use of speedrun tool is highly useful for timing movement options. Use of TAS tools can be useful for those interested in diving into the science.
 
-#### Know the speed hierarchy  
-Know some of the nuanced properties of dashes, wallbounces, jumps, etc. to understand how to resolve bottlenecks. 
+The movement rabbit hole goes deeper than the habits can ever hope to cover. Tiyo has a nice [video](https://youtu.be/DOCTFCWPW5I) presentation going into some more details.
+
+## Table of Contents
+- [Speed hierarchy](#speed-hierarchy)
+- [Bottlenecks](#Bottlenecks)
+- [DashCD](#DashCD)
+- [Applied buffering](#buffer-applications)
+- [Option-selecting](#option-selecting)
+- [Pausebuffering](#pausebuffering)
+  
+## Speed hierarchy  
+Know the key properties of the speed tech and how they compare to each other.
 
 <details>
   <summary>1.2x multiplier</summary>
-  At high speed, a downright becomes faster than a right dash. Here are a couple of examples where it is less visually obvious that performing a downdiagonal for the multiplier is faster than a horizontal dash. <br>
+  At high speed, a downright becomes faster than a right dash. Here are a couple of examples where it is less visually obvious that performing a downdiagonal for the multiplier is faster than a horizontal dash/demo. <br>
   <img src="https://github.com/kwan22/habits/blob/main/images/lv4/2a_start_1,2x.webp" width="480">
   <img src="https://github.com/kwan22/habits/blob/main/images/lv4/3a_suite2_1,2x.webp" width="480"> <br>  
 </details>
@@ -30,7 +34,7 @@ Know some of the nuanced properties of dashes, wallbounces, jumps, etc. to under
   <img src="https://github.com/kwan22/habits/blob/main/images/lv4/4a_cf_2.png" width="480"> <br>
 </details>
 
-#### Conscious of bottlenecks  
+## Bottlenecks  
 A general understanding of what bottlenecks are and how they influence all of movement. This is usually divided between resolving a horizontal vs vertical bottleneck, but can also be dictated by other factors such as activating an entity. The goal is to be conscious of these: some are difficult to greed and optimize well and may compromise consistency, but having awareness of these provides us with guidance on what the limits are.
 
 <details>
@@ -43,7 +47,7 @@ A general understanding of what bottlenecks are and how they influence all of mo
 
 <details>
   <summary>Dashes, wallbounces and walljumps </summary>
-  When wallbouncing for upwards movement, dash upwards for as much of the dash state as possible to maximize use of dash speed. One way to think of this is perform an "extended hyper" timing, but upwards. The extension timing can be biased to be on the later side of the window. Jumping slightly late on the "extension timing" is still allowed thanks to dash-attack leniency. Jumping should be minimized as much as possible compared to dashing and wallbouncing. <br>
+  In general, most optimal wallbounce positions are arbitrarily dependent on the exact geometry of the room. However, when wallbouncing purely for vertical movement, dash upwards for as much of the dash state as possible to maximize use of dash speed. One way to think of this is perform an "extended hyper" timing, but upwards. The extension timing can be biased to be on the later side of the window. Jumping slightly late on the "extension timing" is still allowed thanks to dash-attack leniency. Jumping should be minimized as much as possible compared to dashing and wallbouncing. Look for 2 or 3 dash silhouettes as an indicator of a late wallbounce. <br>
    <img src="https://github.com/kwan22/habits/blob/main/images/lv4/wb_vertical_compilation.png" width="960"> <br>
   These spots are some of the most common movement mistakes by beginners. In all cases, 0 ground or walljumps are required: an updash and late wallbounce is sufficient and optimal.
 
@@ -51,18 +55,18 @@ A general understanding of what bottlenecks are and how they influence all of mo
    <img src="https://github.com/kwan22/habits/blob/main/images/lv4/1a_crossing_3_wb.webp" width="480"> 
    <img src="https://github.com/kwan22/habits/blob/main/images/lv4/7a_1k_trans_wb_2.webp" width="480"> <br>
 
-  In general though, most optimal wallbounce positions are arbitrarily dependent on the exact geometry of the room. Updemo wallbounces add another option to control the wallbounce height. Updemo _approximately_ shifts the lowest possible wallbounce position higher by half a tile, enabling some buffer setups that minimize vertical bottlenecks and removing possible low wallbounce positions. <br>
+  Updemo wallbounces add another option to control the wallbounce position. Updemo _approximately_ shifts the lowest possible wallbounce position higher by half a tile, enabling some buffer setups by removing possible low wallbounce positions. <br>
    <img src="https://github.com/kwan22/habits/blob/main/images/lv4/1a_start_5_updemo.webp" width="480"> 
    <img src="https://github.com/kwan22/habits/blob/main/images/lv4/4a_start_updemo.webp" width="480">   
    <img src="https://github.com/kwan22/habits/blob/main/images/lv4/5b_ttm2_updemo.webp" width="480">   
 
-   Diagonal dashes still have faster vertical speed the jumping. When diagonal dashing upwards to get over a wall, try to reach the wall at or near the end of the dash. Minimize time spent sliding along the wall while dashing: time spent sliding usually means the dash could have been earlier to gain more height. <br>
-  <img src="https://github.com/kwan22/habits/blob/main/images/lv4/7a_2500m_diagdash.png" width="960">  <br>
+   Diagonal dashes still have faster vertical speed the jumping. When diagonal dashing upwards to get over a wall, try to reach the wall at or near the end of the dash. Minimize time spent sliding along the wall while dashing: time spent sliding usually means the dash could have been earlier to gain more height. The dash ends when the 3rd silhouette appears. <br>
+  <img src="https://github.com/kwan22/habits/blob/main/images/lv4/7a_2500m_diagdash.png" width="960">  
 </details>
 
 <details>
   <summary>Crossover</summary>
-  The bottleneck depends on the route your strat takes and can rapidly switch between horizontal and vertical. Be conscious of when/where crossovers happen. For example, on the final climb on Flag 7, the bottleneck changes from vertical to horizontal at the lowest possible position where a wallkick can reach the Badeline orb. A decent cue is about halfway between the snow textures on the wall. <br>
+  The bottleneck depends on the route your strat takes and can rapidly switch between horizontal and vertical. Be conscious of when/where crossovers happen. For example, on the final climb on Flag 7, the bottleneck changes from vertical to horizontal at the lowest possible position where a wallkick can reach the Badeline orb. <br>
   <img src="https://github.com/kwan22/habits/blob/main/images/lv4/7a_flag30.webp" width="480"> 
   <img src="https://github.com/kwan22/habits/blob/main/images/lv4/7a_flag7.webp" width="480"> 
 </details>
@@ -94,7 +98,7 @@ A general understanding of what bottlenecks are and how they influence all of mo
 
 <details>
   <summary>Activating entities</summary>
-  Some entities are optimal to activate by grabbing. The key takeaway is that grabbing can only happen when Madeline is not moving upwards. Make sure she is not moving upwards by releasing jump well before reaching a block you are trying to activate by grabbing.
+  Some entities are best activated by grabbing. The key takeaway is that grabbing can only happen when Madeline is not moving upwards. Make sure she is not moving upwards by releasing jump well before reaching a block you are trying to activate by grabbing.
   <img src="https://github.com/kwan22/habits/blob/main/images/lv4/7a_500m_coin_exit.webp" width="480">
   <img src="https://github.com/kwan22/habits/blob/main/images/lv4/7a_2k_vert.webp" width="480"> <br>
   Extended hypers/wavedashes happen to work very well for getting crumble blocks to disappear quickly and consistently.
@@ -102,8 +106,8 @@ A general understanding of what bottlenecks are and how they influence all of mo
   <img src="https://github.com/kwan22/habits/blob/main/images/lv4/5b_cc_crumbles.webp" width="480">
 </details>
 
-#### DashCD control 
-Be aware of DashCD and movement to intentionally avoid or retain DashCD for setups. Use setups to buffering dashes out of DashCD, related to grounded ultra timing. Managing DashCD from vertical transitions and develop intuition for buffering out of vertical DashCD.
+## DashCD 
+Be aware of DashCD and movement to intentionally avoid or retain DashCD for setups. Use setups to buffering dashes out of DashCD, related to grounded ultra timing. Manage DashCD from vertical transitions and develop intuition for buffering out of vertical DashCD.
 
 <details>
   <summary>Grounded ultra timing</summary>
@@ -137,9 +141,7 @@ Be aware of DashCD and movement to intentionally avoid or retain DashCD for setu
   <img src="https://github.com/kwan22/habits/blob/main/images/lv4/3a_start_post-triplat_super.webp" width="480">
 </details>
 
-The movement rabbit hole goes far too deep for habits to cover. [Here](https://youtu.be/DOCTFCWPW5I) covers many ideas as well.
-
-#### More buffer applications
+## Applied buffering
 Expanding upon the repertoire of concepts that rely on buffering from Level 3.
 
 <details>
@@ -180,7 +182,7 @@ Expanding upon the repertoire of concepts that rely on buffering from Level 3.
   <img src="https://github.com/kwan22/habits/blob/main/images/lv4/5b_mm3_regrab.webp" width="480">
 </details>
 
-#### Option-selecting movement  
+## Option-selecting  
 Making decisions to cover multiple possible outcomes to reduce risk at little/no cost.
 
 <details>
@@ -192,11 +194,18 @@ Making decisions to cover multiple possible outcomes to reduce risk at little/no
 <details>
   <summary>Press extra buttons for safety</summary>
   Hold grab to cover overly aggressive movement, such as a missed clean landing to prevent accidental wallkick or otherwise unwanted results.
-  <img src="https://github.com/kwan22/habits/blob/main/images/lv4/holdgrab.png" width="960">  
+  <img src="https://github.com/kwan22/habits/blob/main/images/lv4/holdgrab.png" width="960">  <br>
+
+  Staggering jump presses can be useful for padding the timing for diagonal demo cornerkicks, as the jump timing can vary significantly depending on the starting dash position.
 </details>
 
-#### Simple pausebuffer timing  
-Learning to buffer the pause at the start of 2a-Intervention and 3a-Suite segways into learning bubsdrop. This will be the only pausebuffer strat learned in the habits, but also acts as a gateway for learning more complicated pausebuffer strats for those who wish to go further.
+## Pausebuffering
+<details>
+  <summary>Bubsdrop</summary>
+From Level 3, we developed a feel for buffering a pause out of transition. Paused bubsdrop will be the only pausebuffer strat learned in the habits, but also acts as a gateway for learning more complicated pausebuffer strats for those who wish to go further. <br>
+  <img src="https://github.com/kwan22/habits/blob/main/images/lv4/5b_cc_bubsdrop.webp" width="480">
+</details>
+
 
 [&#8593; Main page](https://github.com/kwan22/habits/blob/main/README.md)
 

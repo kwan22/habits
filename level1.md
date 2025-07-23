@@ -1,25 +1,25 @@
-## Table of Contents
-- [Introduction](https://github.com/kwan22/habits/blob/main/README.md)
-- [Level 1](https://github.com/kwan22/habits/blob/main/level1.md)
-- [Level 2](https://github.com/kwan22/habits/blob/main/level2.md)
-- [Level 3](https://github.com/kwan22/habits/blob/main/level3.md)
-- [Level 4](https://github.com/kwan22/habits/blob/main/level4.md)
-- [Closing thoughts and FAQ](https://github.com/kwan22/habits/blob/main/conclusions-faq.md)
+[Back to main page](https://github.com/kwan22/habits/blob/main/README.md)
 
 ## Level 1
 
 Level 1 is meant to simulate a player that has just completed a casual playthrough of the base game and wants to immediately jump into speedrunning. They likely have collected some berries here and there, maybe found a few cassettes and blue hearts, but have not played any B-sides or Farewell. They have not been introduced to any of the game-taught speed tech and these rules will reflect that.
 
-#### No tech: jump, dash, and grab  
+## Table of Contents
+- [No tech](#no-tech)
+- [Plan every room](#plan-every-room)
+- [Useful things-to-know](#useful-things-to-know)
+- [Examples](#examples)
+
+## No tech 
 The goal here is to build mastery of the three fundamental actions of Celeste gameplay. Some mastery of these actions is demanded to complete the base game in the first place. Here, the goal is to solidify that mastery and prove we can consistently handle all the challenges of each room.
 
-#### Plan for every room  
+## Plan every room  
 One of the staples of Celeste speedrunning advice for beginners. Every action should be done with intent, and learning is done by repetition. At level 1, this will be generally more vague, such as "reach this platform," "grab this wall," "wait for Oshiro to pass," "stun the seeker here," etc. As the levels rise, these become more detailed and specific.
 
-#### Useful things-to-know  
+## Useful things-to-know  
 These include details about the game that require little to no technical precision and are easy to save time with. This includes routing knowledge, skipping cutscenes, confirming deaths, transitions refilling dashes, and retrying with keys (3a shaft, 7a 2500m).
 
-#### Examples
+## Examples
 
 (click on any of the below to see clips, images, etc)
 
@@ -107,6 +107,6 @@ Take the berry route which can be easily accessed by using transitions to refill
 
 ---
 
-[&#8593; Main page](https://github.com/kwan22/habits/blob/main/README.md)
+[&#8593; Back to top](#level-1)
 
 [Level 2 &#8594;](https://github.com/kwan22/habits/blob/main/level2.md) 

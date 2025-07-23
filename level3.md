@@ -1,19 +1,19 @@
-## Table of Contents
-- [Introduction](https://github.com/kwan22/habits/blob/main/README.md)
-- [Level 1](https://github.com/kwan22/habits/blob/main/level1.md)
-- [Level 2](https://github.com/kwan22/habits/blob/main/level2.md)
-- [Level 3](https://github.com/kwan22/habits/blob/main/level3.md)
-- [Level 4](https://github.com/kwan22/habits/blob/main/level4.md)
-- [Closing thoughts and FAQ](https://github.com/kwan22/habits/blob/main/conclusions-faq.md)
+[Back to main page](https://github.com/kwan22/habits/blob/main/README.md)
 
-## Level 3
+# Level 3
 
 Level 3 rounds out most of the RTA-viable speed tech that most speedrunners will ever encounter. We emphasize a selection of strats with speed generation/conservation, and finding ways to perform them in a consistent manner via normalization. Use of speedrun tool is highly recommended.
 
-#### Extension timing  
+## Table of Contents
+- [Extension timing](#extension-timing)
+- [Leniency and normalization](#basic-leniency-and-normalization)
+- [Advanced techniques](#advanced-techniques)
+- [Active movement](#active-movement)
+
+## Extension timing  
 Perhaps the true bread and butter of Celeste speed tech. If you have to pick one arbitrary timing in this game to memorize for speedrunning, it is this timing. Mastery of the reverse super from Level 2 should have built the dash-to-jump timing into muscle memory that we now utilize more broadly. Many wavedashes can be replaced with extended hypers by removing the "need" to jump.
 
-#### Basic leniency and normalization
+## Basic leniency and normalization
 The goal is to take advantage of various leniency mechanics offered in Celeste to open up more movement options and normalization methods. These leniency mechanics are used at all levels of play, perhaps unintentionally for beginners, but now we begin to be more conscious of using them.
 
 <details>
@@ -47,7 +47,7 @@ The goal is to take advantage of various leniency mechanics offered in Celeste t
   <img src="https://github.com/kwan22/habits/blob/main/images/lv3/7a_2500m_keyskip_boomer.webp" width="480">
 </details>
 
-#### Advanced techniques
+## Advanced techniques
 The use of "advanced" here mostly implies a technique not naturally taught by the game. Players will likely need to have done some external research to learn about these. Keep in mind that there is nothing inherently new about each technique. At the end of the day, everything is some combination of pressing jump, dash, and grab. It is the setup on which these are used that can be challenging to make successful.
 <details>
   <summary>Hyper bhop</summary>
@@ -90,7 +90,7 @@ The use of "advanced" here mostly implies a technique not naturally taught by th
   <img src="https://github.com/kwan22/habits/blob/main/images/lv3/7a_flag12_neutral.webp" width="480">
 </details>
 
-#### Active movement  
+## Active movement  
 Movement should flow from one segment to the next. Movement exiting a room should consciously chain into the next room. Strats are designed such that avoiding hazards is incorporated into the movement when well executed. Transition tech commonly serves as an anchor point of normalization for movement across rooms. Time spent standing still and reacting to the room should be minimized. This is largely enabled by leniency mechanics and often combines them in various ways.
 <details>
   <summary>Examples showcasing active movement</summary>
@@ -101,7 +101,7 @@ Movement should flow from one segment to the next. Movement exiting a room shoul
 
 The "safe" section of the [sub 30 sheet](https://docs.google.com/spreadsheets/d/1HsFtpz_wfA4yrMuZOMX-f69O6ZEZph8db1ReKX8SNIY/edit?gid=0#gid=0) begins to become a useful resource for strats that showcases all of these principles.
 
-[&#8593; Main page](https://github.com/kwan22/habits/blob/main/README.md)
+[&#8593; Back to top](#level-3)
 
 [&#8592; Level 2](https://github.com/kwan22/habits/blob/main/level2.md) 
 
