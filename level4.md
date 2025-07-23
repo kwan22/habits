@@ -15,11 +15,11 @@ The movement rabbit hole goes deeper than the habits can ever hope to cover. Tiy
 - [Pausebuffering](#pausebuffering)
   
 ## Speed hierarchy  
-Know the key properties of the basic speed tech and how they compare to each other.
+Know the key properties of the speed tech and how they compare to each other.
 
 <details>
   <summary>1.2x multiplier</summary>
-  At high speed, a downright becomes faster than a right dash. Here are a couple of examples where it is less visually obvious that performing a downdiagonal for the multiplier is faster than a horizontal dash. <br>
+  At high speed, a downright becomes faster than a right dash. Here are a couple of examples where it is less visually obvious that performing a downdiagonal for the multiplier is faster than a horizontal dash/demo. <br>
   <img src="https://github.com/kwan22/habits/blob/main/images/lv4/2a_start_1,2x.webp" width="480">
   <img src="https://github.com/kwan22/habits/blob/main/images/lv4/3a_suite2_1,2x.webp" width="480"> <br>  
 </details>
@@ -55,7 +55,7 @@ A general understanding of what bottlenecks are and how they influence all of mo
    <img src="https://github.com/kwan22/habits/blob/main/images/lv4/1a_crossing_3_wb.webp" width="480"> 
    <img src="https://github.com/kwan22/habits/blob/main/images/lv4/7a_1k_trans_wb_2.webp" width="480"> <br>
 
-  Updemo wallbounces add another option to control the wallbounce height. Updemo _approximately_ shifts the lowest possible wallbounce position higher by half a tile, enabling some buffer setups by removing possible low wallbounce positions. <br>
+  Updemo wallbounces add another option to control the wallbounce position. Updemo _approximately_ shifts the lowest possible wallbounce position higher by half a tile, enabling some buffer setups by removing possible low wallbounce positions. <br>
    <img src="https://github.com/kwan22/habits/blob/main/images/lv4/1a_start_5_updemo.webp" width="480"> 
    <img src="https://github.com/kwan22/habits/blob/main/images/lv4/4a_start_updemo.webp" width="480">   
    <img src="https://github.com/kwan22/habits/blob/main/images/lv4/5b_ttm2_updemo.webp" width="480">   
@@ -66,7 +66,7 @@ A general understanding of what bottlenecks are and how they influence all of mo
 
 <details>
   <summary>Crossover</summary>
-  The bottleneck depends on the route your strat takes and can rapidly switch between horizontal and vertical. Be conscious of when/where crossovers happen. For example, on the final climb on Flag 7, the bottleneck changes from vertical to horizontal at the lowest possible position where a wallkick can reach the Badeline orb. A decent cue is about halfway between the snow textures on the wall. <br>
+  The bottleneck depends on the route your strat takes and can rapidly switch between horizontal and vertical. Be conscious of when/where crossovers happen. For example, on the final climb on Flag 7, the bottleneck changes from vertical to horizontal at the lowest possible position where a wallkick can reach the Badeline orb. <br>
   <img src="https://github.com/kwan22/habits/blob/main/images/lv4/7a_flag30.webp" width="480"> 
   <img src="https://github.com/kwan22/habits/blob/main/images/lv4/7a_flag7.webp" width="480"> 
 </details>
@@ -194,7 +194,9 @@ Making decisions to cover multiple possible outcomes to reduce risk at little/no
 <details>
   <summary>Press extra buttons for safety</summary>
   Hold grab to cover overly aggressive movement, such as a missed clean landing to prevent accidental wallkick or otherwise unwanted results.
-  <img src="https://github.com/kwan22/habits/blob/main/images/lv4/holdgrab.png" width="960">  
+  <img src="https://github.com/kwan22/habits/blob/main/images/lv4/holdgrab.png" width="960">  <br>
+
+  Staggering jump presses can be useful for padding the timing for diagonal demo cornerkicks, as the jump timing can vary significantly depending on the starting dash position.
 </details>
 
 ## Pausebuffering
