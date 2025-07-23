@@ -2,6 +2,8 @@
 
 # Level 2
 
+<img src = "https://github.com/kwan22/habits/blob/main/images/lv2/lv2.png" width = "960">
+
 Level 2 is meant to simulate a player that has likely already dabbled in speedrunning Celeste and wants to take it more seriously. Perhaps they have completed all the chapters or even 100%'d the game. Here, we nominally unleash the basic speed tech taught in the game. Use of speedrun tool is recommended.
 
 ## Table of Contents

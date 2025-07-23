@@ -2,6 +2,8 @@
 
 # Level 4
 
+<img src = "https://github.com/kwan22/habits/blob/main/images/lv4/lv4.png" width = "960">
+
 Level 4 begins a deeper dive into some of the fundamentals of movement as well as more detailed inner workings of game mechanics and niche situations in which these arise. Situations become more specific and technical: understanding the inner workings is not required to execute the strats, but the details are not obviously available to a player without researching game mechanics and physics. Concepts start to become increasingly complicated, so several examples are provided for illustration. Use of speedrun tool is highly useful for timing movement options. Use of TAS tools can be useful for those interested in diving into the science.
 
 The movement rabbit hole goes deeper than the habits can ever hope to cover. Tiyo has a nice [video](https://youtu.be/DOCTFCWPW5I) presentation going into some more details.
@@ -208,7 +210,7 @@ From Level 3, we developed a feel for buffering a pause out of transition. Pause
 </details>
 
 
-[&#8593; Main page](https://github.com/kwan22/habits/blob/main/README.md)
+[&#8593; Back to top](#level-4)
 
 [&#8592; Level 3](https://github.com/kwan22/habits/blob/main/level3.md) 
 
