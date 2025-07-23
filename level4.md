@@ -37,7 +37,7 @@ Vertical (upwards):
 
 Jumps give a small speed boost and ultras give a 1.2x multiplier. Air friction is weaker than ground friction, which is weaker than crouchsliding friction. Jumps and wallbounces have a short duration at the beginning where they ignore gravity while jump is held. Dashes ignore friction, wind, and retain horizontal speed when sufficiently fast.
 
-TAS documentation ([tech](https://docs.google.com/document/d/1RVXyO7AZB-r7X3FxkxrBob775qWdhfOyBEOGGbnTgws), [reference](https://docs.google.com/document/d/1z4caXIKvoEX-0gK3ApuJaJmDpy8NYAe62Dqt7Xxa9Tk)) provides much more details.
+[TAS documentation](https://docs.google.com/document/d/1RVXyO7AZB-r7X3FxkxrBob775qWdhfOyBEOGGbnTgws) provides much more details.
 
 <details>
   <summary>1.2x multiplier</summary>
