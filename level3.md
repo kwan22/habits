@@ -27,7 +27,7 @@ The goal is to take advantage of various leniency mechanics offered in Celeste t
   Pausing for cutscene skips on transition can be buffered in v1.4. When executed correctly, the pause menu should appear at the end of transition and before Madeline moves. <br>
   <img src="https://github.com/kwan22/habits/blob/main/images/lv3/2a_intervention_1_pause.webp" width="480">
   <img src="https://github.com/kwan22/habits/blob/main/images/lv3/3a_suite_final_pause.webp" width="480"> <br>
-  While missing the buffer out of transition is largely inconsequential for cutscene skips, it provides instant feedback to evaluate if you are properly buffering out of the transition.
+  While missing the buffer out of transition is largely inconsequential for cutscene skips, these are useful diagnostics as they provides instant feedback to evaluate if you are properly buffering out of the transition.
 </details>
 
 <details>
