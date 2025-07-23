@@ -148,7 +148,7 @@ Expanding upon the repertoire of concepts that rely on buffering from Level 3.
 
 <details>
   <summary>Buffering instant or extended hyper</summary>
-  The abuse of the buffer window means the jump timing for instant and extended hypers is now influenced by how early the dash was buffered. Buffering movement in general can be applied basically everywhere but is quite difficult to perform consistently due to the inherently variable timing. Buffering means the action (dash) does not happen at the same time as you pressed the button for it, meaning our muscle memory for extension timing can be thrown off. The setup for the 3a start winged room serves as a good starting point for evaluating ability to buffer extended hypers on landing. <br>
+  When buffering a dash to begin an instant or extended hyper, the abuse of the buffer window means the jump timing is influenced by how early the dash was buffered. Buffering movement in general can be applied basically everywhere but is quite difficult to perform consistently, in part due to the inherently variable timing. Buffering means the action (dash) does not happen at the same time as you pressed the button for it, meaning our muscle memory for extension timing can be thrown off. The setup for the 3a start winged room serves as a good starting point for evaluating ability to buffer extended hypers on landing. <br>
     <img src="https://github.com/kwan22/habits/blob/main/images/lv4/3a_start_winged.webp" width="480">
 </details>
 
