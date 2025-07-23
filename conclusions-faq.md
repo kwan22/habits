@@ -2,6 +2,8 @@
 
 # Closing Thoughts
 
+<img src = "https://github.com/kwan22/habits/blob/main/images/epilogue.png" width = 960>
+
 To summarize the habits at each level:
 
 - Level 1 emphasized having a plan for every room
