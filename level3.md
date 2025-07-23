@@ -101,7 +101,7 @@ Movement should flow from one segment to the next. Movement exiting a room shoul
   Note the use of transition tech and leniency mechanics, including cornercorrection and buffering. Active movement is applicable literally everywhere, but has the most visually obvious impact on cycle-restricted movement. With good active movement, we don't need to worry about cycles or red-dot since those should be incorporated into the movement. However, if anything goes wrong and we get off-cycle, then red-dot can strike at any time.
 </details>
 
-The "safe" section of the [sub 30 sheet](https://docs.google.com/spreadsheets/d/1HsFtpz_wfA4yrMuZOMX-f69O6ZEZph8db1ReKX8SNIY/edit?gid=0#gid=0) begins to become a useful resource for strats that showcases all of these principles.
+The "safe" section of the [Vapo sheet](https://docs.google.com/spreadsheets/d/1HsFtpz_wfA4yrMuZOMX-f69O6ZEZph8db1ReKX8SNIY/edit?gid=0#gid=0) begins to become a useful resource for strats that showcases all of these principles.
 
 [&#8593; Back to top](#level-3)
 
