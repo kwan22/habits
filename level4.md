@@ -193,10 +193,11 @@ Making decisions to cover multiple possible outcomes to reduce risk at little/no
 
 <details>
   <summary>Press extra buttons for safety</summary>
-  Hold grab to cover overly aggressive movement, such as a missed clean landing to prevent accidental wallkick or otherwise unwanted results.
+  Hold grab to cover overly aggressive movement, such as a missed clean landing, to prevent accidental wallkicks. <br>
   <img src="https://github.com/kwan22/habits/blob/main/images/lv4/holdgrab.png" width="960">  <br>
 
-  Staggering jump presses can be useful for padding the timing for diagonal demo cornerkicks, as the jump timing can vary significantly depending on the starting dash position.
+  Staggering jump presses can be useful for padding the timing for diagonal demo cornerkicks, as the jump timing can vary significantly depending on the starting dash position. <br>
+  <img src="https://github.com/kwan22/habits/blob/main/images/lv4/jump_stagger.png" width="960">  <br>
 </details>
 
 ## Pausebuffering
