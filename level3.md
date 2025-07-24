@@ -61,7 +61,7 @@ The use of "advanced" here mostly implies a technique not naturally taught by th
 </details>
 <details>
   <summary>Ultras</summary>
-  Collide with the ground after a downdiagonal dash ends to gain a 1.2x horizontal speed multiplier. Requires a minimum elevation drop of almost 4 tiles from the start of the downdiagonal, dash or an interaction that cancels the dash (e.g. Theo) to preserve the speed. Commonly performed using an extended hyper into downdiagonal. Avoid buffering jump on landing if possible.<br>
+  Collide with the ground after a downdiagonal dash to gain a 1.2x horizontal speed multiplier. Requires a minimum elevation drop of almost 4 tiles from the start of the downdiagonal dash, or an interaction that cancels the dash (e.g. Theo) to preserve the speed. Commonly performed using an extended hyper into downdiagonal. Avoid buffering jump on landing if possible.<br>
   <img src="https://github.com/kwan22/habits/blob/main/images/lv3/2a_start_ultra.webp" width="480">
   <img src="https://github.com/kwan22/habits/blob/main/images/lv3/2a_awake_ultra.webp" width="480">
   <img src="https://github.com/kwan22/habits/blob/main/images/lv3/3a_boxes_ultra.webp" width="480">
@@ -85,7 +85,7 @@ The use of "advanced" here mostly implies a technique not naturally taught by th
 </details>
 <details>
   <summary>Neutrals</summary>
-  Jump off a wall without holding grab and any horizontal directions. Can be used to ascend without spending stamina or normalize horizontal trajectory from a walljump or wallbounce. <br>
+  Jump off a wall without holding grab or any horizontal directions. Can be used to ascend without spending stamina or normalize horizontal trajectory from a walljump or wallbounce. <br>
   <img src="https://github.com/kwan22/habits/blob/main/images/lv3/1a_chasm_leftwall_safe.webp" width="480">
   <img src="https://github.com/kwan22/habits/blob/main/images/lv3/4a_trail_ultra_neutrals.webp" width="480">
   <img src="https://github.com/kwan22/habits/blob/main/images/lv3/6a_hollows_1_neutral.webp" width="480">
