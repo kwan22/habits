@@ -35,7 +35,7 @@ Thank you for reading and (presumably) watching the series. I hope you found thi
 *A: Similar as above. Sure, maybe I was aware of that, maybe I wasn't. If I intentionally excluded it, then I decided it wasn't worth the level of detail to explain in a fundamentals-based approach. If I didn't know about it...well hopefully I didn't egregiously violate any of the habits by not including that detail. I want to say my peer reviewers and I have a good enough grasp of the game where this might pop up occasionally but not be a major issue.*
 
 **Q: What would habits level 5 look like?**  <br>
-*A: The habits stop making sense after Level 4, as further improvement becomes understanding all of the little details specific to every situation. Level 4 itself is already stretching the limits of the habits, but I think we covered some important principles relevant for both movement and consistency.*
+*A: The habits stop making sense after Level 4, as further improvement becomes understanding all of the little details specific to every situation. Level 4 itself is already stretching the limits of the habits, but we covered some important principles relevant for both movement and consistency.*
 
 **Q: 6b when?**  <br>
 *A: Barrier to entry is simply too high. A habits run of 6b would mostly look like a casual playthrough with a "try not to die" mentality.*
