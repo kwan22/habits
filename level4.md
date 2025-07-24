@@ -19,6 +19,26 @@ The movement rabbit hole goes deeper than the habits can ever hope to cover. Tiy
 ## Speed hierarchy  
 Know the key properties of the speed tech and how they compare to each other.
 
+Without going into too much detail, a rough ordering of speed tech, from fastest to slowest, is as follows:
+
+Horizontal:
+- Hyper
+- Super
+- Dash
+- Wallbounce
+- Jump
+- Walk
+
+Vertical (upwards):
+- Updash
+- Wallbounce
+- Jump
+- Hyper
+
+Jumps give a small speed boost and ultras give a 1.2x multiplier. Air friction is weaker than ground friction, which is weaker than crouchsliding friction. Jumps and wallbounces have a short duration at the beginning where they ignore gravity while jump is held. Dashes ignore friction, wind, and retain horizontal speed when sufficiently fast.
+
+[TAS documentation](https://docs.google.com/document/d/1RVXyO7AZB-r7X3FxkxrBob775qWdhfOyBEOGGbnTgws) provides much more details.
+
 <details>
   <summary>1.2x multiplier</summary>
   At high speed, a grounded downright dash becomes faster than a right dash. Here are a couple of examples where it is less visually obvious that performing a downdiagonal for the multiplier is faster than a horizontal dash/demo. <br>
@@ -44,16 +64,15 @@ A general understanding of what bottlenecks are and how they influence all of mo
   Hypers are overall used far more often than supers, but occasionally supers are useful in resolving a vertical bottleneck that still needs to cover some horizontal ground. These are frequently followed by a precise updash, which are easier to time with a super thanks to the reduced horizontal speed. <br>
   <img src="https://github.com/kwan22/habits/blob/main/images/lv4/1a_crossing6_super.webp" width="480">
   <img src="https://github.com/kwan22/habits/blob/main/images/lv4/7a_flag21_super.webp" width="480"> <br>
-  In both of these cases, a hyper would require an extra climbjump.
 </details>
 
 <details>
   <summary>Dashes, wallbounces and walljumps </summary>
-  In general, most optimal wallbounce positions are arbitrarily dependent on the exact geometry of the room. However, when wallbouncing purely for vertical movement, dash upwards for as much of the dash state as possible to maximize use of dash speed. One way to think of this is perform an "extended hyper" timing, but upwards. The extension timing can be biased to be on the later side of the window. Jumping slightly late on the "extension timing" is still allowed thanks to dash-attack leniency. Jumping should be minimized as much as possible compared to dashing and wallbouncing. Look for 2 or 3 dash silhouettes as an indicator of a late wallbounce. <br>
+  In general, most optimal wallbounce positions are arbitrarily dependent on the exact geometry of the room. However, when wallbouncing purely for vertical movement, it's best to dash upwards for as much of the dash state as possible to maximize use of dash speed. One way to think of this is perform an "extended hyper" timing, but upwards. The extension timing can be biased to be on the later side of the window. Jumping slightly late on the "extension timing" is still allowed thanks to dash-attack leniency. Jumping should be minimized as much as possible compared to dashing and wallbouncing. Look for 2 or 3 dash silhouettes as an indicator of a late wallbounce. <br>
    <img src="https://github.com/kwan22/habits/blob/main/images/lv4/wb_vertical_compilation.png" width="960"> <br>
   These spots are some of the most common movement mistakes by beginners. In all cases, 0 ground or walljumps are required: an updash and late wallbounce is sufficient and optimal.
 
-  Conversely, when the height of the wallbounce (or walljump) is needed but the bottleneck is horizontal, then an early jump as possible is desired. Many transition wallbounces fall under this category, where vertical speed is reset to jump speed upon transition, but the horizontal speed from the wallbounce is also helpful. <br>
+  Conversely, when the height of the wallbounce (or walljump) is needed but the bottleneck is horizontal, then an early jump as possible is desired. Many transition wallbounces fall under this category. Vertical speed is reset to jump speed upon transition, so the advantage of having vertical dash speed is not retained through transitions. The horizontal speed from the wallbounce might be more useful. <br>
    <img src="https://github.com/kwan22/habits/blob/main/images/lv4/1a_crossing_3_wb.webp" width="480"> 
    <img src="https://github.com/kwan22/habits/blob/main/images/lv4/7a_1k_trans_wb_2.webp" width="480"> <br>
 
@@ -148,7 +167,7 @@ Expanding upon the repertoire of concepts that rely on buffering from Level 3.
 
 <details>
   <summary>Buffering instant or extended hyper</summary>
-  When buffering a dash to begin an instant or extended hyper, the abuse of the buffer window means the jump timing is influenced by how early the dash was buffered. Buffering movement in general can be applied basically everywhere but is quite difficult to perform consistently, in part due to the inherently variable timing. Buffering means the action (dash) does not happen at the same time as you pressed the button for it, meaning our muscle memory for extension timing can be thrown off. The setup for the 3a start winged room serves as a good starting point for evaluating ability to buffer extended hypers on landing. <br>
+  Buffering movement in general can be applied basically everywhere but is quite difficult to perform consistently, in part due to the inherently variable timing. When landing without a dash to buffering a dash, say, to begin an instant or extended hyper, the abuse of the buffer window means the jump timing is influenced by how early the dash was buffered. A buffered action (dash) does not happen at the same time as the button press, meaning our muscle memory for extension timing can be thrown off. The setup for the 3a start winged room serves as a good starting point for evaluating ability to buffer extended hypers on landing. <br>
     <img src="https://github.com/kwan22/habits/blob/main/images/lv4/3a_start_winged.webp" width="480">
 </details>
 

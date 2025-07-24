@@ -37,13 +37,6 @@ Thank you for reading and (presumably) watching the series. I hope you found thi
 **Q: What would habits level 5 look like?**  <br>
 *A: The habits stop making sense after Level 4, as further improvement becomes understanding all of the little details specific to every situation. Level 4 itself is already stretching the limits of the habits, but I think we covered some important principles relevant for both movement and consistency.*
 
-**Q: Why not play 5b from Level 1? Why bother spending time learning 5a if we're just switching to 5b at Level 4?**  <br>
-*A: There is some merit to this idea, and a habits series could be viable starting with 5b from Level 1, but my justifications are the following:*
-1. 5b presents a high barrier to entry that simply isn't necessary at a beginner level.
-2. 5b requires niche tech (pause-buffering, neutral spikejump) to save time over 5a in the first place. I originally did not want to ever introduce pause-buffering as it's a textbook example of only being useful in extremely niche situations. However, I decided that pause-buffering is still a useful skill to have and muscle memory to learn at the highest habits level.
-3. Search skip is a nice gateway to learning extension timing, just like how bubsdrop can be a gateway to learning more complex pause strats like 3a fast demo and 4a 2nd blockless for those looking to push further beyond the habits, as well as performing some basic science.
-4. With good fundamentals at Level 3, skills are transferable and learning 5b is not that different from learning more in 5a.
-
 **Q: 6b when?**  <br>
 *A: Barrier to entry is simply too high. A habits run of 6b would mostly look like a casual playthrough with a "try not to die" mentality.*
 

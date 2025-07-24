@@ -1,6 +1,6 @@
 # Building Habits: Developing Fundamentals of Celeste Speedrunning
 
-<img src = "https://github.com/kwan22/habits/blob/main/images/levelup.png" width = 960>
+<img src = "https://github.com/kwan22/habits/blob/main/images/prologue_dash.png" width = 960>
 
 ## Table of Contents
 - [Introduction](#introduction)
@@ -21,7 +21,7 @@ For those curious, [the chess series can be found here](https://www.youtube.com/
 
 Note that "getting the fastest time we can" or anything along those lines is **not** an explicit goal of the habits. The philosophy here is that fast times will naturally follow upon mastery of the fundamentals. Just like in the chess habits, there will be 4 levels of habits, starting from a complete beginner, and compounding on skills and concepts focused on in previous levels. A key focus will be on **incremental learning**, where we gradually increase our skillsets and knowledge to not overwhelm ourselves with details. A common theme will be learning fundamental principles at one level, and then applying them in more specific ways at higher levels.
 
-![Block](https://github.com/kwan22/habits/blob/main/images/shrine_block.png)
+<img src = "https://github.com/kwan22/habits/blob/main/images/levelup.png" width = 960>
 
 All levels of the habits will follow two global rules:
 
