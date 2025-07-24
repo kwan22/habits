@@ -100,6 +100,9 @@ Go top on both 2nd and 3rd forks. <br>
 Go bottom on the 4th and top on the 5th forks. <br>
 <img src = "https://github.com/kwan22/habits/blob/main/images/lv1/6a_hollows_4th5thsplit.png" width = "960">
 
+The Badeline fight section is full of red dots, perhaps more literally this time. No need to be a hero, just dodge the hazards when they're close. <br>
+<img src = "https://github.com/kwan22/habits/blob/main/images/lv1/6a_rb_1.webp" width = "480">
+<img src = "https://github.com/kwan22/habits/blob/main/images/lv1/6a_rb_2.webp" width = "480">
 </details>
 <details>
 <summary>Summit</summary>
