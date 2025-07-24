@@ -42,7 +42,6 @@ Transitions refill dashes! <br>
 <img src = "https://github.com/kwan22/habits/blob/main/images/lv1/3a_key1.webp" width = "480">
 
 The "red dot": be aware of when Oshiro is about to charge and ensure you have space to dodge. Whether your strat is able to line up with the Oshiro cycles shown in the clips depends on your movement: apply the red-dot principle to whatever Oshiro cycle you end up settling upon. <br>
-    <img src = "https://github.com/kwan22/habits/blob/main/images/lv1/3a_final_2.webp" width = "480">
     <img src = "https://github.com/kwan22/habits/blob/main/images/lv1/3a_final_3.webp" width = "480">
 </details>
 
@@ -61,7 +60,6 @@ The "red dot": be aware of when Oshiro is about to charge and ensure you have sp
 
   Use seekers to hit coins for you. <br>
   <img src = "https://github.com/kwan22/habits/blob/main/images/lv1/5a_unraveling_coin1.webp" width = "480">
-  <img src = "https://github.com/kwan22/habits/blob/main/images/lv1/5a_unraveling_2ndlast.webp" width = "480"> <br>
 
   Learn to feel comfortable with stunning a charging seeker. Similar to the Oshiro red-dot: make it a priority to deal with these before making progress. Seekers are much smaller and easier to jump over, so stunning them gives you several seconds of free movement. The easiest way to do this is to do a big jump as they approach, and then dash down onto their heads as they pass under you. <br>
   <img src = "https://github.com/kwan22/habits/blob/main/images/lv1/5a_unraveling_final_cut.webp" width = "480"><br>
@@ -86,7 +84,6 @@ The "red dot": be aware of when Oshiro is about to charge and ensure you have sp
 <img src = "https://github.com/kwan22/habits/blob/main/images/lv1/5a_rescue_berryroom_slow2.webp" width = "480">
 
   Stick to the plan: make sure the seeker is stunned if you tried but missed it. Your plan should be movement you are familiar with and practiced in so you don't need to improvise. <br>
-  <img src = "https://github.com/kwan22/habits/blob/main/images/lv1/5a_rescue_seeker_final_1miss_slow.webp" width = "480">
 </details>
 
 <details>
