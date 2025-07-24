@@ -18,19 +18,15 @@ This includes supers, hypers, wallbounces, and wavedashes. I specify wavedash he
 <details>
   <summary>Hypers and wavedashes</summary>
   Some examples of where basic speed tech is useful and provides large returns on timesave.<br>
-  <img src="https://github.com/kwan22/habits/blob/main/images/lv2/1a_crossing6_wave.webp" width="480"/>
   <img src="https://github.com/kwan22/habits/blob/main/images/lv2/4a_shrine_block_wave.webp" width="480"/>
   <img src="https://github.com/kwan22/habits/blob/main/images/lv2/5a_start_bubbleskip.webp" width="480"/>
-  <img src="https://github.com/kwan22/habits/blob/main/images/lv2/6a_lake_kevin_reroute.webp" width="480"/>
 </details>
 
 <details>
   <summary>Wallbounces</summary>
   Wallbounces at Level 2 improve vertical speed over climbjumping and occasionally enable some skips. <br>
-  <img src="https://github.com/kwan22/habits/blob/main/images/lv2/2a_start_wb.webp" width="480"/>
   <img src="https://github.com/kwan22/habits/blob/main/images/lv2/7a_500m_wb.webp" width="480"/>
   <img src="https://github.com/kwan22/habits/blob/main/images/lv2/7a_2000m_berry1.webp" width="480"/>
-  <img src="https://github.com/kwan22/habits/blob/main/images/lv2/7a_flag2_wb3.webp" width="480"/>
 </details>
 
 <details>
