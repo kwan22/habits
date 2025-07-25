@@ -4,7 +4,7 @@
 
 <img src = "https://github.com/kwan22/habits/blob/main/images/lv1.png" width = "960">
 
-Level 1 is meant to simulate a player that has just completed a casual playthrough of the base game and wants to immediately jump into speedrunning. They likely have collected some berries here and there, maybe found a few cassettes and blue hearts, but have not played any B-sides or Farewell. They have not been introduced to any of the game-taught speed tech and these rules will reflect that.
+Level 1 is aimed at players who just completed a casual playthrough of the base game and wants to immediately jump into speedrunning. They likely have collected some berries here and there, maybe found a few cassettes and blue hearts, but have not played any B-sides or Farewell. They have not been introduced to any of the game-taught speed tech and these rules will reflect that.
 
 ## Table of Contents
 - [No tech](#no-tech)
@@ -21,6 +21,8 @@ One of the staples of Celeste speedrunning advice for beginners. Every action sh
 ## Useful things-to-know  
 These include details about the game that require little to no technical precision and are easy to save time with. This includes routing knowledge, skipping cutscenes, confirming deaths, transitions refilling dashes, and retrying with keys (3a shaft, 7a 2500m).
 
+
+
 ## Examples
 
 (click on any of the below to see clips, images, etc)
@@ -28,7 +30,7 @@ These include details about the game that require little to no technical precisi
 <details>
 <summary>Old Site</summary>
 
-The last Badeline room conveniently has a dev shortcut. Jump off the crumble block to make it disappear faster. Maneuvering around the ice block opens up another shortcut: lining up against the wall above it may be useful. Be sure to not grab when passing by it. <br>
+The last Badeline room conveniently has a dev shortcut. Jump off the crumble block to make it disappear faster. Maneuvering around the ice block opens up another shortcut: lining up against the wall above it may be useful. Be sure to not grab when passing by the ice block, as grabbing the block will activate it to fall. <br>
 <img src = "https://github.com/kwan22/habits/blob/main/images/lv1/2a_intervention_dev.webp" width = "480">
   
 The plan for the last few coins in the Badeline chase sequence is to never cross your own path. <br>
@@ -41,8 +43,12 @@ The plan for the last few coins in the Badeline chase sequence is to never cross
 Transitions refill dashes! <br>
 <img src = "https://github.com/kwan22/habits/blob/main/images/lv1/3a_key1.webp" width = "480">
 
-The "red dot": be aware of when Oshiro is about to charge and ensure you have space to dodge. Whether your strat is able to line up with the Oshiro cycles shown in the clips depends on your movement: apply the red-dot principle to whatever Oshiro cycle you end up settling upon. <br>
+Introducing the "red dot," a term borrowed from the chess habits. The idea is to be aware of when a major hazard is about to strike (Oshiro is about to charge) and ensure you have space to dodge. Whether your strat is able to line up with the Oshiro cycles shown in the clips depends on your movement: apply the red-dot principle to whatever Oshiro cycle you end up settling upon. <br>
+    <img src = "https://github.com/kwan22/habits/blob/main/images/lv1/3a_final_2.webp" width = "480">
     <img src = "https://github.com/kwan22/habits/blob/main/images/lv1/3a_final_3.webp" width = "480">
+
+The origin story of the red dot in the chess habits is a pin against the king.
+
 </details>
 
 <details>
@@ -61,11 +67,11 @@ The "red dot": be aware of when Oshiro is about to charge and ensure you have sp
   Use seekers to hit coins for you. <br>
   <img src = "https://github.com/kwan22/habits/blob/main/images/lv1/5a_unraveling_coin1.webp" width = "480">
 
-  Learn to feel comfortable with stunning a charging seeker. Similar to the Oshiro red-dot: make it a priority to deal with these before making progress. Seekers are much smaller and easier to jump over, so stunning them gives you several seconds of free movement. The easiest way to do this is to do a big jump as they approach, and then dash down onto their heads as they pass under you. <br>
+  Learn to feel comfortable with stunning a charging seeker. Similar to the Oshiro red-dot: make it a priority to deal with these before making progress. Seekers are much smaller and easier to jump over compared to Oshiro, so stunning them gives you several seconds of free movement. The easiest way to stun them is to do a big jump as they approach, and then dash down onto their heads as they pass under you. <br>
   <img src = "https://github.com/kwan22/habits/blob/main/images/lv1/5a_unraveling_final_cut.webp" width = "480"><br>
   Aim for the high ground! Try to not let seekers approach you from above: letting them approach you from below or horizontally is much more reliable in jumping on top of them (cue Star Wars memes).<br>
   
-  Seekers are technically deterministic but can have wildly different behaviors with slight changes in movement. Learning to stun seekers on command allows us a few seconds of free movement and mitigates their unpredictable behavior. You may find that you need to stun seekers in different spots than the strats shown here.
+  Seekers technically have no RNG but can have wildly different behaviors with slight changes in movement. Learning to stun seekers on command allows us a few seconds of free movement and mitigates their unpredictable behavior. You may find that you need to stun seekers in different spots than the strats shown here.
   
   Route for getting search keys that avoids the most seekers. <br>
   <img src = "https://github.com/kwan22/habits/blob/main/images/lv1/5a_search_keys.png" alt = "5a_search_keys" width = "960">
