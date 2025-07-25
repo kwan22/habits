@@ -79,7 +79,7 @@ A general understanding of what bottlenecks are and how they influence all of mo
    <img src="https://github.com/kwan22/habits/blob/main/images/lv4/4a_start_updemo.webp" width="480">   
    <img src="https://github.com/kwan22/habits/blob/main/images/lv4/5b_ttm2_updemo.webp" width="480">   
 
-   Diagonal dashes still have faster vertical speed the jumping. When diagonal dashing upwards to get over a wall, try to reach the wall at or near the end of the dash. Minimize time spent sliding along the wall while dashing: time spent sliding usually means the dash could have been earlier to gain more height. The dash ends when the 3rd silhouette appears. <br>
+   Diagonal dashes still have faster vertical speed than jumping. When diagonal dashing upwards to get over a wall, try to reach the wall at or near the end of the dash. Minimize time spent sliding along the wall while dashing: time spent sliding usually means the dash could have been earlier to start gaining height sooner. The dash ends when the 3rd silhouette appears. <br>
   <img src="https://github.com/kwan22/habits/blob/main/images/lv4/7a_2500m_diagdash.png" width="960">  
 </details>
 
@@ -147,8 +147,8 @@ Be aware of DashCD and movement to intentionally avoid or retain DashCD for setu
 </details>
 
 <details>
-  <summary>Retaining DashCD</summary>
-  Some setups intentionally retain DashCD to make a dash in the next room more lenient by allowing to be bufferable. These often require precise positioning at the end of the previous room where the dash starts. Keep in mind that the dash in the next room is buffered out of DashCD in these cases, which is slightly after the transition ends as defined by the setup. <br>
+  <summary>DashCD setups</summary>
+  Some setups intentionally use DashCD to make a dash in the next room more lenient by allowing to be bufferable. These often require precise positioning at the end of the previous room where the dash starts. Keep in mind that the dash in the next room is buffered out of DashCD in these cases, which is slightly after the transition ends as defined by the setup. <br>
   <img src="https://github.com/kwan22/habits/blob/main/images/lv4/5b_mm_final.webp" width="480">
   <img src="https://github.com/kwan22/habits/blob/main/images/lv4/6a_hollows_kevinslide.webp" width="480">
 </details>
@@ -185,7 +185,7 @@ Expanding upon the repertoire of concepts that rely on buffering from Level 3.
 
 <details>
   <summary>Neutral and turnarounds</summary>
-  These require slightly more technical precision with having to go neutral or turnaround grab before the jump input, though the window is quite forgiving comapred to extension timing. In some cases, the movement to set up the cornerkick is more difficult than the actual cornerkick. <br>
+  These require slightly more technical precision with having to go neutral or turnaround grab before the jump input, though the window is quite forgiving compared to extension timing. In some cases, the movement to set up the cornerkick is more difficult than the actual cornerkick. <br>
   <img src="https://github.com/kwan22/habits/blob/main/images/lv4/1a_chasm_ck.webp" width="480">
   <img src="https://github.com/kwan22/habits/blob/main/images/lv4/2a_intervention_tcj.webp" width="480">
   <img src="https://github.com/kwan22/habits/blob/main/images/lv4/5a_depths_dcb_setup.webp" width="480">
@@ -196,7 +196,7 @@ Expanding upon the repertoire of concepts that rely on buffering from Level 3.
 
 <details>
   <summary>Theo regrabs</summary>
-  Dash before releasing grab to use the buffer window to instantly regrab Theo with a diagonal dashing after throwing. <br>
+  Dash shortly **before** releasing grab to use the buffer window to instantly regrab Theo with a diagonal dashing after throwing. Pressing dash before means the dash will come out as soon as you release grab.<br>
   <img src="https://github.com/kwan22/habits/blob/main/images/lv4/5b_mm2_regrab.webp" width="480"> 
   <img src="https://github.com/kwan22/habits/blob/main/images/lv4/5b_mm3_regrab.webp" width="480">
 </details>
