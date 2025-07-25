@@ -69,7 +69,7 @@ The use of "advanced" here mostly implies a technique not naturally taught by th
 </details>
 <details>
   <summary>Cornerboosts </summary>
-  Climbjump near a corner for a chance to gain a small speed boost. May contain "rng" depending on the setup. <br>
+  Climbjump near a corner to gain a small speed boost. Getting the speed boost may contain "rng" depending on the setup. <br>
   <img src="https://github.com/kwan22/habits/blob/main/images/lv3/1a_start_wavecb.webp" width="480">
   <img src="https://github.com/kwan22/habits/blob/main/images/lv3/3a_start_cb.webp" width="480">
   <img src="https://github.com/kwan22/habits/blob/main/images/lv3/6a_hollows_1_cb.webp" width="480">
