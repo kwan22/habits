@@ -79,7 +79,7 @@ The "red dot": be aware of when Oshiro is about to charge and ensure you have sp
   <img src = "https://github.com/kwan22/habits/blob/main/images/lv1/5a_rescue_nofear_slow.webp" alt = "5a_rescue_nofear" width = "480"> <br>
   The red-dot principle still applies. Seekers can charge even when they're offscreen and can quickly catch up to you while you're throwing and regrabbing Theo. 
 
-  Stunning a seeker while carrying Theo is a bit trickier since you can't dash while holding Theo. Handle the seeker and Theo separately, stunning the seeker where you can. A common tactic is to jump over the seeker, throw Theo forward, and then stun the seeker using the jump+downdash method. <br>
+  Stunning a seeker while carrying Theo is a bit trickier since you can't dash while holding Theo. Handle the seeker and Theo separately, stunning the seeker where you can. A simple tactic is to jump over the seeker, throw Theo forward, and then stun the seeker using the jump+downdash method. <br>
 <img src = "https://github.com/kwan22/habits/blob/main/images/lv1/5a_rescue_berryroom_slow1.webp" width = "480">
 <img src = "https://github.com/kwan22/habits/blob/main/images/lv1/5a_rescue_berryroom_slow2.webp" width = "480">
 
