@@ -13,7 +13,7 @@ Level 3 rounds out most of the RTA-viable speed tech that most speedrunners will
 - [Active movement](#active-movement)
 
 ## Extension timing  
-Perhaps the true bread and butter of Celeste speed tech. If you have to pick one arbitrary timing in this game to memorize for speedrunning, it is this timing. Mastery of the reverse super from Level 2 should have built the dash-to-jump timing into muscle memory that we now utilize more broadly. Many wavedashes can be replaced with extended hypers by removing the "need" to jump.
+Perhaps the true bread and butter of Celeste speed tech. If you have to pick one arbitrary timing in this game to memorize for speedrunning, it is this timing. Mastery of the reverse super from Level 2 should have built the dash-to-jump timing into muscle memory that we now utilize more broadly. Many wavedashes can be replaced with extended hypers by removing the "need" to jump before downdiagonal dashing as taught in wavedash.ppt.
 
 ## Basic leniency and normalization
 The goal is to take advantage of various leniency mechanics offered in Celeste to open up more movement options and normalization methods. These leniency mechanics are used at all levels of play, perhaps unintentionally for beginners, but now we begin to be more conscious of using them.
@@ -69,7 +69,7 @@ The use of "advanced" here mostly implies a technique not naturally taught by th
 </details>
 <details>
   <summary>Cornerboosts </summary>
-  Climbjump near a corner to gain a small speed boost. Getting the speed boost may contain "rng" depending on the setup. <br>
+  Buffer a climbjump near a corner to gain a small speed boost. Getting the speed boost may contain "rng" depending on the setup. <br>
   <img src="https://github.com/kwan22/habits/blob/main/images/lv3/1a_start_wavecb.webp" width="480">
   <img src="https://github.com/kwan22/habits/blob/main/images/lv3/3a_start_cb.webp" width="480">
   <img src="https://github.com/kwan22/habits/blob/main/images/lv3/6a_hollows_1_cb.webp" width="480">
