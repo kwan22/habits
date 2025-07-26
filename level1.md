@@ -40,14 +40,16 @@ The plan for the last few coins in the Badeline chase sequence is to never cross
 <details>
   <summary>Celestial Resort</summary>
   
-Transitions refill dashes! <br>
+Transitions refill dashes and retries keep keys. <br>
 <img src = "https://github.com/kwan22/habits/blob/main/images/lv1/3a_key1.webp" width = "480">
+<img src = "https://github.com/kwan22/habits/blob/main/images/lv1/3a_shaft_keyretry.png" width = "480">
+
 
 Introducing the "red dot," a term borrowed from the chess habits. The idea is to be aware of when a major hazard is about to strike (Oshiro is about to charge) and ensure you have space to dodge. Whether your strat is able to line up with the Oshiro cycles shown in the clips depends on your movement: apply the red-dot principle to whatever Oshiro cycle you end up settling upon. <br>
     <img src = "https://github.com/kwan22/habits/blob/main/images/lv1/3a_final_2.webp" width = "480">
     <img src = "https://github.com/kwan22/habits/blob/main/images/lv1/3a_final_3.webp" width = "480">
 
-The origin story of the red dot in the chess habits is a pin against the king.
+The [origin story of the red dot](https://youtu.be/K82MVHQjmZ4?si=AchsHCyqKnHZkPJN&t=1717) in the chess habits is a pin against the castled king on the g-file.
 
 </details>
 
@@ -66,6 +68,7 @@ The origin story of the red dot in the chess habits is a pin against the king.
 
   Use seekers to hit coins for you. <br>
   <img src = "https://github.com/kwan22/habits/blob/main/images/lv1/5a_unraveling_coin1.webp" width = "480">
+  <img src = "https://github.com/kwan22/habits/blob/main/images/lv1/5a_unraveling_2ndlast.webp" width = "480">
 
   Learn to feel comfortable with stunning a charging seeker. Similar to the Oshiro red-dot: make it a priority to deal with these before making progress. Seekers are much smaller and easier to jump over compared to Oshiro, so stunning them gives you several seconds of free movement. The easiest way to stun them is to do a big jump as they approach, and then dash down onto their heads as they pass under you. <br>
   <img src = "https://github.com/kwan22/habits/blob/main/images/lv1/5a_unraveling_final_cut.webp" width = "480"><br>
@@ -86,10 +89,15 @@ The origin story of the red dot in the chess habits is a pin against the king.
   The red-dot principle still applies. Seekers can charge even when they're offscreen and can quickly catch up to you while you're throwing and regrabbing Theo. 
 
   Stunning a seeker while carrying Theo is a bit trickier since you can't dash while holding Theo. Handle the seeker and Theo separately, stunning the seeker where you can. A simple tactic is to jump over the seeker, throw Theo forward, and then stun the seeker using the jump+downdash method. <br>
-<img src = "https://github.com/kwan22/habits/blob/main/images/lv1/5a_rescue_berryroom_slow1.webp" width = "480">
-<img src = "https://github.com/kwan22/habits/blob/main/images/lv1/5a_rescue_berryroom_slow2.webp" width = "480">
+  <img src = "https://github.com/kwan22/habits/blob/main/images/lv1/5a_rescue_berryroom_slow1.webp" width = "480">
+  <img src = "https://github.com/kwan22/habits/blob/main/images/lv1/5a_rescue_berryroom_slow2.webp" width = "480">
+
+  If you can jump, dash, and grab, then you can dash, grab and jump. Mastery of basic actions! <br>
+  <img src = "https://github.com/kwan22/habits/blob/main/images/lv1/5a_rescue_2seeker.webp" width = "480">
 
   Stick to the plan: make sure the seeker is stunned if you tried but missed it. Your plan should be movement you are familiar with and practiced in so you don't need to improvise. <br>
+  <img src = "https://github.com/kwan22/habits/blob/main/images/lv1/5a_rescue_seeker_final_1miss_slow.webp" width = "480">
+
 </details>
 
 <details>
@@ -97,20 +105,31 @@ The origin story of the red dot in the chess habits is a pin against the king.
 
   There are 6 route forks between top and bottom routes in Hollows. The 1st and last forks are relatively inconsequential (bottom for 1st fork and top for last fork are generally recommended, pick your favorite), but forks 2-5 should be prescribed.
 
-Go top on both 2nd and 3rd forks. <br>
-<img src = "https://github.com/kwan22/habits/blob/main/images/lv1/6a_hollows_2ndsplit.png" width = "480">
-<img src = "https://github.com/kwan22/habits/blob/main/images/lv1/6a_hollows_3rdsplit.png" width = "480"> <br>
-Go bottom on the 4th and top on the 5th forks. <br>
-<img src = "https://github.com/kwan22/habits/blob/main/images/lv1/6a_hollows_4th5thsplit.png" width = "960">
+  Go top on both 2nd and 3rd forks. <br>
+  <img src = "https://github.com/kwan22/habits/blob/main/images/lv1/6a_hollows_2ndsplit.png" width = "480">
+  <img src = "https://github.com/kwan22/habits/blob/main/images/lv1/6a_hollows_3rdsplit.png" width = "480"> <br>
+  Go bottom on the 4th and top on the 5th forks. <br>
+  <img src = "https://github.com/kwan22/habits/blob/main/images/lv1/6a_hollows_4th5thsplit.png" width = "960">
 
-The Badeline fight section is full of red dots, perhaps more literally this time. No need to be a hero, just dodge the hazards when they're close. <br>
-<img src = "https://github.com/kwan22/habits/blob/main/images/lv1/6a_rb_1.webp" width = "480">
-<img src = "https://github.com/kwan22/habits/blob/main/images/lv1/6a_rb_2.webp" width = "480">
+  The Badeline fight section is full of red dots, perhaps more literally this time. No need to be a hero, just dodge the hazards when they're close. <br>
+  <img src = "https://github.com/kwan22/habits/blob/main/images/lv1/6a_rb_1.webp" width = "480">
+  <img src = "https://github.com/kwan22/habits/blob/main/images/lv1/6a_rb_2.webp" width = "480">
 </details>
 <details>
 <summary>Summit</summary>
-Take the berry route which can be easily accessed by using transitions to refill dashes. <br>
-<img src = "https://github.com/kwan22/habits/blob/main/images/lv1/7a_2k_toproute.webp" width = "480">
+
+  Take the first fork upwards in 1000m. <br>
+  <img src = "https://github.com/kwan22/habits/blob/main/images/lv1/7a_1k_route.png" width = "480">
+
+  Dream blocks can be grabbed on the exit side by holding grab and the opposite horizontal direction. This can slow down the movement if the dash rhythm and/or positioning is hard to keep up with. <br>
+  <img src = "https://github.com/kwan22/habits/blob/main/images/lv1/7a_1k_dreamgrab.webp" width = "480">
+  
+  Take the berry route which can be easily accessed by using transitions to refill dashes. <br>
+  <img src = "https://github.com/kwan22/habits/blob/main/images/lv1/7a_2k_toproute.webp" width = "480">
+
+  Retry with the 2500m key is fast. <br>
+  <img src = "https://github.com/kwan22/habits/blob/main/images/lv1/7a_2500m_keyretry.png" width = "480">
+  
 </details>
 
 ---
