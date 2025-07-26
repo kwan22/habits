@@ -21,10 +21,10 @@ The goal is to take advantage of various leniency mechanics offered in Celeste t
 <details>
   <summary>Transition buffers</summary>
   Dash through a transition and jump after to perform the dash tech across the screen transition. One of the best ways to normalize movement. <br>
+  <img src="https://github.com/kwan22/habits/blob/main/images/lv3/1a_crossing_trans_wb.webp" width="480">
   <img src="https://github.com/kwan22/habits/blob/main/images/lv3/4a_shrine_trans_wb.webp" width="480">
   <img src="https://github.com/kwan22/habits/blob/main/images/lv3/5a_depths_transhyper_shortjump.webp" width="480">
   <img src="https://github.com/kwan22/habits/blob/main/images/lv3/7a_2500m_3_transsuper.webp" width="480">
-  <img src="https://github.com/kwan22/habits/blob/main/images/lv3/7a_2500m_demohyper1.webp" width="480">
 
   Pausing for cutscene skips on transition can be buffered in v1.4. When executed correctly, the pause menu should appear at the end of transition and before Madeline moves. <br>
   <img src="https://github.com/kwan22/habits/blob/main/images/lv3/2a_intervention_1_pause.webp" width="480">
@@ -42,7 +42,7 @@ The goal is to take advantage of various leniency mechanics offered in Celeste t
   Jumpthroughs, moving platforms, and clouds are even more forgiving with cornercorrection.<br> 
   <img src="https://github.com/kwan22/habits/blob/main/images/lv3/4a_start_triplat.webp" width="480">
   <img src="https://github.com/kwan22/habits/blob/main/images/lv3/4a_face_4_demohyper.webp" width="480">
-  <img src="https://github.com/kwan22/habits/blob/main/images/lv3/6a_resolution_super.webp" width="480"> <br>
+  <img src="https://github.com/kwan22/habits/blob/main/images/lv3/6a_resolution_super.webp" width="480">
   <img src="https://github.com/kwan22/habits/blob/main/images/lv3/7a_flag19.webp" width="480">
 
   Flag 1 has the gauntlet of cornercorrection. Many of the platform heights line up well with combinations of jumps, updashes, and updiagonal dashes. <br>
@@ -51,7 +51,6 @@ The goal is to take advantage of various leniency mechanics offered in Celeste t
 <details>
   <summary>Buffer setups</summary>
   Gradual introduction of the buffer mechanic with some setups that rely heavily on buffering to be viable. Jumps on or near spikes ("spikejumps") are common examples. The timesave from these is cool but not important: these are more useful as diagnostics in that the strat fails with improper buffering. <br>
-  <img src="https://github.com/kwan22/habits/blob/main/images/lv3/1a_chasm_spikejump.webp" width="480">
   <img src="https://github.com/kwan22/habits/blob/main/images/lv3/3a_boxes_spikejump.webp" width="480">
   <img src="https://github.com/kwan22/habits/blob/main/images/lv3/4a_shrine_spikejump.webp" width="480">
   <img src="https://github.com/kwan22/habits/blob/main/images/lv3/5a_unraveling_spikejump.webp" width="480">
@@ -110,7 +109,6 @@ Movement should flow from one segment to the next. Movement exiting a room shoul
   <summary>Examples showcasing active movement</summary>
   <img src="https://github.com/kwan22/habits/blob/main/images/lv3/3a_start_triplat_active.webp" width="480">
   <img src="https://github.com/kwan22/habits/blob/main/images/lv3/3a_suite_final.webp" width="480"> 
-  <img src="https://github.com/kwan22/habits/blob/main/images/lv3/5a_rescue_start.webp" width="480"> <br>
   Note the use of transition buffers and cornercorrection. Active movement is applicable literally everywhere, but has the most visually obvious impact on movement through dynamic hazards. With good active movement, we don't need to worry about cycles or red-dot since those should be incorporated into the movement. However, if anything goes wrong and we get off-cycle, then the red-dot can strike at any time. <br>
 <br>
 
