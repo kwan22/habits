@@ -108,7 +108,7 @@ Movement should flow from one segment to the next. Movement exiting a room shoul
 <details>
   <summary>Examples showcasing active movement</summary>
   <img src="https://github.com/kwan22/habits/blob/main/images/lv3/3a_start_triplat_active.webp" width="480">
-  <img src="https://github.com/kwan22/habits/blob/main/images/lv3/3a_suite_final.webp" width="480"> 
+  <img src="https://github.com/kwan22/habits/blob/main/images/lv3/3a_suite_final.webp" width="480"> <br>
   Note the use of transition buffers and cornercorrection. Active movement is applicable literally everywhere, but has the most visually obvious impact on movement through dynamic hazards. With good active movement, we don't need to worry about cycles or red-dot since those should be incorporated into the movement. However, if anything goes wrong and we get off-cycle, then the red-dot can strike at any time. <br>
 <br>
 
