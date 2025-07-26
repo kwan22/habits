@@ -64,7 +64,7 @@ The [origin story of the red dot](https://youtu.be/K82MVHQjmZ4?si=AchsHCyqKnHZkP
   <summary>Mirror Temple</summary>
     
   Skip the depths key & door using the secret route for the heart. <br>
-  <img src = "https://github.com/kwan22/habits/blob/main/images/lv1/5a_depths_keyskip.png" width = "480">
+  <img src = "https://github.com/kwan22/habits/blob/main/images/lv1/5a_depths_keyskip.webp" width = "480">
 
   Use seekers to hit coins for you. <br>
   <img src = "https://github.com/kwan22/habits/blob/main/images/lv1/5a_unraveling_coin1.webp" width = "480">
