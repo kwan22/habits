@@ -22,7 +22,9 @@ The goal is to take advantage of various leniency mechanics offered in Celeste t
   <summary>Transition buffers</summary>
   Dash through a transition and jump after to perform the dash tech across the screen transition. One of the best ways to normalize movement. <br>
   <img src="https://github.com/kwan22/habits/blob/main/images/lv3/4a_shrine_trans_wb.webp" width="480">
+  <img src="https://github.com/kwan22/habits/blob/main/images/lv3/5a_depths_transhyper_shortjump.webp" width="480">
   <img src="https://github.com/kwan22/habits/blob/main/images/lv3/7a_2500m_3_transsuper.webp" width="480">
+  <img src="https://github.com/kwan22/habits/blob/main/images/lv3/7a_2500m_demohyper1.webp" width="480">
 
   Pausing for cutscene skips on transition can be buffered in v1.4. When executed correctly, the pause menu should appear at the end of transition and before Madeline moves. <br>
   <img src="https://github.com/kwan22/habits/blob/main/images/lv3/2a_intervention_1_pause.webp" width="480">
@@ -34,15 +36,22 @@ The goal is to take advantage of various leniency mechanics offered in Celeste t
   <summary>Cornercorrection</summary>
   Cornercorrection and floorsnapping are leniency mechanics that will be naturally used at all levels, but here we will intentionally emphasize movement where lining up a midair dash for cornercorrection is lenient. Jumpthrough correction leniency is also demonstrated. This is also a nice place to learn the timing for dashing at or near max height and not releasing jump while doing so. A jump lines up well with a 3-tile height platform, and a hyper lines up well with both 1-tile and 2-tile height platforms. <br>
     <img src="https://github.com/kwan22/habits/blob/main/images/lv3/2a_start_hyper_1tile.webp" width="480">
+    <img src="https://github.com/kwan22/habits/blob/main/images/lv3/5a_rescue_3tile.webp" width="480">
     <img src="https://github.com/kwan22/habits/blob/main/images/lv3/7a_2k_start_cut.webp" width="480">    
 
   Jumpthroughs, moving platforms, and clouds are even more forgiving with cornercorrection.<br> 
   <img src="https://github.com/kwan22/habits/blob/main/images/lv3/4a_start_triplat.webp" width="480">
-  <img src="https://github.com/kwan22/habits/blob/main/images/lv3/6a_resolution_super.webp" width="480">
+  <img src="https://github.com/kwan22/habits/blob/main/images/lv3/4a_face_4_demohyper.webp" width="480">
+  <img src="https://github.com/kwan22/habits/blob/main/images/lv3/6a_resolution_super.webp" width="480"> <br>
+  <img src="https://github.com/kwan22/habits/blob/main/images/lv3/7a_flag19.webp" width="480">
+
+  Flag 1 has the gauntlet of cornercorrection. Many of the platform heights line up well with combinations of jumps, updashes, and updiagonal dashes. <br>
+  <img src="https://github.com/kwan22/habits/blob/main/images/lv3/7a_flag01.webp" width="480"> <br>
   </details>
 <details>
   <summary>Buffer setups</summary>
   Gradual introduction of the buffer mechanic with some setups that rely heavily on buffering to be viable. Jumps on or near spikes ("spikejumps") are common examples. The timesave from these is cool but not important: these are more useful as diagnostics in that the strat fails with improper buffering. <br>
+  <img src="https://github.com/kwan22/habits/blob/main/images/lv3/1a_chasm_spikejump.webp" width="480">
   <img src="https://github.com/kwan22/habits/blob/main/images/lv3/3a_boxes_spikejump.webp" width="480">
   <img src="https://github.com/kwan22/habits/blob/main/images/lv3/4a_shrine_spikejump.webp" width="480">
   <img src="https://github.com/kwan22/habits/blob/main/images/lv3/5a_unraveling_spikejump.webp" width="480">
@@ -73,15 +82,18 @@ The use of "advanced" here mostly implies a technique not naturally taught by th
   <img src="https://github.com/kwan22/habits/blob/main/images/lv3/1a_start_wavecb.webp" width="480">
   <img src="https://github.com/kwan22/habits/blob/main/images/lv3/3a_start_cb.webp" width="480">
   <img src="https://github.com/kwan22/habits/blob/main/images/lv3/6a_hollows_1_cb.webp" width="480">
-  <img src="https://github.com/kwan22/habits/blob/main/images/lv3/7a_flag24_wb_cb.webp" width="480">
+  <img src="https://github.com/kwan22/habits/blob/main/images/lv3/7a_flag24_wb_cb.webp" width="480"> 
+  
 </details>
 <details>
   <summary>Demos</summary>
   An in-game bind since v1.4; dash with a crouching hitbox. Enables some skips, opens up movement options, and adds leniency in some cases. <br>
   <img src="https://github.com/kwan22/habits/blob/main/images/lv3/2a_awake_midair_demos.webp" width="480">
   <img src="https://github.com/kwan22/habits/blob/main/images/lv3/3a_shaft_demo_8f.webp" width="480">
+  <img src="https://github.com/kwan22/habits/blob/main/images/lv3/4a_start_archie.webp" width="480">
   <img src="https://github.com/kwan22/habits/blob/main/images/lv3/7a_1k_dhyper.webp" width="480">
   <img src="https://github.com/kwan22/habits/blob/main/images/lv3/7a_2k_as.webp" width="480">
+  <img src="https://github.com/kwan22/habits/blob/main/images/lv3/7a_2500m_demohyper2.webp" width="480">
 </details>
 <details>
   <summary>Neutrals</summary>
@@ -97,8 +109,11 @@ Movement should flow from one segment to the next. Movement exiting a room shoul
 <details>
   <summary>Examples showcasing active movement</summary>
   <img src="https://github.com/kwan22/habits/blob/main/images/lv3/3a_start_triplat_active.webp" width="480">
-  <img src="https://github.com/kwan22/habits/blob/main/images/lv3/3a_suite_final.webp" width="480"> <br>
-  Note the use of transition tech and leniency mechanics, including cornercorrection and buffering. Active movement is applicable literally everywhere, but has the most visually obvious impact on cycle-restricted movement. With good active movement, we don't need to worry about cycles or red-dot since those should be incorporated into the movement. However, if anything goes wrong and we get off-cycle, then red-dot can strike at any time.
+  <img src="https://github.com/kwan22/habits/blob/main/images/lv3/3a_suite_final.webp" width="480"> 
+  <img src="https://github.com/kwan22/habits/blob/main/images/lv3/5a_rescue_start.webp" width="480"> <br>
+  Note the use of transition buffers and cornercorrection. Active movement is applicable literally everywhere, but has the most visually obvious impact on movement through dynamic hazards. With good active movement, we don't need to worry about cycles or red-dot since those should be incorporated into the movement. However, if anything goes wrong and we get off-cycle, then the red-dot can strike at any time. <br>
+<br>
+
 </details>
 
 The "safe" section of the [Vapo sheet](https://docs.google.com/spreadsheets/d/1HsFtpz_wfA4yrMuZOMX-f69O6ZEZph8db1ReKX8SNIY/edit?gid=0#gid=0) begins to become a useful resource for strats that showcases all of these principles.
