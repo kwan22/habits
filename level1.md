@@ -1,6 +1,6 @@
 [Back to main page](https://github.com/kwan22/habits/blob/main/README.md)
 
-## Level 1
+# Level 1
 
 <img src = "https://github.com/kwan22/habits/blob/main/images/lv1.png" width = "960">
 
