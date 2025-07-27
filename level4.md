@@ -207,7 +207,7 @@ Expanding upon the repertoire of concepts that rely on buffering from Level 3.
 
 <details>
   <summary>Theo regrabs</summary>
-  Dash shortly **before** releasing grab to use the buffer window to instantly regrab Theo with a diagonal dashing after throwing. Pressing dash before means the dash will come out as soon as you release grab.<br>
+  Dash shortly before releasing grab to use the buffer window to instantly regrab Theo with a diagonal dashing after throwing. Pressing dash before the grab release means the dash will come out as soon as you release grab and Theo is thrown.<br>
   <img src="https://github.com/kwan22/habits/blob/main/images/lv4/5b_mm2_regrab.webp" width="480"> 
   <img src="https://github.com/kwan22/habits/blob/main/images/lv4/5b_mm3_regrab.webp" width="480">
 </details>
