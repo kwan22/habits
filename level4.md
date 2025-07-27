@@ -8,11 +8,10 @@ Level 4 begins a deeper dive into some of the fundamentals of movement as well a
 
 ## Table of Contents
 - [Speed hierarchy](#speed-hierarchy)
-- [Bottlenecks](#Bottlenecks)
-- [DashCD](#DashCD)
-- [Applied buffering](#buffer-applications)
+- [Bottlenecks](#bottlenecks)
+- [DashCD](#dashcd)
+- [Applied buffering](#applied-buffering)
 - [Option-selecting](#option-selecting)
-- [Pausebuffering](#pausebuffering)
   
 ## Speed hierarchy  
 Know the key properties of the speed tech and how they compare to each other.
@@ -143,7 +142,19 @@ Be aware of DashCD and movement to intentionally avoid or retain DashCD for setu
   <img src="https://github.com/kwan22/habits/blob/main/images/lv4/2a_start_gultra.webp" width="480">
   <img src="https://github.com/kwan22/habits/blob/main/images/lv4/5a_start_fastkey.webp" width="480">
   <img src="https://github.com/kwan22/habits/blob/main/images/lv4/5b_ttm_pillars_cut1.webp" width="480">
-  <img src="https://github.com/kwan22/habits/blob/main/images/lv4/7a_2500m_orb_entry.webp" width="480">
+  <img src="https://github.com/kwan22/habits/blob/main/images/lv4/7a_2500m_orb_entry.webp" width="480"> <br>
+  <br>
+
+<blockquote>
+  <details>
+    <summary>Creating space</summary>
+    Sometimes it is awkward or difficult to execute a forward extended hyper into a room. A reverse hyper may sometimes be used as a substitute. The difference in grounded ultra distance is small and often negligible.<br>
+    <img src="https://github.com/kwan22/habits/blob/main/images/lv4/7a_1500m_long2_wave.webp" width="480">
+    <img src="https://github.com/kwan22/habits/blob/main/images/lv4/7a_1500m_long2_wave.png" width="480">
+    <img src="https://github.com/kwan22/habits/blob/main/images/lv4/7a_1500m_long2_rev.webp" width="480">
+    <img src="https://github.com/kwan22/habits/blob/main/images/lv4/7a_1500m_long2_rev.png" width="480">
+  </details>
+</blockquote>
 </details>
 
 <details>
@@ -201,6 +212,12 @@ Expanding upon the repertoire of concepts that rely on buffering from Level 3.
   <img src="https://github.com/kwan22/habits/blob/main/images/lv4/5b_mm3_regrab.webp" width="480">
 </details>
 
+<details>
+  <summary>Pausebuffering</summary>
+From Level 3, we developed a feel for buffering a pause out of transition. Paused bubsdrop will be the only pausebuffer strat learned in the habits, but also acts as a gateway for learning more complicated pausebuffer strats for those who wish to go further. <br>
+  <img src="https://github.com/kwan22/habits/blob/main/images/lv4/5b_cc_bubsdrop.webp" width="480">
+</details>
+
 ## Option-selecting  
 Making decisions to cover multiple possible outcomes to reduce risk at little/no cost.
 
@@ -217,13 +234,6 @@ Making decisions to cover multiple possible outcomes to reduce risk at little/no
 
   Staggering jump presses can be useful for padding the timing for diagonal demo cornerkicks, as the jump timing can vary significantly depending on the starting dash position. <br>
   <img src="https://github.com/kwan22/habits/blob/main/images/lv4/jump_stagger.png" width="960">  <br>
-</details>
-
-## Pausebuffering
-<details>
-  <summary>Bubsdrop</summary>
-From Level 3, we developed a feel for buffering a pause out of transition. Paused bubsdrop will be the only pausebuffer strat learned in the habits, but also acts as a gateway for learning more complicated pausebuffer strats for those who wish to go further. <br>
-  <img src="https://github.com/kwan22/habits/blob/main/images/lv4/5b_cc_bubsdrop.webp" width="480">
 </details>
 
 
