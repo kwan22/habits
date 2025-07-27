@@ -69,7 +69,7 @@ A general understanding of what bottlenecks are and how they influence all of mo
    <img src="https://github.com/kwan22/habits/blob/main/images/lv4/wb_vertical_compilation.png" width="960"> <br>
   These spots are some of the most common movement mistakes by beginners. In all cases, 0 ground or walljumps are required: an updash and late wallbounce is sufficient and optimal.
 
-  Conversely, when the height of the wallbounce (or walljump) is needed but the bottleneck is horizontal, then an early jump as possible is desired. Many transition wallbounces fall under this category. Vertical speed is reset to jump speed upon transition, so the advantage of having vertical dash speed is not retained through transitions. The horizontal speed from the wallbounce might be more useful. <br>
+  Conversely, when the height of the wallbounce (or walljump) is needed but the bottleneck is horizontal, then an early jump as possible is desired. Many transition wallbounces fall under this category. Vertical speed is reset to jump speed upon a vertical transition, so the advantage of having vertical dash speed is not retained through transitions. The horizontal speed from the wallbounce might be more useful. <br>
    <img src="https://github.com/kwan22/habits/blob/main/images/lv4/1a_crossing_3_wb.webp" width="480"> 
    <img src="https://github.com/kwan22/habits/blob/main/images/lv4/7a_1k_trans_wb_2.webp" width="480"> <br>
 
