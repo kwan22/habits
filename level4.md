@@ -21,20 +21,20 @@ Without going into too much detail, a rough ordering of speed tech, from fastest
 Horizontal:
 - Hyper
 - Super
-- Horizontal dash
-- Diagonal dash
+- Horizontal dash*
+- Diagonal dash*
 - Wallbounce
 - Jump
 - Walk
 
 Vertical (upwards):
-- Up dash
+- Upwards dash
 - Diagonal dash
 - Wallbounce
-- Jump
+- Jump, super
 - Hyper
 
-Jumps give a small speed boost and ultras give a 1.2x multiplier. Air friction is weaker than ground friction, which is weaker than crouchsliding friction. All jumps have a short duration at the beginning where they ignore gravity while jump is held. Dashes ignore friction, wind, and retain horizontal speed when sufficiently fast.
+Jumps give a small speed boost and ultras give a 1.2x multiplier. Air friction is weaker than ground friction, which is weaker than crouchsliding friction. All jumps have a short duration at the beginning where they ignore gravity while jump is held. Dashes ignore friction, wind, and *preserve horizontal speed when sufficiently fast.
 
 [TAS documentation](https://docs.google.com/document/d/1RVXyO7AZB-r7X3FxkxrBob775qWdhfOyBEOGGbnTgws) provides much more details.
 
@@ -161,9 +161,12 @@ Be aware of DashCD and movement to intentionally avoid or retain DashCD for setu
 
 <details>
   <summary>DashCD setups</summary>
-  Some setups intentionally use DashCD to make a dash in the next room more lenient by allowing to be bufferable. These often require precise positioning at the end of the previous room where the dash starts. Keep in mind that the dash in the next room is buffered out of DashCD in these cases, which is slightly after the transition ends as defined by the setup. <br>
+  Some setups intentionally use DashCD to make the next dash more lenient by allowing to be bufferable. These often require precise positioning at the end of the previous room where the dash starts. Keep in mind that a dash in the next room is buffered out of DashCD in these cases, which is slightly after the transition ends as defined by the setup. <br>
   <img src="https://github.com/kwan22/habits/blob/main/images/lv4/5b_mm_final.webp" width="480">
   <img src="https://github.com/kwan22/habits/blob/main/images/lv4/6a_hollows_kevinslide.webp" width="480">
+
+  Other dashes that might look difficult normally can just be buffered straight out of DashCD. Besides dashes, every Badeline hit in Reflection and Badeline throw in Summit incurs a DashCD: some setups require knowing where that DashCD ends
+  
 </details>
 
 <details>
@@ -215,6 +218,14 @@ Expanding upon the repertoire of concepts that rely on buffering from Level 3.
 </details>
 
 <details>
+  <summary>Fastbubbling</summary>
+  Fastbubbling can only be buffered when you can't dash, usually when you have no dash at all (or sometimes if you're in DashCD). While not always optimal, look to enter a bubble without a dash to enable buffered fastbubbling. <br>
+  <img src="https://github.com/kwan22/habits/blob/main/images/lv4/4a_start_fastbubble.webp" width="480"> 
+  <img src="https://github.com/kwan22/habits/blob/main/images/lv4/4a_cf_fastbubble.webp" width="480"> 
+
+</details>
+
+<details>
   <summary>Pausebuffering</summary>
 From Level 3, we developed a feel for buffering a pause out of transition. Paused bubsdrop will be the only pausebuffer strat learned in the habits, but also acts as a gateway for learning more complicated pausebuffer strats for those who wish to go further. <br>
   <img src="https://github.com/kwan22/habits/blob/main/images/lv4/5b_cc_bubsdrop.webp" width="480">
@@ -233,11 +244,15 @@ Making decisions to cover multiple possible outcomes to reduce risk at little/no
   <summary>Press extra buttons for safety</summary>
   Hold grab to cover overly aggressive movement, such as a missed clean landing, to prevent accidental wallkicks. <br>
   <img src="https://github.com/kwan22/habits/blob/main/images/lv4/holdgrab.png" width="960">  <br>
-
+  <br>
+  
   Staggering jump presses can be useful for padding the timing for diagonal demo cornerkicks, as the jump timing can vary significantly depending on the starting dash position. <br>
   <img src="https://github.com/kwan22/habits/blob/main/images/lv4/jump_stagger.png" width="960">  <br>
-</details>
 
+  Similarly, when attempting to buffer an instant hyper on landing, and the hyper being instant is imperative, staggering jump presses can add insurance to cover a too early or too late jump press. <br>
+  <img src="https://github.com/kwan22/habits/blob/main/images/lv4/5a_depths_swaphyper.webp" width="480"> 
+  <img src="https://github.com/kwan22/habits/blob/main/images/lv4/7a_1500m_orb_hyper.webp" width="480">  <br>
+</details>
 
 [&#8593; Back to top](#level-4)
 

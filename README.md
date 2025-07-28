@@ -8,7 +8,8 @@
 - [Level 2](https://github.com/kwan22/habits/blob/main/level2.md)
 - [Level 3](https://github.com/kwan22/habits/blob/main/level3.md)
 - [Level 4](https://github.com/kwan22/habits/blob/main/level4.md)
-- [Closing thoughts and FAQ](https://github.com/kwan22/habits/blob/main/conclusions-faq.md)
+- [Closing thoughts](https://github.com/kwan22/habits/blob/main/conclusions.md)
+- [FAQ](https://github.com/kwan22/habits/blob/main/faq.md)
 
 ## Introduction
 "Building habits" is originally a YouTube series from Grandmaster Aman Hambleton (Chessbrah) as both an educational and entertaining method to gradually improve at chess. Aman follows a strict set of rules to simulate playing at various levels of gameplay, from complete beginner to a fairly advanced level (0-2000 ELO). The rules are centered purely around the fundamental principles of playing good moves. The goal is not to always be playing optimally or win every game, but to focus on "high-percentage" moves that are usually but not always good. As the rating rises, the rules change to reflect the increase in the player's strength and understand the more nuanced situations of why sometimes the high-percentage moves aren't always good. Eventually, the habits series concludes at around 2000 ELO as the fundamentals can only take you so far, and attention to niche details and specific variations becomes increasingly important.
