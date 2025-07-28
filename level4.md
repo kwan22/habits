@@ -21,18 +21,20 @@ Without going into too much detail, a rough ordering of speed tech, from fastest
 Horizontal:
 - Hyper
 - Super
-- Dash
+- Horizontal dash
+- Diagonal dash
 - Wallbounce
 - Jump
 - Walk
 
 Vertical (upwards):
-- Updash
+- Up dash
+- Diagonal dash
 - Wallbounce
 - Jump
 - Hyper
 
-Jumps give a small speed boost and ultras give a 1.2x multiplier. Air friction is weaker than ground friction, which is weaker than crouchsliding friction. Jumps and wallbounces have a short duration at the beginning where they ignore gravity while jump is held. Dashes ignore friction, wind, and retain horizontal speed when sufficiently fast.
+Jumps give a small speed boost and ultras give a 1.2x multiplier. Air friction is weaker than ground friction, which is weaker than crouchsliding friction. All jumps have a short duration at the beginning where they ignore gravity while jump is held. Dashes ignore friction, wind, and retain horizontal speed when sufficiently fast.
 
 [TAS documentation](https://docs.google.com/document/d/1RVXyO7AZB-r7X3FxkxrBob775qWdhfOyBEOGGbnTgws) provides much more details.
 
@@ -138,7 +140,7 @@ Be aware of DashCD and movement to intentionally avoid or retain DashCD for setu
 
 <details>
   <summary>Avoiding DashCD</summary>
-  Sometimes, we need to slow down before we can speed up. DashCD is preserved through horizontal screen transitions: many situations call for a dash immediately upon crossing such a transition with as much speed as possible. A common pattern is to late extended hyper just before entering a room. Jumping late on the extension lets us wait out DashCD before entering the next room, and firing the hyper off closer to the transition means less frictional losses when entering the next room. Whether we actually extend or not in the previous room is irrelevant since we are crossing a transition. We just want to enter the next room with 0 DashCD and near-max speed from the hyper. 
+  Sometimes, we need to slow down before we can speed up. DashCD is preserved through horizontal screen transitions: many situations call for a dash immediately upon crossing such a transition with as much speed as possible. A common pattern is to late extended hyper just before entering a room. Jumping late on the extension lets us wait out DashCD before entering the next room, and firing the hyper off closer to the transition means less frictional losses when entering the next room. Whether we actually extend or not in the previous room is irrelevant since we are crossing a transition. We just want to enter the next room with 0 DashCD and near-max speed from the hyper. <br>
   <img src="https://github.com/kwan22/habits/blob/main/images/lv4/2a_start_gultra.webp" width="480">
   <img src="https://github.com/kwan22/habits/blob/main/images/lv4/5a_start_fastkey.webp" width="480">
   <img src="https://github.com/kwan22/habits/blob/main/images/lv4/5b_ttm_pillars_cut1.webp" width="480">
