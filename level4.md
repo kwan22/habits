@@ -31,7 +31,7 @@ Vertical (upwards):
 - Upwards dash
 - Diagonal dash
 - Wallbounce
-- Jump
+- Jump, super
 - Hyper
 
 Jumps give a small speed boost and ultras give a 1.2x multiplier. Air friction is weaker than ground friction, which is weaker than crouchsliding friction. All jumps have a short duration at the beginning where they ignore gravity while jump is held. Dashes ignore friction, wind, and *preserve horizontal speed when sufficiently fast.
