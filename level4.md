@@ -21,20 +21,20 @@ Without going into too much detail, a rough ordering of speed tech, from fastest
 Horizontal:
 - Hyper
 - Super
-- Horizontal dash
-- Diagonal dash
+- Horizontal dash*
+- Diagonal dash*
 - Wallbounce
 - Jump
 - Walk
 
 Vertical (upwards):
-- Up dash
+- Upwards dash
 - Diagonal dash
 - Wallbounce
 - Jump
 - Hyper
 
-Jumps give a small speed boost and ultras give a 1.2x multiplier. Air friction is weaker than ground friction, which is weaker than crouchsliding friction. All jumps have a short duration at the beginning where they ignore gravity while jump is held. Dashes ignore friction, wind, and retain horizontal speed when sufficiently fast.
+Jumps give a small speed boost and ultras give a 1.2x multiplier. Air friction is weaker than ground friction, which is weaker than crouchsliding friction. All jumps have a short duration at the beginning where they ignore gravity while jump is held. Dashes ignore friction, wind, and *preserve horizontal speed when sufficiently fast.
 
 [TAS documentation](https://docs.google.com/document/d/1RVXyO7AZB-r7X3FxkxrBob775qWdhfOyBEOGGbnTgws) provides much more details.
 
