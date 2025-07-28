@@ -126,8 +126,8 @@ A general understanding of what bottlenecks are and how they influence all of mo
   <img src="https://github.com/kwan22/habits/blob/main/images/lv4/5b_cc_crumbles.webp" width="480">
 </details>
 
-## DashCD 
-Be aware of DashCD and movement to intentionally avoid or retain DashCD for setups. Learn to buffer consecutive dashes or dashes out of a hyper for grounded ultra timing. Use setups that rely on buffering a dash out of DashCD. Manage DashCD from vertical transitions and develop intuition for buffering out of vertical DashCD.
+## DashCD control
+Be aware of DashCD and movement to control DashCD for setups. Learn to buffer consecutive dashes or dashes out of a hyper for grounded ultra timing. Use setups that rely on buffering a dash out of DashCD. Manage DashCD from vertical transitions and develop intuition for buffering out of vertical DashCD.
 
 <details>
   <summary>Grounded ultra timing</summary>
