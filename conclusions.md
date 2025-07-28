@@ -23,8 +23,8 @@ Thank you for reading and (presumably) watching the series. I hope you found thi
 
 # Acknowledgements
 
-Thanks to Aman Hambleton for the Building Habits series.
-Thanks to wonderginger, yujene, and zaj mahal for their support and enthusiasm in brainstorming and peer review.
+Thanks to Aman Hambleton for inspiring the Building Habits series. <br>
+Thanks to wonderginger, yujene, and zaj mahal for their support and enthusiasm in brainstorming and peer review. <br>
 And of course, thanks to Celeste and the associated speedrunning community.
 
 (links to celeste community resources)
