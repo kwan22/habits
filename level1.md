@@ -21,8 +21,6 @@ One of the staples of Celeste speedrunning advice for beginners. Every action sh
 ## Useful things-to-know  
 These include details about the game that require little to no technical precision and are easy to save time with. This includes routing knowledge, skipping cutscenes, confirming deaths, transitions refilling dashes, and retrying with keys (3a shaft, 7a 2500m).
 
-
-
 ## Examples
 
 (click on any of the below to see clips, images, etc)
@@ -55,6 +53,9 @@ The [origin story of the red dot](https://youtu.be/K82MVHQjmZ4?si=AchsHCyqKnHZkP
 
 <details>
   <summary>Golden Ridge</summary>
+  Bubbles (both green and red) can be activated faster by pressing dash when in the bubble. <br>
+  <img src = "https://github.com/kwan22/habits/blob/main/images/lv1/4a_fastbubble.webp" width = "480">
+
   Generally, horizontal dashing cuts through strong wind much better than updiagonal dashes <br>
     <img src = "https://github.com/kwan22/habits/blob/main/images/lv1/4a_snowball_4springs.webp" width = "480">
     <img src = "https://github.com/kwan22/habits/blob/main/images/lv1/4a_snowball_final.webp" width = "480">
