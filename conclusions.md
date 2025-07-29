@@ -27,4 +27,5 @@ Thanks to Aman Hambleton for inspiring the Building Habits series. <br>
 Thanks to wonderginger, yujene, and zaj mahal for their support and enthusiasm in brainstorming and peer review. <br>
 And of course, thanks to Celeste and the associated speedrunning community.
 
-(links to celeste community resources)
+[Celeste Discord](https://discord.gg/celeste). Main hub of Celeste's speedrunning community and contains various resources for speedrunners. <br>
+[Celeste speedrun leaderboard](https://www.speedrun.com/celeste), Also contains various resources and guides.
