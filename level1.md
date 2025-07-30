@@ -42,12 +42,14 @@ Transitions refill dashes and retries keep keys. <br>
 <img src = "https://github.com/kwan22/habits/blob/main/images/lv1/3a_key1.webp" width = "480">
 <img src = "https://github.com/kwan22/habits/blob/main/images/lv1/3a_shaft_keyretry.png" width = "480">
 
+In the Huge Mess section, the recommended order is chests (bottom), books (top), and towels (middle). <br>
+<img src = "https://github.com/kwan22/habits/blob/main/images/lv1/3a_mess_chests.png" width = "320">
+<img src = "https://github.com/kwan22/habits/blob/main/images/lv1/3a_mess_books.png" width = "320">
+<img src = "https://github.com/kwan22/habits/blob/main/images/lv1/3a_mess_towels.png" width = "320">
 
 Introducing the "red dot," a term borrowed from the chess habits. The idea is to be aware of when a major hazard is about to strike (Oshiro is about to charge) and ensure you have space to dodge. Whether your strat is able to line up with the Oshiro cycles shown in the clips depends on your movement: apply the red-dot principle to whatever Oshiro cycle you end up settling upon. <br>
     <img src = "https://github.com/kwan22/habits/blob/main/images/lv1/3a_final_2.webp" width = "480">
     <img src = "https://github.com/kwan22/habits/blob/main/images/lv1/3a_final_3.webp" width = "480">
-
-The [origin story of the red dot](https://youtu.be/K82MVHQjmZ4?si=AchsHCyqKnHZkPJN&t=1717) in the chess habits is a pin against the castled king on the g-file.
 
 </details>
 
