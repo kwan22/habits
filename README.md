@@ -20,7 +20,7 @@ For those curious, [the chess series can be found here](https://www.youtube.com/
 - Develop fundamentals incrementally
 - Pattern recognition of common setups
 
-Note that "getting the fastest time we can" or anything along those lines is **not** an explicit goal of the habits. The philosophy here is that fast times will naturally follow upon mastery of the fundamentals. Just like in the chess habits, there will be 4 levels of habits, starting from a complete beginner, and compounding on skills and concepts focused on in previous levels. A key focus will be on **incremental learning**, where we gradually increase our skillsets and knowledge to not overwhelm ourselves with details. A common theme will be learning fundamental principles at one level, and then applying them in more specific ways at higher levels.
+Note that "getting the fastest time we can" is **not** an explicit goal of the habits. The philosophy here is that fast times will naturally follow upon mastery of the fundamentals. Just like in the chess habits, as our skills improve, we will add more layers of habits over the course of 4 levels, starting from a complete beginner, and compounding on skills and concepts learned in previous levels. A key focus will be on **incremental learning**, where we gradually increase our skillsets and knowledge to not overwhelm ourselves with details. A common theme will be learning fundamental principles at one level, and then applying them in more specific ways at higher levels.
 
 <img src = "https://github.com/kwan22/habits/blob/main/images/levelup.png" width = 960>
 
