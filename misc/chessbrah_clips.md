@@ -21,7 +21,7 @@ A collection of moments I thought were both entertaining and instructive that in
 - [Being petty about being forced to make a good move](https://youtu.be/Roo2r_1zLP4?si=VBm3GBQlx0y5zasV&t=1168) like being annoyed by backseaters even though they are suggesting good advice.
 - [Opponent throwing a winning/drawn position by trying to be too fancy](https://youtu.be/Roo2r_1zLP4?si=Qa6LvCVOgUBAhm92&t=2022)
 - [First game of the day, don't sweat it too much](https://youtu.be/FFVG_LqACiU?si=YVvjj3lxsCqbT6QQ&t=226)
-- [Backseaters: "Why not Qg4?"](https://youtu.be/FFVG_LqACiU?si=lh3bYXEo0PovsWFS&t=1477), check full VOD version too
+- [Backseaters: "Why not Qg4?"](https://youtu.be/FFVG_LqACiU?si=lh3bYXEo0PovsWFS&t=1477), check [full VOD version](https://youtu.be/ydTBfoqpM_c?si=v_gigW48p_M2rgkr&t=421) too
 - [Another case of opponent trying to be too fancy](https://youtu.be/FFVG_LqACiU?si=0S_z2NmmiXirU5Mx&t=2327)
 - [Opponents keep resigning before you can practice endgame checkmate pattern](https://youtu.be/FFVG_LqACiU?si=0S_z2NmmiXirU5Mx&t=2327), funny inverse parallel where in speedruns, excessive resetting often leads to insufficient lategame practice.
 - [We made 52 moves, what about the other 40?](https://youtu.be/m3XQxjKBkwk?si=IDmA02i0GjL_7rZl&t=3598) message to backseaters
