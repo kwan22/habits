@@ -107,7 +107,9 @@ A general understanding of what bottlenecks are and how they influence all of mo
 
   <details>
     <summary>Downwards dashes</summary>
-    Downdashes and downdiagonal dashes can be deceptively slow and may exacerbate a vertical bottleneck. When clearing a pillar, a horizontal dash is often preferred as it can be started earlier than a downdiagonal dash and enter fastfall state sooner. <br>
+    Downdashes and downdiagonal dashes can be deceptively slow and may exacerbate a vertical bottleneck. For purely downwards movement, a downdash is usually only good to quickly accelerate from upwards/standstill vertical motion to downwards motion. <br>
+  <img src="https://github.com/kwan22/habits/blob/main/images/lv4/3a_shaft_coin_downdash.webp" width="480"> <br>
+    When clearing a pillar, a horizontal dash is often preferred as it can be started earlier than a downdiagonal dash and enter fastfall state sooner. <br>
   <img src="https://github.com/kwan22/habits/blob/main/images/lv4/horiz_dashes.png" width="960"> <br>
   Downwards dashes (e.g. extended hyper into downright) interrupt fastfalling and may be outright slower than not dashing at all against vertical bottlenecks. One of the most common mistakes is to try to extended hyper into downright into the springs just before the last Badeline hit in 6a, when a simple short hyper is faster. Another is to dash diagonally downwards twice towards the 2500m door, when one is optimal because of the vertical bottleneck. <br>
   <img src="https://github.com/kwan22/habits/blob/main/images/lv4/6a_rb_hyper.webp" width="480">
