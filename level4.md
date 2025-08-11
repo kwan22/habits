@@ -118,7 +118,7 @@ A general understanding of what bottlenecks are and how they influence all of mo
 
 <details>
   <summary>Activating entities</summary>
-  Some entities are best activated by grabbing. The key takeaway is that grabbing can only happen when Madeline is not moving upwards. Make sure she is not moving upwards by releasing jump well before reaching a block you are trying to activate by grabbing.
+  Some entities are best activated by grabbing. The key takeaway is that grabbing can only happen when Madeline is not moving upwards. Make sure she is not moving upwards by releasing jump well before reaching a block you are trying to activate by grabbing. <br>
   <img src="https://github.com/kwan22/habits/blob/main/images/lv4/7a_500m_coin_exit.webp" width="480">
   <img src="https://github.com/kwan22/habits/blob/main/images/lv4/7a_2k_vert.webp" width="480"> <br>
   Extended hypers/wavedashes happen to work very well for getting crumble blocks to disappear quickly and consistently.
