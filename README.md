@@ -12,7 +12,7 @@
 - [FAQ](https://github.com/kwan22/habits/blob/main/faq.md)
 
 ## Introduction
-"Building habits" is originally a YouTube series from Grandmaster Aman Hambleton (Chessbrah) as both an educational and entertaining method to gradually improve at chess. Aman follows a strict set of rules to simulate playing at various levels of gameplay, from complete beginner to a fairly advanced level (0-2000 ELO). The rules are centered purely around the fundamental principles of playing good moves. The goal is not to always be playing optimally or win every game, but to focus on "high-percentage" moves that are usually but not always good. As the rating rises, the rules change to reflect the increase in the player's strength and understand the more nuanced situations of why sometimes the high-percentage moves aren't always good. Eventually, the habits series concludes at around 2000 ELO as the fundamentals can only take you so far, and attention to niche details and specific variations becomes increasingly important.
+"Building habits" is originally a YouTube series from Grandmaster Aman Hambleton (Chessbrah) as both an educational and entertaining method to gradually improve at chess. Aman follows a strict set of rules to simulate playing at various levels of gameplay, from complete beginner to a fairly advanced level (0-2000 ELO). The goal is not to always be playing optimally or win every game, but to focus on "high-percentage" moves that are usually but not always good. Eventually, the habits series concludes at around 2000 ELO as the fundamentals can only take you so far, and attention to niche details and specific variations becomes increasingly important.
 
 For those curious, [the chess series can be found here](https://www.youtube.com/watch?v=ibDX4ReEikQ&list=PLUjxDD7HNNThwCNW3f36RZcMxPwQIjYae). Those familiar with chess and the rules will find parallels in this series. As a casual chess enjoyer and dedicated Celeste speedrunner, I've been inspired to attempt to apply this philosophy towards Celeste speedrunning. My approach to learning is also largely rooted in learning the fundamentals first before learning to break them. In summary, the goals of the Celeste habits are to:
 
@@ -34,7 +34,7 @@ Non-basic setups would include strats with pixel lineups or subpixel manip (clim
 ### 2. Never reset
 **Never reset** is simple: the goal of the habits is to develop skillsets and knowledge, not to chase good filetimes. Resetting for a good pace is simply a waste of time in this context. We are here to play the game to learn the basics, evaluate if we are truly consistent at our strat selection, and diagnose patterns of strats that are repeat offenders of going wrong. The end time we achieve will naturally improve along our skillsets and knowledge.
 
-If you are reading this document before the video, you can find the video series here. (insert link). I hope this series is as entertaining as it is instructive. Enjoy. 
+This document is accompanied by a video series (insert link) where I perform speedruns while following these rules. I hope this series is as entertaining as it is instructive. Enjoy. 
 
 ---
 
