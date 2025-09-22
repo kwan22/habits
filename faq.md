@@ -23,7 +23,7 @@
 *A: Barrier to entry is simply too high. A habits run of 6b would mostly look like a casual playthrough with a "try not to die" mentality until Level 4 at least.*
 
 **Q: This doesn't seem like a very efficient way of learning the speedrun. Why are we spending so much time not doing tech or fast strats so we can start building muscle memory earlier?**  <br>
-*A: Depends on what you mean by efficient. No need to rip out all the hard strats when you don't even have control of basic jump+dash+grab combos or any movement fluidity. Beginners barely even know how to control Madeline, what are we doing learning difficult strats from the get-go? Aman draws similar parallels regarding the chess habits as a beginner: ["no need to be a hero"](https://www.youtube.com/watch?v=M_v0of2gduY&t=1025s) and ["no need for tactics"](https://www.youtube.com/watch?v=M_v0of2gduY&t=1403s).*
+*A: Depends on what you mean by efficient. No need to rip out all the hard strats when you don't even have control of basic jump+dash+grab combos or any movement fluidity. Beginners barely even know how to control Madeline, what are we doing learning difficult strats from the get-go? 
 
 **Q7: What are the goal times for each level?** <br>
 *A: Doesn't matter, the goal is to develop skillsets and knowledge, not target arbitrary filetimes. The reader can have their own interpretation on what the corresponding fullgame times would be.*
