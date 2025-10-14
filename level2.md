@@ -9,7 +9,7 @@ Level 2 is meant to simulate a player that has likely already dabbled in speedru
 ## Table of Contents
 - [Basic tech](#basic-tech)
 - [Intro to active movement](#introduction-to-active-movement)
-- [Binds](#ergonomic-binds)
+- [2 jump binds](#2-jump-binds)
 - [One cycle only](#one-cycle-only)
 
 ## Basic tech
@@ -67,7 +67,7 @@ With hyper-speed unlocked, we can simplify some rooms using active movement. For
   <img src="https://github.com/kwan22/habits/blob/main/images/lv2/3a_suite_final_cut.webp" width="480"/>
 </details>
 
-## Ergonomic binds  
+## 2 jump binds  
 This means having dash (or demo), 2 jump binds, and grab on keys that can all be pressed and released independently of each other. This also means we will be using the 2 jump buttons for any vertical movement. Bind a menu down-confirm bind for retry and skip cutscene.
 
 <details>
