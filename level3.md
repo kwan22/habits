@@ -112,7 +112,7 @@ Many scary-looking strats become less scary with the right (visual) cue, typical
   <summary>Example 1: 4a Cliff face</summary>
   <img src="https://github.com/kwan22/habits/blob/main/images/lv3/4a_cf_1tile_ultra.webp" width="480">
   <img src="https://github.com/kwan22/habits/blob/main/images/lv3/4a_cf_1tile_ultra.png" width="480"> <br>
-  This scary-looking ultra onto the 1-tile is easier than it looks: the downright lines up nicely above the previous platform. Personally I aim for when Madeline is vertically aligned with the jutting background tiles as they're closer to Madeline and easier to see. The right dash afterwards is lined up at full height. Slow climb to the top, and then demohyper and the last snowball lines up.
+  This scary-looking ultra onto the 1-tile is easier than it looks: the downright lines up nicely above the previous platform. Personally I aim for when Madeline is vertically aligned with the jutting background tiles as they're closer to Madeline and easier to see. The right dash afterwards is done at max height. Slow climb to the top, and then demohyper and the last snowball lines up.
 </details>
 
 <details>
