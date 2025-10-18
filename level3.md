@@ -130,7 +130,7 @@ Many scary-looking strats become less scary with the right (visual) cue, typical
   <summary>Example 3: 6a Reflection</summary>
   <img src="https://github.com/kwan22/habits/blob/main/images/lv3/6a_reflection_shortcut3.webp" width="480">
   <img src="https://github.com/kwan22/habits/blob/main/images/lv3/6a_reflection_shortcut3.png" width="480"> <br>
-  The gap for this final shortcut stays off camera until you get quite close to it, making it difficult to react. Incidentally, the right edge of the gap perfectly lines up with the left side of the flower. This means we should aim to be just to the left of the flower. Whatever movement you decide to do to approach this gap, we can use the flower as a reference to judge our alignment. 
+  The gap for this final shortcut stays off camera until you get quite close to it, making it difficult to react. Incidentally, the right edge of the gap perfectly lines up with the left side of the flower. This means we should aim to be just to the left of the flower. Whatever movement you decide to do to approach this gap, we can use the flower as a reference to judge our alignment. Once you're in the gap, all you need is a short right tap to make it through.
 </details>
 
 <details>
