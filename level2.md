@@ -70,7 +70,7 @@ With hyper-speed unlocked, we can simplify some rooms using active movement. For
 ## 2 jump binds  
 This means having dash (or demo), 2 jump binds, and grab on keys that can (ideally) all be pressed and released independently of each other. At minimum, the two jump binds should be independent, and one of the jump binds should be on a different finger than dash so the two can be pressed in a very quick sequence. 
 
-This also means we will be using the 2 jump buttons for any vertical movement. Bind a menu down-confirm bind for retry and skip cutscene.
+Bind a menu down-confirm bind for retry and skip cutscene. Pause, menu-down+confirm, and confirm should also be on independent fingers. 
 
 <details>
   <summary>2 jump binds</summary>
