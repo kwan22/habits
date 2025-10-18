@@ -103,6 +103,40 @@ The use of "advanced" here mostly implies a technique not naturally taught by th
   <img src="https://github.com/kwan22/habits/blob/main/images/lv3/7a_flag12_neutral.webp" width="480">
 </details>
 
+## Cues
+
+Many scary-looking strats become less scary with the right (visual) cue, typically a notable background tile or decal. Cues act as a more convenient target point to jump or dash from, usually one that Madeline passes closer to, rather than looking at the true target which might be less intuitive to aim at. Leniency mechanics often come into play here. 
+
+<details>
+  <summary>Example 1: 4a Cliff face</summary>
+  <img src="https://github.com/kwan22/habits/blob/main/images/lv3/4a_cf_1tile_ultra.webp" width="480">
+  <img src="https://github.com/kwan22/habits/blob/main/images/lv3/4a_cf_1tile_ultra.png" width="480"> <br>
+  This scary-looking ultra onto the 1-tile is easier than it looks: the downright lines up nicely above the previous platform. Personally I aim for when Madeline is vertically aligned with the jutting background tiles as they're closer to Madeline and easier to see. The right dash afterwards is lined up at full height. Slow climb to the top, and then demohyper and the last snowball lines up.
+</details>
+
+<details>
+  <summary>Example 2: 5a Rescue</summary>
+  <img src="https://github.com/kwan22/habits/blob/main/images/lv3/5a_rescue_eyecue.webp" width="480">
+  <img src="https://github.com/kwan22/habits/blob/main/images/lv3/5a_rescue_eyecue.png" width="480"> <br>
+  Big speed strat is much easier than it looks. Extended hyper from the previous room, hold grab and downright dash upon transition, and then the throw + midair super at the small eyeball in the background. Note the platform we're midair-supering off of is 3 tiles off the ground. [Sound familiar?](#Basic-leniency-and-normalization)
+</details>
+
+<details>
+  <summary>Example 3: 6a Reflection</summary>
+  <img src="https://github.com/kwan22/habits/blob/main/images/lv3/6a_reflection_shortcut3.webp" width="480">
+  <img src="https://github.com/kwan22/habits/blob/main/images/lv3/6a_reflection_shortcut3.png" width="480"> <br>
+  The gap for this final shortcut stays off camera until you get quite close to it, making it difficult to react. Incidentally, the right edge of the gap perfectly lines up with the left side of the flower. This means we should aim to be just to the left of the flower. Whatever movement you decide to do to approach this gap, we can use the flower as a reference to judge our alignment. 
+</details>
+
+<details>
+  <summary>Example 4: 7a 1000m</summary>
+  <img src="https://github.com/kwan22/habits/blob/main/images/lv3/7a_1k_orb_upleft.webp" width="480">
+  <img src="https://github.com/kwan22/habits/blob/main/images/lv3/7a_1k_orb_upleft.png" width="480"> <br>
+  The background tile acts as a nice reference point to aim this upleft through both dreamblocks. It turns out that this upleft cannot be too early: the earliest possible dash is viable, aka it's bufferable! (If you press dash too early, nothing happens). 
+</details>
+
+[Koralreef's cue collection](https://koralreeef.github.io/info.html) has a large selection of visual cues as well. When you're struggling to perform a strat, a visual cue might help anchor your plan.
+
 ## Active movement  
 Movement should flow from one segment to the next. Movement exiting a room should consciously chain into the next room. Strats are designed such that avoiding hazards is incorporated into the movement when well executed. Transition tech commonly serves as an anchor point of normalization for movement across rooms. Time spent standing still and reacting to the room should be minimized. This is largely enabled by leniency mechanics and often combines them in various ways.
 <details>
