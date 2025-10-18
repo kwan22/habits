@@ -10,6 +10,7 @@ Level 3 rounds out most of the RTA-viable speed tech that most speedrunners will
 - [Extension timing](#extension-timing)
 - [Leniency and normalization](#basic-leniency-and-normalization)
 - [Advanced techniques](#advanced-techniques)
+- [Cues](#Cues)
 - [Active movement](#active-movement)
 
 ## Extension timing  
