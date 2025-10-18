@@ -118,7 +118,7 @@ Many scary-looking strats become less scary with the right (visual) cue, typical
   <summary>Example 2: 5a Rescue</summary>
   <img src="https://github.com/kwan22/habits/blob/main/images/lv3/5a_rescue_eyecue.webp" width="480">
   <img src="https://github.com/kwan22/habits/blob/main/images/lv3/5a_rescue_eyecue.png" width="480"> <br>
-  Big speed strat is much easier than it looks. Extended hyper from the previous room, hold grab and downright dash upon transition, and then the throw + midair super at the small eyeball in the background. Note the platform we're midair-supering off of is 3 tiles off the ground. [Sound familiar?](#Basic-leniency-and-normalization)
+  Big speed strat is much easier than it looks. Extended hyper from the previous room, hold grab and downright dash upon transition, and then the throw + midair super at the small eyeball in the background. Note the platform we're midair-supering off of is 3 tiles off the ground. Sound familiar?
 </details>
 
 <details>
