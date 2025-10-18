@@ -105,7 +105,7 @@ The use of "advanced" here mostly implies a technique not naturally taught by th
 
 ## Cues
 
-Many scary-looking strats become less scary with the right (visual) cue, typically a notable background tile or decal. Cues act as a more convenient target point to jump or dash from, usually one that Madeline passes closer to, rather than looking at the true target which might be less intuitive to aim at. Leniency mechanics often come into play here. 
+Many scary-looking strats become less scary with the right (visual) cue, typically a notable background tile or decal. Cues act as a more convenient target point to act from, usually one that Madeline passes closer to, rather than looking at the true target which might be less intuitive to aim at. In other cases, certain setups need to be initiated from a cue. Leniency mechanics often come into play here. 
 
 <details>
   <summary>Example 1: 4a Cliff face</summary>
@@ -118,7 +118,11 @@ Many scary-looking strats become less scary with the right (visual) cue, typical
   <summary>Example 2: 5a Rescue</summary>
   <img src="https://github.com/kwan22/habits/blob/main/images/lv3/5a_rescue_eyecue.webp" width="480">
   <img src="https://github.com/kwan22/habits/blob/main/images/lv3/5a_rescue_eyecue.png" width="480"> <br>
-  Big speed strat is much easier than it looks. Extended hyper from the previous room, hold grab and downright dash upon transition, and then the throw + midair super at the small eyeball in the background. Note the platform we're midair-supering off of is 3 tiles off the ground. Sound familiar?
+  This Theo "ultra" speed strat is much easier than it looks if you are comfortable with buffering out of transitions and 3-tile midair supers. <br>
+  - Extended hyper from the previous room (setup from falling down next to the wall and letting the recoil from throwing Theo push you back) <br>
+  - Hold grab and buffer downright dash out of transition <br> 
+  - Throw Theo + midair extended super at the small eyeball in the background. <br>
+  Note there's nothing inherently wild or insanely advanced about this "Theo ultra" with skills we've using at level 3. Extended hyper? Check. Buffer action out of transition? Check. 3-tile vertical jump alignment for midair super? Check. 
 </details>
 
 <details>
