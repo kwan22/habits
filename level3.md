@@ -130,7 +130,7 @@ Many scary-looking strats become less scary with the right (visual) cue, typical
   <summary>Example 3: 6a Reflection</summary>
   <img src="https://github.com/kwan22/habits/blob/main/images/lv3/6a_reflection_shortcut3.webp" width="480">
   <img src="https://github.com/kwan22/habits/blob/main/images/lv3/6a_reflection_shortcut3.png" width="480"> <br>
-  The gap for this final shortcut stays off camera until you get quite close to it, making it difficult to react. Incidentally, the right edge of the gap perfectly lines up with the left side of the flower. This means we should aim to be just to the left of the flower. Whatever movement you decide to do to approach this gap, we can use the flower as a reference to judge our alignment. Once you're in the gap, all you need is a short right tap to make it through.
+  The gap for this final shortcut stays off camera until you get quite close to it, making it difficult to react. Incidentally, the right edge of the gap perfectly lines up with the left side of the flower. This means we should aim to be just to the left of the flower. Whatever movement you decide to do to approach this gap, you can use the flower as a reference to judge our alignment. Once you're in the gap, all you need is a short right tap to make it through.
 </details>
 
 <details>
@@ -140,7 +140,7 @@ Many scary-looking strats become less scary with the right (visual) cue, typical
   The background tile acts as a nice reference point to aim this upleft through both dreamblocks. It turns out that this upleft cannot be too early: the earliest possible dash is viable, aka it's bufferable! (If you press dash too early, nothing happens). 
 </details>
 
-[Koralreef's cue collection](https://koralreeef.github.io/info.html) has a large selection of visual cues as well. When you're struggling to perform a strat, a visual cue might help anchor your plan.
+[Koralreef's cue collection](https://koralreeef.github.io/info.html) has a large selection of visual cues as well. When you're struggling to perform a strat, a visual cue might help anchor your plan. You can use any visual cue you like, as long as it makes sense to you and is easy to remember.
 
 ## Active movement  
 Movement should flow from one segment to the next. Movement exiting a room should consciously chain into the next room. Strats are designed such that avoiding hazards is incorporated into the movement when well executed. Transition tech commonly serves as an anchor point of normalization for movement across rooms. Time spent standing still and reacting to the room should be minimized. This is largely enabled by leniency mechanics and often combines them in various ways.
