@@ -36,7 +36,7 @@ Vertical (upwards):
 
 Jumps give a small speed boost and ultras give a 1.2x multiplier. Air friction is weaker than ground friction, which is weaker than crouchsliding friction. All jumps have a short duration at the beginning where they ignore gravity while jump is held. Dashes ignore friction, wind, and *preserve horizontal speed when sufficiently fast.
 
-[TAS documentation](https://docs.google.com/document/d/1RVXyO7AZB-r7X3FxkxrBob775qWdhfOyBEOGGbnTgws) provides much more details.
+[TAS documentation](https://docs.google.com/document/d/1RVXyO7AZB-r7X3FxkxrBob775qWdhfOyBEOGGbnTgws) provides much more detail.
 
 <details>
   <summary>1.2x multiplier</summary>
@@ -129,7 +129,7 @@ A general understanding of what bottlenecks are and how they influence all of mo
 </details>
 
 ## DashCD control
-Be aware of DashCD and movement to control DashCD for setups. Learn to buffer consecutive dashes or dashes out of a hyper for grounded ultra timing. Use setups that rely on buffering a dash out of DashCD. Manage DashCD from vertical transitions and develop intuition for buffering out of vertical DashCD.
+Be aware of DashCD (Dash CoolDown) and movement to control DashCD for setups. Learn to buffer consecutive dashes or dashes out of a hyper for grounded ultra timing. Use setups that rely on buffering a dash out of DashCD. Manage DashCD from vertical transitions and develop intuition for buffering out of vertical DashCD.
 
 <details>
   <summary>Grounded ultra timing</summary>
