@@ -260,4 +260,4 @@ Making decisions to cover multiple possible outcomes to reduce risk at little/no
 
 [&#8592; Level 3](https://github.com/kwan22/habits/blob/main/level3.md) 
 
-[Conclusions &#8594;](https://github.com/kwan22/habits/blob/main/conclusions-faq.md)
+[Conclusions &#8594;](https://github.com/kwan22/habits/blob/main/conclusions.md)
