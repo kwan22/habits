@@ -22,11 +22,11 @@
 **Q6: 6b when?**  <br>
 *A: Barrier to entry is simply too high. A habits run of 6b would mostly look like a casual playthrough with a "try not to die" mentality until Level 4 at least.*
 
-**Q: This doesn't seem like a very efficient way of learning the speedrun. Why are we spending so much time not doing tech or fast strats so we can start building muscle memory earlier?**  <br>
+**Q7: This doesn't seem like a very efficient way of learning the speedrun. Why are we spending so much time not doing tech or fast strats so we can start building muscle memory earlier?**  <br>
 *A: Depends on what you mean by efficient. No need to rip out all the hard strats when you don't even have control of basic jump+dash+grab combos or any movement fluidity. Beginners barely even know how to control Madeline, what are we doing learning difficult strats from the get-go?*
 
-**Q7: What are the goal times for each level?** <br>
+**Q8: What are the goal times for each level?** <br>
 *A: Doesn't matter, the goal is to develop skillsets and knowledge, not target arbitrary filetimes. The reader can have their own interpretation on what the corresponding fullgame times would be.*
 
-**Q8: The goal of speedrunning is to get the fastest possible time. Why isn't this a goal of the habits?**  <br>
+**Q9: The goal of speedrunning is to get the fastest possible time. Why isn't this a goal of the habits?**  <br>
 *A: Because my opinion is that speedrunning Celeste is a performing art, and the final time you get is secondary. Time of course is important when selecting strats, learning movement, and developing a plan. These are implicitly considered as we build the habits to improve our speed, consistency, and optimize movement. Once these are settled and we enter the mode of running fullgame, the focus should shift to whether we are executing our plan as intended or not. The time simply becomes a consequence of our performance at this point. Let the end time follow your personal growth, no need to chase after arbitrary filetimes.*
