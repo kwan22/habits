@@ -80,7 +80,14 @@ Introducing the "red dot," a term borrowed from the chess habits. The idea is to
   Seekers technically have no RNG but can have wildly different behaviors with slight changes in movement. Learning to stun seekers on command allows us a few seconds of free movement and mitigates their unpredictable behavior. You may find that you need to stun seekers in different spots than the strats shown here.
   
   Route for getting search keys that avoids the most seekers. <br>
-  <img src = "https://github.com/kwan22/habits/blob/main/images/lv1/5a_search_keys.png" alt = "5a_search_keys" width = "960">
+  <img src = "https://github.com/kwan22/habits/blob/main/images/lv1/5a_search_keys_labeled.png" alt = "5a_search_keys" width = "960">
+
+  1. Entering the hub
+  2. Grab the 1st key
+  3. Put the 1st key into the left door
+  4. Grab the 2nd key
+  5. Put the 2nd key into the right door
+  6. Finish the search hub puzzle.
 </details>
 
 <details>
