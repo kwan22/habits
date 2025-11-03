@@ -17,7 +17,7 @@ Later levels focused on developing strats with consistency using leniency mechan
 
 Habits cap out as we approach higher levels of gameplay. In chess, a lot of the higher level learning becomes learning when to break the habits. My opinion is that in Celeste, further learning becomes paying attention to increasingly granular levels of detail, and trying to rely only on the fundamentals becomes limited. The fundamentals are always necessary but not always sufficient.
 
-Thank you for reading and (presumably) watching the series. I hope you found this both entertaining and instructive.
+Thank you for reading and (presumably) watching the series. I hope you found this both entertaining and instructive. Any feedback is welcome, you can DM me on Discord (kwan22).
 
 ---
 
