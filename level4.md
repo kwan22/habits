@@ -6,6 +6,11 @@
 
 Level 4 begins a deeper dive into some of the fundamentals of movement as well as more detailed inner workings of game mechanics and niche situations in which these arise. Situations become more specific and technical: understanding the inner workings is not required to execute the strats, but the details are not obviously available to a player without researching game mechanics and physics. Concepts start to become increasingly complicated, so several examples are provided for illustration. We also switch to the 5b route as the concepts used here make 5b viable and instructive. Speedrun tool is highly useful for timing movement options. TAS tools can be useful for those interested in diving into the science.
 
+The goals of Level 4 are to
+- Identify objectives and bottlenecks.
+- Tailor movement options to best resolve a bottleneck.
+- Build movement around DashCD for both speed and consistency.
+
 ## Table of Contents
 - [Speed hierarchy](#speed-hierarchy)
 - [Bottlenecks](#bottlenecks)
@@ -56,7 +61,7 @@ Jumps give a small speed boost and ultras give a 1.2x multiplier. Air friction i
 </details>
 
 ## Bottlenecks  
-A general understanding of what bottlenecks are and how they influence all of movement. This is usually divided between resolving a horizontal vs vertical bottleneck, but can also be dictated by other factors such as activating an entity. The goal is to be conscious of these: some are difficult to greed and optimize well and may compromise consistency, but having awareness of these provides us with guidance on what the limits are.
+A general understanding of what bottlenecks are and how they influence all of movement. The bottleneck is defined as the limiting factor in achieving an objective. Think of a group of people meeting at a rendezvous for a group departure: last one to show up is the bottleneck. In Celeste, this is usually divided between resolving a horizontal vs vertical bottleneck, but can also be dictated by other factors such as activating an entity. The goal is to be conscious of these: some are difficult to greed and optimize well and may compromise consistency, but having awareness of these provides us with guidance on what the limits are. At Level 4, we look to be able to identify the movement objectives and tailor our movement options (based on the speed hierarchy) to resolve the bottleneck.
 
 <details>
   <summary>Supers and hypers</summary>
@@ -129,7 +134,7 @@ A general understanding of what bottlenecks are and how they influence all of mo
 </details>
 
 ## DashCD control
-Be aware of DashCD (Dash CoolDown) and movement to control DashCD for setups. Learn to buffer consecutive dashes or dashes out of a hyper for grounded ultra timing. Use setups that rely on buffering a dash out of DashCD. Manage DashCD from vertical transitions and develop intuition for buffering out of vertical DashCD.
+Be aware of DashCD (Dash CoolDown) and build your movement to within the constraints of DashCD to improve speed, consistency, and enable certain setups. Learn to buffer consecutive dashes or dashes out of a hyper for grounded ultra timing. Use setups that rely on buffering a dash out of DashCD. Manage DashCD from vertical transitions and develop intuition for buffering out of vertical DashCD.
 
 <details>
   <summary>Grounded ultra timing</summary>
@@ -179,7 +184,7 @@ Be aware of DashCD (Dash CoolDown) and movement to control DashCD for setups. Le
 </details>
 
 ## Applied buffering
-Expanding upon the repertoire of concepts that rely on buffering from Level 3.
+Expanding upon the repertoire of concepts that rely on buffering from Level 3 to improve movement and enable strats.
 
 <details>
   <summary>Buffering instant or extended hyper</summary>
