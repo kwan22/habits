@@ -8,7 +8,7 @@ Level 1 is aimed at players who just completed a casual playthrough of the base 
 
 The main goals of Level 1 are to
 - Learn how to perform the basic actions
-- Know what the rooms are
+- Know what the rooms are and where to go
 - Have a plan on how you intend to handle all the challenges
 
 ## Table of Contents
