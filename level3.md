@@ -32,7 +32,7 @@ The goal is to take advantage of various leniency mechanics offered in Celeste t
   <img src="https://github.com/kwan22/habits/blob/main/images/lv3/5a_depths_transhyper_shortjump.webp" width="480">
   <img src="https://github.com/kwan22/habits/blob/main/images/lv3/7a_2500m_3_transsuper.webp" width="480">
 
-  Pausing for cutscene skips on transition can be buffered in v1.4. When executed correctly, the pause menu should appear at the end of transition and before Madeline moves. <br>
+  Pausing for cutscene skips on transition can be buffered ever since v1.4. When executed correctly, the pause menu should appear at the end of transition and before Madeline moves. Whether Madeline moves or not might not be obvious at first to the untrained eye. Another identifier is the hair color: if Madeline crosses a transition with blue hair, she will retain blue hair if the pause is buffered properly. If the pause is late, Madeline's hair turns white or red. For both of these cutscene skips, Madeline enters with blue hair and retains blue hair on the pause. <br>
   <img src="https://github.com/kwan22/habits/blob/main/images/lv3/2a_intervention_1_pause.webp" width="480">
   <img src="https://github.com/kwan22/habits/blob/main/images/lv3/3a_suite_final_pause.webp" width="480"> <br>
   While missing the buffer out of transition is largely inconsequential for cutscene skips, these are useful diagnostics as they provides instant feedback to evaluate if you are properly buffering out of the transition.
