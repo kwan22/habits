@@ -6,6 +6,11 @@
 
 Level 2 is meant to simulate a player that has likely already dabbled in speedrunning Celeste and wants to take it more seriously. Perhaps they have completed all the chapters or even 100%'d the game. Here, we nominally unleash the basic speed tech taught in the game. 
 
+The goals of Level 2 are to
+- Learn to use the basic speed tech
+- Begin to develop a flow, more active and less reactive gameplay
+- Learn to use 2 jump binds
+
 ## Table of Contents
 - [Basic tech](#basic-tech)
 - [Intro to active movement](#introduction-to-active-movement)
