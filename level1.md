@@ -6,7 +6,7 @@
 
 Level 1 is aimed at players who just completed a casual playthrough of the base game and want to immediately jump into speedrunning. They likely have collected some berries here and there, maybe found a few cassettes and blue hearts, but have not played any B-sides or Farewell. They have not been introduced to any of the game-taught speed tech and these rules will reflect that.
 
-The main goals of Level 1 are to
+The goals of Level 1 are to
 - Mastery of the basic actions
 - Know what the rooms are and where to go
 - Have a plan on how you intend to handle all the challenges
