@@ -7,8 +7,8 @@
 To summarize the habits at each level:
 
 - Level 1 emphasized having a plan for every room
-- Level 2 introduced basic speed tech
-- Level 3 introduced the use of leniency mechanics and active movement
+- Level 2 introduced basic speed tech and active movement
+- Level 3 introduced the use of leniency mechanics
 - Level 4 focused on optimizing movement and taking advantage of the buffer system
 
 Reflecting on the goals of the habits, the early levels started with developing mastery of the basic inputs, followed by learning to use speed tech. None of the speed tech is highly technical to perform: mainly learning the extension timing requires learning an arbitrary muscle-memory. Speed tech is only ever used in the context of having a plan or setup, and is only as hard as the setup demands. The intent of the gradual introduction of speed tech is to cement mastery of the basic actions of jump, dash, and grab before moving on towards more advanced ones.
@@ -17,7 +17,7 @@ Later levels focused on developing strats with consistency using leniency mechan
 
 Habits cap out as we approach higher levels of gameplay. In chess, a lot of the higher level learning becomes learning when to break the habits. My opinion is that in Celeste, further learning becomes paying attention to increasingly granular levels of detail, and trying to rely only on the fundamentals becomes limited. The fundamentals are always necessary but not always sufficient.
 
-Thank you for reading and (presumably) watching the series. I hope you found this both entertaining and instructive. Any feedback is welcome, you can DM me on Discord (kwan22).
+Thank you for reading and (potentially) watching the series. I hope this was both entertaining and instructive. Any feedback is welcome, you can DM me on Discord (kwan22).
 
 ---
 
