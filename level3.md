@@ -1,5 +1,7 @@
 [Back to main page](https://github.com/kwan22/habits/blob/main/README.md)
 
+[&#8592; Level 2](https://github.com/kwan22/habits/blob/main/level2.md) 
+
 # Level 3
 
 <img src = "https://github.com/kwan22/habits/blob/main/images/lv3.png" width = "960">
