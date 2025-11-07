@@ -1,5 +1,7 @@
 [Back to main page](https://github.com/kwan22/habits/blob/main/README.md)
 
+[&#8592; Level 3](https://github.com/kwan22/habits/blob/main/level3.md) 
+
 # Level 4
 
 <img src = "https://github.com/kwan22/habits/blob/main/images/lv4.png" width = "960">
@@ -7,8 +9,8 @@
 Level 4 begins a deeper dive into some of the fundamentals of movement as well as more detailed inner workings of game mechanics and niche situations in which these arise. Situations become more specific and technical: understanding the inner workings is not required to execute the strats, but the details are not obviously available to a player without researching game mechanics and physics. Concepts start to become increasingly complicated, so several examples are provided for illustration. We also switch to the 5b route as the concepts used here make 5b viable and instructive. Speedrun tool is highly useful for timing movement options. TAS tools can be useful for those interested in diving into the science.
 
 The goals of Level 4 are to
-- Identify objectives and bottlenecks
 - Understand the game mechanics that control speed
+- Identify objectives and bottlenecks
 - Tailor movement options to best resolve a bottleneck
 - Build movement around DashCD for both speed and consistency
 
