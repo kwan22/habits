@@ -24,7 +24,7 @@ Note that "getting the fastest time we can" is **not** an explicit goal of the h
 
 <img src = "https://github.com/kwan22/habits/blob/main/images/levelup.png" width = 960>
 
-This document is accompanied by a [video series](https://www.youtube.com/watch?v=wn3RARvFiFE&list=PLPTo7ZG8_ivLBmpa0oxqO4F7zII4MTxqe) which show the highlights of me performing speedruns while following these rules. These mainly serve as demonstration of me following the rulesets and showcase how I approach performing runs, partially for entertainment but also to be instructive. Habits is not necessarily meant to be a prescription for strats for a given skill level, but I did try to select strats at each level to reasonably reflect a comparable level of execution. Full runs showcasing the full stratsets are found at the end of the playlist.
+This document is accompanied by a [video series](https://www.youtube.com/watch?v=wn3RARvFiFE&list=PLPTo7ZG8_ivLBmpa0oxqO4F7zII4MTxqe) of me performing speedruns while following these rules. These mainly serve as demonstration of me following the rulesets and showcase how I approach performing runs, partially for entertainment but also to be instructive. Habits is not necessarily meant to be a prescription for strats for a given skill level, but I did intend to tailor strats at each level to reasonably reflect a comparable level of execution.
 
 ---
 
