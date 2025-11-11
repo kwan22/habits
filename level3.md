@@ -162,6 +162,10 @@ Movement should flow from one segment to the next. Movement exiting a room shoul
 
 The "safe" section of the [Vapo sheet](https://docs.google.com/spreadsheets/d/1HsFtpz_wfA4yrMuZOMX-f69O6ZEZph8db1ReKX8SNIY/edit?gid=0#gid=0) begins to become a useful resource for strats that showcases all of these principles.
 
+---
+
+[Level 3 pb run](https://www.youtube.com/watch?v=K1lFC1wd4YA&list=PLPTo7ZG8_ivLBmpa0oxqO4F7zII4MTxqe&index=14&t=4751)
+
 [&#8593; Back to top](#level-3)
 
 [&#8592; Level 2](https://github.com/kwan22/habits/blob/main/level2.md) 
