@@ -149,6 +149,8 @@ Introducing the "red dot," a term borrowed from the chess habits. The idea is to
 
 ---
 
+[Level 1 pb run](https://www.youtube.com/watch?v=LAsIb5jsIIY&list=PLPTo7ZG8_ivLBmpa0oxqO4F7zII4MTxqe&index=9&t=39)
+
 [&#8593; Back to top](#level-1)
 
 [Level 2 &#8594;](https://github.com/kwan22/habits/blob/main/level2.md) 
