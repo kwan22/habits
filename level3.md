@@ -66,7 +66,7 @@ The goal is to take advantage of various leniency mechanics offered in Celeste t
 </details>
 
 ## Advanced techniques
-The use of "advanced" here mostly implies a technique not naturally taught by the game. Players will likely need to have done some external research to learn about these. Keep in mind that there is nothing inherently new about each technique. At the end of the day, everything is some combination of pressing jump, dash, and grab. It is the setup on which these are used that can be challenging to make successful.
+The use of "advanced" here only implies a technique not naturally taught by the game. Players will likely need to have done some external research to learn about these. Keep in mind that there is nothing inherently new about each technique. At the end of the day, everything is some combination of pressing jump, dash, and grab. It is the setup on which these are used that can be challenging to make successful.
 <details>
   <summary>Hyper bhop</summary>
   Hyper with a short jump to return to the ground quickly, and jump (bhop) again for a small speed boost. This is frequently the fastest way to accelerate from a standstill, and may provide some small optimizations over a simple hyper. When well executed in the right situations, it can effectively provide the horizontal speed of a hyper and the vertical speed of a bhop.<br>
