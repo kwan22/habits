@@ -1,8 +1,8 @@
-[Back to main page](https://github.com/kwan22/habits/blob/main/README.md)
+[Back to main page](./README.md)
 
 # FAQ
 
-<img src = "https://github.com/kwan22/habits/blob/main/images/faq.png" width = 960>
+<img src = "./images/faq.png" width = 960>
 
 **Q1: Why is x at habit level y? It should be in habit level z!**  <br>
 *A: Maybe, there's no one way to build a good habits series. These just reflect my personal take and values on how to incrementally improve on the fundamentals.*
