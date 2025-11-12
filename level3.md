@@ -126,18 +126,18 @@ Many scary-looking strats become less scary with the right (visual) cue, typical
   <summary>Example 2: 5a Rescue</summary>
   <img src="https://github.com/kwan22/habits/blob/main/images/lv3/5a_rescue_eyecue.webp" width="480">
   <img src="https://github.com/kwan22/habits/blob/main/images/lv3/5a_rescue_eyecue.png" width="480"> <br>
-  This Theo "ultra" speed strat is much easier than it looks if you are comfortable with buffering out of transitions and 3-tile midair supers. <br>
-  - Extended hyper from the previous room (setup from falling down next to the wall and letting the recoil from throwing Theo push you back) <br>
+  This Theo "ultra" speed strat is much easier than it looks if you are comfortable with buffering out of transitions and 3-tile elevation midair supers. <br>
+  - Extended hyper from the previous room  <br>
   - Hold grab and buffer downright dash out of transition <br> 
   - Throw Theo + midair extended super at the small eyeball in the background. <br>
-  Note there's nothing inherently wild or insanely advanced about this "Theo ultra" with skills we've using at level 3. Extended hyper? Check. Buffer action out of transition? Check. 3-tile vertical jump alignment for midair super? Check. 
+  Note there's nothing inherently wild or insanely advanced about this "Theo ultra" with concepts we've using at level 3. Extended hyper? Check. Buffer action out of transition? Check. 3-tile elevation alignment for midair super? Check. 
 </details>
 
 <details>
   <summary>Example 3: 6a Reflection</summary>
   <img src="https://github.com/kwan22/habits/blob/main/images/lv3/6a_reflection_shortcut3.webp" width="480">
   <img src="https://github.com/kwan22/habits/blob/main/images/lv3/6a_reflection_shortcut3.png" width="480"> <br>
-  The gap for this final shortcut stays off camera until you get quite close to it, making it difficult to react. Incidentally, the right edge of the gap perfectly lines up with the left side of the flower. This means we should aim to be just to the left of the flower. Whatever movement you decide to do to approach this gap, you can use the flower as a reference to judge our alignment. Once you're in the gap, all you need is a short right tap to make it through.
+  The gap for this final shortcut stays off camera until you get quite close to it, making it difficult to react. Incidentally, the right edge of the gap perfectly lines up with the left side of the flower. This means we should aim to be just to the left of the flower. Whatever movement you decide to do to approach this gap, you can use the flower (or any other cue you prefer) as a reference to judge our alignment. Once you're in the gap, all you need is a short right tap to make it through.
 </details>
 
 <details>
