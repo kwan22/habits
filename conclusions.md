@@ -1,8 +1,8 @@
-[Back to main page](https://github.com/kwan22/habits/blob/main/README.md)
+[Back to main page](./README.md)
 
 # Closing Thoughts
 
-<img src = "https://github.com/kwan22/habits/blob/main/images/epilogue.png" width = 960>
+<img src = "./images/epilogue.png" width = 960>
 
 To summarize the habits at each level:
 
@@ -36,4 +36,4 @@ And of course, thanks to Celeste and the associated speedrunning community.
 
 [&#8593; Back to top](#closing-thoughts)
 
-[FAQ &#8594;](https://github.com/kwan22/habits/blob/main/faq.md) 
+[FAQ &#8594;](./faq.md) 
