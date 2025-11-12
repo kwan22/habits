@@ -47,6 +47,12 @@ This includes supers, hypers, wallbounces, and wavedashes. I specify wavedash he
   Without having fully learned extension timing and only following the advice of wavedash.ppt, supers have limited use. As extension timing will become an integral part at higher levels of gameplay, we will instead use Search skip to provide visual guidance on learning extension timing. <br>
     <img src="https://github.com/kwan22/habits/blob/main/images/lv2/5a_search_skip_slow.webp" width="480"/> <br>
     We can learn extension timing by lining up on the left wall, dashing right, and waiting until we hit the right wall before turning around and jumping for Search skip reverse super. This is about as accurate as wavedash.ppt is at teaching wavedashes, i.e. technically incorrect but sufficient for our purposes. The goal here is to provide a single, isolated case to practice extension (and reverse) timings, with a simple visual cue to guide the arbitrary timing. 
+
+  The most common failure mode I've seen is jumping too early. Lining up on the left wall is just to provide a visual guide for the timing: jumping must occur after hitting the right wall, otherwise the strat fails. <br>
+  <img src="https://github.com/kwan22/habits/blob/main/images/lv2/5a_search_skip_early.webp" width="480"/>
+  <img src="https://github.com/kwan22/habits/blob/main/images/lv2/5a_search_skip_early.png" width="480"/> <br>
+
+
 </details>
 
 <details>
