@@ -1,6 +1,6 @@
 # Building Habits: Developing Fundamentals of Celeste Speedrunning
 
-<img src = "https://github.com/kwan22/habits/blob/main/images/prologue_dash.png" width = 960>
+<img src = "./images/prologue_dash.png" width = 960>
 
 ## Table of Contents
 - [Introduction](#introduction)
