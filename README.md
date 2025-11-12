@@ -4,7 +4,7 @@
 
 ## Table of Contents
 - [Introduction](#introduction)
-- [Level 1](https://github.com/kwan22/habits/blob/main/level1.md)
+- [Level 1](./level1.md)
 - [Level 2](https://github.com/kwan22/habits/blob/main/level2.md)
 - [Level 3](https://github.com/kwan22/habits/blob/main/level3.md)
 - [Level 4](https://github.com/kwan22/habits/blob/main/level4.md)
