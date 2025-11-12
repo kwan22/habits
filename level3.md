@@ -1,10 +1,10 @@
-[Back to main page](https://github.com/kwan22/habits/blob/main/README.md)
+[Back to main page](./README.md)
 
-[&#8592; Level 2](https://github.com/kwan22/habits/blob/main/level2.md) 
+[&#8592; Level 2](./level2.md) 
 
 # Level 3
 
-<img src = "https://github.com/kwan22/habits/blob/main/images/lv3.png" width = "960">
+<img src = "./images/lv3.png" width = "960">
 
 Level 3 rounds out most of the RTA-viable speed tech that speedrunners will ever implement. We emphasize a selection of strats with speed generation/conservation, and finding ways to perform them in a consistent manner via normalization. The savestate function of speedrun tool is highly recommnded to practice strats.
 
@@ -29,40 +29,40 @@ The goal is to take advantage of various leniency mechanics offered in Celeste t
 <details>
   <summary>Transition buffers</summary>
   Dash through a transition and jump after to perform the dash tech across the screen transition. One of the best ways to normalize movement. <br>
-  <img src="https://github.com/kwan22/habits/blob/main/images/lv3/1a_crossing_trans_wb.webp" width="480">
-  <img src="https://github.com/kwan22/habits/blob/main/images/lv3/4a_shrine_trans_wb.webp" width="480">
-  <img src="https://github.com/kwan22/habits/blob/main/images/lv3/5a_depths_transhyper_shortjump.webp" width="480">
-  <img src="https://github.com/kwan22/habits/blob/main/images/lv3/7a_2500m_3_transsuper.webp" width="480">
+  <img src="./images/lv3/1a_crossing_trans_wb.webp" width="480">
+  <img src="./images/lv3/4a_shrine_trans_wb.webp" width="480">
+  <img src="./images/lv3/5a_depths_transhyper_shortjump.webp" width="480">
+  <img src="./images/lv3/7a_2500m_3_transsuper.webp" width="480">
 
   Pausing for cutscene skips on transition can be buffered ever since v1.4. When executed correctly, the pause menu should appear at the end of transition and before Madeline moves. Whether Madeline moves or not might not be obvious at first to the untrained eye. Another identifier is the hair color: if Madeline crosses a transition with blue hair, she will retain blue hair if the pause is buffered properly. If the pause is late, Madeline's hair turns white or red. For both of these cutscene skips, Madeline enters with blue hair and retains blue hair on the pause. <br>
-  <img src="https://github.com/kwan22/habits/blob/main/images/lv3/2a_intervention_1_pause.webp" width="480">
-  <img src="https://github.com/kwan22/habits/blob/main/images/lv3/3a_suite_final_pause.webp" width="480"> <br>
+  <img src="./images/lv3/2a_intervention_1_pause.webp" width="480">
+  <img src="./images/lv3/3a_suite_final_pause.webp" width="480"> <br>
   While missing the buffer out of transition is largely inconsequential for cutscene skips, these are useful diagnostics as they provides instant feedback to evaluate if you are properly buffering out of the transition.
 </details>
 
 <details>
   <summary>Cornercorrection</summary>
   Cornercorrection and floorsnapping are leniency mechanics that will be naturally used at all levels, but here we will intentionally emphasize movement where lining up a midair dash for cornercorrection is lenient. Jumpthrough correction leniency is also demonstrated. This is also a nice place to learn the timing for dashing at or near max height and not releasing jump while doing so. A jump lines up well with a 3-tile height platform, and a hyper lines up well with both 1-tile and 2-tile height platforms. <br>
-    <img src="https://github.com/kwan22/habits/blob/main/images/lv3/2a_start_hyper_1tile.webp" width="480">
-    <img src="https://github.com/kwan22/habits/blob/main/images/lv3/5a_rescue_3tile.webp" width="480">
-    <img src="https://github.com/kwan22/habits/blob/main/images/lv3/7a_2k_start_cut.webp" width="480">    
+    <img src="./images/lv3/2a_start_hyper_1tile.webp" width="480">
+    <img src="./images/lv3/5a_rescue_3tile.webp" width="480">
+    <img src="./images/lv3/7a_2k_start_cut.webp" width="480">    
 
   Jumpthroughs, moving platforms, and clouds are even more forgiving with cornercorrection.<br> 
-  <img src="https://github.com/kwan22/habits/blob/main/images/lv3/4a_start_triplat.webp" width="480">
-  <img src="https://github.com/kwan22/habits/blob/main/images/lv3/4a_face_4_demohyper.webp" width="480">
-  <img src="https://github.com/kwan22/habits/blob/main/images/lv3/6a_resolution_super.webp" width="480">
-  <img src="https://github.com/kwan22/habits/blob/main/images/lv3/7a_flag19.webp" width="480">
+  <img src="./images/lv3/4a_start_triplat.webp" width="480">
+  <img src="./images/lv3/4a_face_4_demohyper.webp" width="480">
+  <img src="./images/lv3/6a_resolution_super.webp" width="480">
+  <img src="./images/lv3/7a_flag19.webp" width="480">
 
   Flag 1 has the gauntlet of cornercorrection. Many of the platform heights line up well with combinations of jumps, updashes, and updiagonal dashes. <br>
-  <img src="https://github.com/kwan22/habits/blob/main/images/lv3/7a_flag01.webp" width="480"> <br>
+  <img src="./images/lv3/7a_flag01.webp" width="480"> <br>
   </details>
 <details>
   <summary>Buffer setups</summary>
   Gradual introduction of the buffer mechanic with some setups that rely heavily on buffering to be viable. Jumps on or near spikes ("spikejumps") are common examples. The timesave from these is cool but not important: these are more useful as diagnostics in that the strat fails with improper buffering. <br>
-  <img src="https://github.com/kwan22/habits/blob/main/images/lv3/3a_boxes_spikejump.webp" width="480">
-  <img src="https://github.com/kwan22/habits/blob/main/images/lv3/4a_shrine_spikejump.webp" width="480">
-  <img src="https://github.com/kwan22/habits/blob/main/images/lv3/5a_unraveling_spikejump.webp" width="480">
-  <img src="https://github.com/kwan22/habits/blob/main/images/lv3/7a_2500m_keyskip_boomer.webp" width="480">
+  <img src="./images/lv3/3a_boxes_spikejump.webp" width="480">
+  <img src="./images/lv3/4a_shrine_spikejump.webp" width="480">
+  <img src="./images/lv3/5a_unraveling_spikejump.webp" width="480">
+  <img src="./images/lv3/7a_2500m_keyskip_boomer.webp" width="480">
 </details>
 
 ## Advanced techniques
@@ -70,45 +70,45 @@ The use of "advanced" here only implies a technique not naturally taught by the 
 <details>
   <summary>Hyper bhop</summary>
   Hyper with a short jump to return to the ground quickly, and jump (bhop) again for a small speed boost. This is frequently the fastest way to accelerate from a standstill, and may provide some small optimizations over a simple hyper. When well executed in the right situations, it can effectively provide the horizontal speed of a hyper and the vertical speed of a bhop.<br>
-  <img src="https://github.com/kwan22/habits/blob/main/images/lv3/3a_suite_thumbnail_hyperbhop.webp" width="480">
-  <img src="https://github.com/kwan22/habits/blob/main/images/lv3/4a_shrine_hyperbhop.webp" width="480">
-  <img src="https://github.com/kwan22/habits/blob/main/images/lv3/6a_reflection_badelineboost.webp" width="480">
-  <img src="https://github.com/kwan22/habits/blob/main/images/lv3/6a_rb_hyperbhop_2.webp" width="480">
+  <img src="./images/lv3/3a_suite_thumbnail_hyperbhop.webp" width="480">
+  <img src="./images/lv3/4a_shrine_hyperbhop.webp" width="480">
+  <img src="./images/lv3/6a_reflection_badelineboost.webp" width="480">
+  <img src="./images/lv3/6a_rb_hyperbhop_2.webp" width="480">
 </details>
 <details>
   <summary>Ultras</summary>
   Collide with the ground after a downdiagonal dash to gain a 1.2x horizontal speed multiplier. Requires a minimum elevation drop of almost 4 tiles from the start of the downdiagonal dash, or an interaction that cancels the dash (e.g. Theo) to preserve the speed. Commonly performed using an extended hyper into downdiagonal. Avoid buffering jump on landing if possible.<br>
-  <img src="https://github.com/kwan22/habits/blob/main/images/lv3/2a_start_ultra.webp" width="480">
-  <img src="https://github.com/kwan22/habits/blob/main/images/lv3/2a_awake_ultra.webp" width="480">
-  <img src="https://github.com/kwan22/habits/blob/main/images/lv3/3a_boxes_ultra.webp" width="480">
-  <img src="https://github.com/kwan22/habits/blob/main/images/lv3/5a_depths1_ultra.webp" width="480">
+  <img src="./images/lv3/2a_start_ultra.webp" width="480">
+  <img src="./images/lv3/2a_awake_ultra.webp" width="480">
+  <img src="./images/lv3/3a_boxes_ultra.webp" width="480">
+  <img src="./images/lv3/5a_depths1_ultra.webp" width="480">
 </details>
 <details>
   <summary>Cornerboosts </summary>
   Buffer a climbjump near a corner to gain a small speed boost. Getting the speed boost may contain "rng" depending on the setup. <br>
-  <img src="https://github.com/kwan22/habits/blob/main/images/lv3/1a_start_wavecb.webp" width="480">
-  <img src="https://github.com/kwan22/habits/blob/main/images/lv3/3a_start_cb.webp" width="480">
-  <img src="https://github.com/kwan22/habits/blob/main/images/lv3/6a_hollows_1_cb.webp" width="480">
-  <img src="https://github.com/kwan22/habits/blob/main/images/lv3/7a_flag24_wb_cb.webp" width="480"> 
+  <img src="./images/lv3/1a_start_wavecb.webp" width="480">
+  <img src="./images/lv3/3a_start_cb.webp" width="480">
+  <img src="./images/lv3/6a_hollows_1_cb.webp" width="480">
+  <img src="./images/lv3/7a_flag24_wb_cb.webp" width="480"> 
   
 </details>
 <details>
   <summary>Demos</summary>
   An in-game bind since v1.4; dash with a crouching hitbox. Enables some skips, opens up movement options, and adds leniency in some cases. <br>
-  <img src="https://github.com/kwan22/habits/blob/main/images/lv3/2a_awake_midair_demos.webp" width="480">
-  <img src="https://github.com/kwan22/habits/blob/main/images/lv3/3a_shaft_demo_8f.webp" width="480">
-  <img src="https://github.com/kwan22/habits/blob/main/images/lv3/4a_start_archie.webp" width="480">
-  <img src="https://github.com/kwan22/habits/blob/main/images/lv3/7a_1k_dhyper.webp" width="480">
-  <img src="https://github.com/kwan22/habits/blob/main/images/lv3/7a_2k_as.webp" width="480">
-  <img src="https://github.com/kwan22/habits/blob/main/images/lv3/7a_2500m_demohyper2.webp" width="480">
+  <img src="./images/lv3/2a_awake_midair_demos.webp" width="480">
+  <img src="./images/lv3/3a_shaft_demo_8f.webp" width="480">
+  <img src="./images/lv3/4a_start_archie.webp" width="480">
+  <img src="./images/lv3/7a_1k_dhyper.webp" width="480">
+  <img src="./images/lv3/7a_2k_as.webp" width="480">
+  <img src="./images/lv3/7a_2500m_demohyper2.webp" width="480">
 </details>
 <details>
   <summary>Neutrals</summary>
   Jump off a wall without holding grab or any horizontal directions. Can be used to ascend without spending stamina or normalize horizontal trajectory from a walljump or wallbounce. <br>
-  <img src="https://github.com/kwan22/habits/blob/main/images/lv3/1a_chasm_leftwall_safe.webp" width="480">
-  <img src="https://github.com/kwan22/habits/blob/main/images/lv3/4a_trail_ultra_neutrals.webp" width="480">
-  <img src="https://github.com/kwan22/habits/blob/main/images/lv3/6a_hollows_1_neutral.webp" width="480">
-  <img src="https://github.com/kwan22/habits/blob/main/images/lv3/7a_flag12_neutral.webp" width="480">
+  <img src="./images/lv3/1a_chasm_leftwall_safe.webp" width="480">
+  <img src="./images/lv3/4a_trail_ultra_neutrals.webp" width="480">
+  <img src="./images/lv3/6a_hollows_1_neutral.webp" width="480">
+  <img src="./images/lv3/7a_flag12_neutral.webp" width="480">
 </details>
 
 ## Cues
@@ -117,15 +117,15 @@ Many scary-looking strats become less scary with the right (visual) cue, typical
 
 <details>
   <summary>Example 1: 4a Cliff face</summary>
-  <img src="https://github.com/kwan22/habits/blob/main/images/lv3/4a_cf_1tile_ultra.webp" width="480">
-  <img src="https://github.com/kwan22/habits/blob/main/images/lv3/4a_cf_1tile_ultra.png" width="480"> <br>
+  <img src="./images/lv3/4a_cf_1tile_ultra.webp" width="480">
+  <img src="./images/lv3/4a_cf_1tile_ultra.png" width="480"> <br>
   This scary-looking ultra onto the 1-tile is easier than it looks: the downright lines up nicely above the previous platform. Personally I aim for when Madeline is vertically aligned with the jutting background tiles as they're closer to Madeline and easier to see. The right dash afterwards is done at max height. Slow climb to the top, and then demohyper and the last snowball lines up.
 </details>
 
 <details>
   <summary>Example 2: 5a Rescue</summary>
-  <img src="https://github.com/kwan22/habits/blob/main/images/lv3/5a_rescue_eyecue.webp" width="480">
-  <img src="https://github.com/kwan22/habits/blob/main/images/lv3/5a_rescue_eyecue.png" width="480"> <br>
+  <img src="./images/lv3/5a_rescue_eyecue.webp" width="480">
+  <img src="./images/lv3/5a_rescue_eyecue.png" width="480"> <br>
   This Theo "ultra" speed strat is much easier than it looks if you are comfortable with buffering out of transitions and 3-tile elevation midair supers. <br>
   - Extended hyper from the previous room  <br>
   - Hold grab and buffer downright dash out of transition <br> 
@@ -135,15 +135,15 @@ Many scary-looking strats become less scary with the right (visual) cue, typical
 
 <details>
   <summary>Example 3: 6a Reflection</summary>
-  <img src="https://github.com/kwan22/habits/blob/main/images/lv3/6a_reflection_shortcut3.webp" width="480">
-  <img src="https://github.com/kwan22/habits/blob/main/images/lv3/6a_reflection_shortcut3.png" width="480"> <br>
+  <img src="./images/lv3/6a_reflection_shortcut3.webp" width="480">
+  <img src="./images/lv3/6a_reflection_shortcut3.png" width="480"> <br>
   The gap for this final shortcut stays off camera until you get quite close to it, making it difficult to react. Incidentally, the right edge of the gap perfectly lines up with the left side of the flower. This means we should aim to be just to the left of the flower. Whatever movement you decide to do to approach this gap, you can use the flower (or any other cue you prefer) as a reference to judge our alignment. Once you're in the gap, all you need is a short right tap to make it through.
 </details>
 
 <details>
   <summary>Example 4: 7a 1000m</summary>
-  <img src="https://github.com/kwan22/habits/blob/main/images/lv3/7a_1k_orb_upleft.webp" width="480">
-  <img src="https://github.com/kwan22/habits/blob/main/images/lv3/7a_1k_orb_upleft.png" width="480"> <br>
+  <img src="./images/lv3/7a_1k_orb_upleft.webp" width="480">
+  <img src="./images/lv3/7a_1k_orb_upleft.png" width="480"> <br>
   The background tile acts as a nice reference point to aim this upleft through both dreamblocks. It turns out that this upleft cannot be too early: the earliest possible dash is viable, aka it's bufferable! (If you press dash too early, nothing happens). 
 </details>
 
@@ -153,8 +153,8 @@ Many scary-looking strats become less scary with the right (visual) cue, typical
 Movement should flow from one segment to the next. Movement exiting a room should consciously chain into the next room. Strats are designed such that avoiding hazards is incorporated into the movement when well executed. Transition tech commonly serves as an anchor point of normalization for movement across rooms. Time spent standing still and reacting to the room should be minimized. This is largely enabled by leniency mechanics and often combines them in various ways.
 <details>
   <summary>Examples showcasing active movement</summary>
-  <img src="https://github.com/kwan22/habits/blob/main/images/lv3/3a_start_triplat_active.webp" width="480">
-  <img src="https://github.com/kwan22/habits/blob/main/images/lv3/3a_suite_final.webp" width="480"> <br>
+  <img src="./images/lv3/3a_start_triplat_active.webp" width="480">
+  <img src="./images/lv3/3a_suite_final.webp" width="480"> <br>
   Note the use of transition buffers and cornercorrection. Active movement is applicable literally everywhere, but has the most visually obvious impact on movement through dynamic hazards. With good active movement, we don't need to worry about cycles or red-dot since those should be incorporated into the movement. However, if anything goes wrong and we get off-cycle, then the red-dot can strike at any time. <br>
 <br>
 
@@ -168,6 +168,6 @@ The "safe" section of the [Vapo sheet](https://docs.google.com/spreadsheets/d/1H
 
 [&#8593; Back to top](#level-3)
 
-[&#8592; Level 2](https://github.com/kwan22/habits/blob/main/level2.md) 
+[&#8592; Level 2](./level2.md) 
 
-[Level 4 &#8594;](https://github.com/kwan22/habits/blob/main/level4.md)
+[Level 4 &#8594;](./level4.md)
