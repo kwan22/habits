@@ -17,7 +17,7 @@ Later levels focused on developing strats with consistency using leniency mechan
 
 Habits cap out as we approach higher levels of gameplay. In chess, a lot of the higher level learning becomes learning when to break the habits. My opinion is that in Celeste, further learning becomes paying attention to increasingly granular levels of detail, and trying to rely only on the fundamentals becomes limited. The fundamentals are always necessary but not always sufficient.
 
-Thank you for reading. I hope this was instructive (and entertaining if you watched the videos). Any feedback is welcome, you can DM me on Discord (kwan22).
+Thank you for reading. I hope this was instructive. Any feedback is welcome, you can DM me on Discord (kwan22).
 
 ---
 
@@ -29,12 +29,14 @@ And of course, thanks to Celeste and the associated speedrunning community.
 
 ---
 
-# Other useful resources
+# Other resources
 
 [Celeste Discord](https://discord.gg/celeste). Main hub of Celeste's speedrunning community and contains various resources for speedrunners of all skill levels. <br>
 [Celeste speedrun leaderboard](https://www.speedrun.com/celeste). Useful to check out strats performed by runners of all skill levels. Also contains various resources and guides.
 
-My PB VODs while following the habits, serving as reference of which strats I picked for each level. <br>
+This document is accompanied by a [video series](https://www.youtube.com/watch?v=wn3RARvFiFE&list=PLPTo7ZG8_ivLBmpa0oxqO4F7zII4MTxqe) of me performing speedruns while following these rules. These mainly serve as demonstration of me following the rulesets and showcase how I approach performing runs, partially for entertainment but also to be instructive. Habits is not necessarily meant to be a prescription for strats for a given skill level, but I did intend to tailor strats at each level to reasonably reflect a comparable level of execution.
+
+Full VODs of my PBs while following the habits are below. These serve as reference of which strats I picked for each level. <br>
 [Level 1 pb](https://www.youtube.com/watch?v=LAsIb5jsIIY&list=PLPTo7ZG8_ivJeRmLJuRWTr4uKLZWku67l&index=2&t=39) <br>
 [Level 2 pb](https://www.youtube.com/watch?v=rcYDBxwVx-0&list=PLPTo7ZG8_ivJeRmLJuRWTr4uKLZWku67l&index=5&t=33) <br>
 [Level 3 pb](https://www.youtube.com/watch?v=K1lFC1wd4YA&list=PLPTo7ZG8_ivJeRmLJuRWTr4uKLZWku67l&index=7&t=4751) <br>
