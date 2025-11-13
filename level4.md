@@ -99,6 +99,9 @@ A general understanding of what bottlenecks are and how they influence all of mo
   <img src="./images/lv4/7a_flag7.webp" width="480"> 
   <img src="./images/lv4/7a_flag7_bottleneck.png" width="480"> 
 
+  Think about the movement on flag 30. While most of the movement is for vertical, look for spots where there might be a horizontal bottleneck. What are the objectives? Where should we aim for a late vs early wallbounce? Try it for yourself and see if you can tell at which spots one is preferred over the other. <br>
+  <img src="./images/lv4/7a_flag30.webp" width="480"> 
+  
 </details>
 
 <details>
