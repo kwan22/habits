@@ -34,6 +34,12 @@ And of course, thanks to Celeste and the associated speedrunning community.
 [Celeste Discord](https://discord.gg/celeste). Main hub of Celeste's speedrunning community and contains various resources for speedrunners of all skill levels. <br>
 [Celeste speedrun leaderboard](https://www.speedrun.com/celeste). Useful to check out strats performed by runners of all skill levels. Also contains various resources and guides.
 
+My PB VODs while following the habits, serving as reference of which strats I picked for each level.
+[Level 1 pb](https://www.youtube.com/watch?v=LAsIb5jsIIY&list=PLPTo7ZG8_ivJeRmLJuRWTr4uKLZWku67l&index=2&t=39)
+[Level 2 pb](https://www.youtube.com/watch?v=rcYDBxwVx-0&list=PLPTo7ZG8_ivJeRmLJuRWTr4uKLZWku67l&index=5&t=33)
+[Level 3 pb](https://www.youtube.com/watch?v=K1lFC1wd4YA&list=PLPTo7ZG8_ivJeRmLJuRWTr4uKLZWku67l&index=7&t=4751)
+[Level 4 pb](https://www.youtube.com/watch?v=UnU0Phe5E2w&list=PLPTo7ZG8_ivJeRmLJuRWTr4uKLZWku67l&index=10&t=152)
+
 [&#8593; Back to top](#closing-thoughts)
 
 [FAQ &#8594;](./faq.md) 
