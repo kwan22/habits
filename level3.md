@@ -164,8 +164,6 @@ The "safe" section of the [Vapo sheet](https://docs.google.com/spreadsheets/d/1H
 
 ---
 
-[Level 3 pb run](https://www.youtube.com/watch?v=K1lFC1wd4YA&list=PLPTo7ZG8_ivJeRmLJuRWTr4uKLZWku67l&index=7&t=4751)
-
 [&#8593; Back to top](#level-3)
 
 [&#8592; Level 2](./level2.md) 
