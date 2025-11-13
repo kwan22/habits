@@ -20,7 +20,7 @@
 *A: The habits stop making sense after Level 4, as further improvement becomes understanding all of the little details specific to every situation. Level 4 itself is already stretching the limits of the habits, but we covered some important principles relevant to both movement and consistency.*
 
 **Q6: 6b when?**  <br>
-*A: Barrier to entry is simply too high. A habits run of 6b would mostly look like a casual playthrough with a "try not to die" mentality until Level 4 at least.*
+*A: Barrier to entry is simply too high. A habits run of 6b would mostly look like a casual playthrough with a "try not to die" mentality until Level 4 at least. Hard to build fundamentals when there's no floor.*
 
 **Q7: This doesn't seem like a very efficient way of learning the speedrun. Why are we spending so much time not doing tech or fast strats so we can start building muscle memory earlier?**  <br>
 *A: Depends on what you mean by efficient. No need to rip out all the hard strats when you don't even have control of basic jump+dash+grab combos or any movement fluidity. Beginners barely even know how to control Madeline, what are we doing learning difficult strats from the get-go? Once you have built up strong fundamentals, then learning specific strats becomes much more natural.*
