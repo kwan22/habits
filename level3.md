@@ -11,7 +11,7 @@ Level 3 rounds out most of the RTA-viable speed tech that speedrunners will ever
 The goals of Level 3 are to
 - Ingrain extension and transition timing into muscle/visual memory
 - Use basic leniency mechanics to expand movement options
-- Use normalization to improve consistency
+- Use normalization and cues to improve consistency
 
 ## Table of Contents
 - [Extension timing](#extension-timing)
