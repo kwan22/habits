@@ -70,7 +70,7 @@ With hyper-speed unlocked, we can simplify some rooms using active movement. For
 
 <details>
   <summary>Active movement</summary>
-  Begin to apply active movement to simplify some rooms, commonly by hypering near transition into the next room.<br>
+  Begin to apply active movement to simplify some rooms, commonly by supering or hypering near transition into the next room.<br>
   <img src="./images/lv2/3a_start_triplat.webp" width="480"/>
   <img src="./images/lv2/3a_towels_2,3.webp" width="480"/>
   <img src="./images/lv2/3a_suite_3,4.webp" width="480"/>
