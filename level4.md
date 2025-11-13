@@ -95,7 +95,7 @@ A general understanding of what bottlenecks are and how they influence all of mo
 
 <details>
   <summary>Crossover</summary>
-  The bottleneck depends on the route your strat takes and the movement options you have available. It can rapidly switch between horizontal and vertical. Be conscious of when/where crossovers happen, where typically you need to select a different movement option. For example, on the final climb on Flag 7, the objective is to reach the Badeline orb. The bottleneck to get there changes from vertical to horizontal at the lowest possible position where a wallkick can reach the Badeline orb. When the bottleneck switches, we should switch from climbjumping (vertical) to a wallkick (horizontal). <br>
+  The bottleneck depends on the route your strat takes and the movement options you have available. It can rapidly switch between horizontal and vertical, at points that I refer to as crossover. Be conscious of when/where crossovers happen, where typically you need to select a different movement option. For example, on the final climb on Flag 7, the objective is to reach the Badeline orb. The bottleneck to get there changes from vertical to horizontal at the lowest possible position where a wallkick can reach the Badeline orb. When the bottleneck switches, we should switch from climbjumping (vertical) to a wallkick (horizontal). <br>
   <img src="./images/lv4/7a_flag7.webp" width="480"> 
   <img src="./images/lv4/7a_flag7_bottleneck.png" width="480"> 
 
