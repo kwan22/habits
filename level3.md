@@ -120,7 +120,7 @@ Many scary-looking strats become less scary with the right (visual) cue, typical
   <summary>Example 1: 4a Cliff face</summary>
   <img src="./images/lv3/4a_cf_1tile_ultra.webp" width="480">
   <img src="./images/lv3/4a_cf_1tile_ultra.png" width="480"> <br>
-  This scary-looking ultra onto the 1-tile is easier than it looks: the downright lines up nicely above the previous platform. Personally I aim for when Madeline is vertically aligned with the jutting background tiles as they're closer to Madeline and easier to see. The right dash afterwards is done at max height. Slow climb to the top, and then demohyper and the last snowball lines up.
+  This scary-looking ultra onto the 1-tile is easier than it looks: the downright lines up nicely above the previous platform. Personally I aim for when Madeline is vertically aligned with the jutting background tiles as they're closer to Madeline and easier to see. The right dash afterwards is done at max height. Slow climb to the top, and then demohyper, and you should make it to the end with some potential assistance from the snowball.
 </details>
 
 <details>
@@ -148,7 +148,7 @@ Many scary-looking strats become less scary with the right (visual) cue, typical
   The background tile acts as a nice reference point to aim this upleft through both dreamblocks. It turns out that this upleft cannot be too early: the earliest possible dash is viable, aka it's bufferable! (If you press dash too early, nothing happens). 
 </details>
 
-[Koralreef's cue collection](https://koralreeef.github.io/info.html) has a large selection of visual cues as well. When you're struggling to perform a strat, a visual cue might help anchor your plan. You can use any visual cue you like, as long as it makes sense to you and is easy to remember.
+[Koralreef's cue collection](https://koralreeef.github.io/info.html) has a large selection of visual cues as well, though some of the strats are more advanced. When you're struggling to perform a strat, a visual cue might help anchor your plan. You can use any visual cue you like, as long as it makes sense to you and is easy to remember.
 
 ## Active movement  
 Movement should flow from one segment to the next. Movement exiting a room should consciously chain into the next room. Strats are designed such that avoiding hazards is incorporated into the movement when well executed. Transition tech commonly serves as an anchor point of normalization for movement across rooms. Time spent standing still and reacting to the room should be minimized. This is largely enabled by leniency mechanics and often combines them in various ways.
