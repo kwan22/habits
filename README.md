@@ -24,6 +24,14 @@ Note that "getting the fastest time we can" is **not** an explicit goal of the h
 
 <img src = "./images/levelup.png" width = 960>
 
+This document is accompanied by a [video series](https://www.youtube.com/watch?v=wn3RARvFiFE&list=PLPTo7ZG8_ivLBmpa0oxqO4F7zII4MTxqe) of me performing speedruns while following these rules. These serve as demonstration of me following the rulesets, include verbal explanations and video demonstrations of some of the rules, and showcase how I approach performing runs and evaluating my mistakes between runs.
+
+Full VODs of my PBs while following the habits are below. These serve as reference of which strats I picked for each level. Habits is not meant to be a prescription for strats for a given skill level, but I did intend to tailor strats at each level to reflect a comparable level of execution. <br>
+[Level 1 pb](https://www.youtube.com/watch?v=LAsIb5jsIIY&list=PLPTo7ZG8_ivJeRmLJuRWTr4uKLZWku67l&index=2&t=39) <br>
+[Level 2 pb](https://www.youtube.com/watch?v=rcYDBxwVx-0&list=PLPTo7ZG8_ivJeRmLJuRWTr4uKLZWku67l&index=5&t=33) <br>
+[Level 3 pb](https://www.youtube.com/watch?v=K1lFC1wd4YA&list=PLPTo7ZG8_ivJeRmLJuRWTr4uKLZWku67l&index=7&t=4751) <br>
+[Level 4 pb](https://www.youtube.com/watch?v=UnU0Phe5E2w&list=PLPTo7ZG8_ivJeRmLJuRWTr4uKLZWku67l&index=10&t=152) <br>
+
 ---
 
 [&#8593; Back to top](#building-habits-developing-fundamentals-of-celeste-speedrunning)
