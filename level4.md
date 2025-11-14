@@ -11,8 +11,8 @@ Level 4 begins a deeper dive into some of the fundamentals of movement as well a
 The goals of Level 4 are to
 - Understand your movement options 
 - Identify objectives and bottlenecks
-- Tailor movement options to best resolve a bottleneck
 - Build movement around DashCD for both speed and consistency
+- Expand upon concepts that rely on buffering
 
 ## Table of Contents
 - [Speed hierarchy](#speed-hierarchy)
