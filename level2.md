@@ -89,10 +89,10 @@ Bind a menu down-confirm bind for retry and skip cutscene. Pause, menu-down+conf
   <summary>2 jump binds</summary>
 
   The ability to press jump without releasing it is one of the most fundamental aspects to vertical movement. I avoided this in Level 1 to keep the number of action inputs to the 3 main ones, but for those looking to take speedrunning more seriously, this is best learned early. Use 1 jump button to initiate a first jump input, keep it held, and press the 2nd jump for subsequent jumps. Build this habit as early as you can! Don't be afraid to rebind and relearn gradually if you haven't adopted this habit yet. Go slow at first if you need to: you may be slower at first than mashing 1 jump button, but you will gradually improve over time. <br>
-  <img src="./images/lv2/1a_start_wb_2j.webp" width="480"/> 
-  <img src="./images/lv2/3a_start_2j.webp" width="480"/> 
-  <img src="./images/lv2/3a_shaft_2j_slow.webp" width="480"/> 
-  <img src="./images/lv2/4a_start_final_2j.webp" width="480"/> <br>
+  <img src="./images/lv2/2j_1a.webp" width="480"/> 
+  <img src="./images/lv2/2j_3a_1.webp" width="480"/> 
+  <img src="./images/lv2/2j_3a_2.webp" width="480"/> 
+  <img src="./images/lv2/2j_4a.webp" width="480"/> <br>
   Input display is provided here. Notice how "Jump2" is pressed first and held the entire time, while "Jump1" is pressed for subsequent jumps.   
 </details>
 
