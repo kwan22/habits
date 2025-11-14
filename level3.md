@@ -44,6 +44,7 @@ The goal is to take advantage of various leniency mechanics offered in Celeste t
   <summary>Cornercorrection</summary>
   Cornercorrection and floorsnapping are leniency mechanics that will be naturally used at all levels, but here we will intentionally emphasize movement where lining up a midair dash for cornercorrection is lenient. Jumpthrough correction leniency is also demonstrated. This is also a nice place to learn the timing for dashing at or near max height and not releasing jump while doing so. A jump lines up well with a 3-tile height platform, and a hyper lines up well with both 1-tile and 2-tile height platforms. <br>
     <img src="./images/lv3/2a_start_hyper_1tile.webp" width="480">
+    <img src="./images/lv3/5a_search_3tile.webp" width="480">
     <img src="./images/lv3/5a_rescue_3tile.webp" width="480">
     <img src="./images/lv3/7a_2k_start_cut.webp" width="480">
 
