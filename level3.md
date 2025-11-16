@@ -6,7 +6,7 @@
 
 <img src = "./images/lv3.png" width = "960">
 
-Level 3 rounds out most of the RTA-viable speed tech that speedrunners will ever implement. We emphasize a selection of strats with speed generation/conservation, and finding ways to perform them in a consistent manner via normalization. The savestate function of speedrun tool is highly recommnded to practice strats.
+Level 3 rounds out most of the RTA-viable speed tech that speedrunners will ever implement. We emphasize a selection of strats with speed generation/conservation, and finding ways to perform them in a consistent manner via normalization. The savestate function of speedrun tool is highly recommended to practice strats.
 
 The goals of Level 3 are to
 - Ingrain extension and transition timing into muscle/visual memory
