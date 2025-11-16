@@ -96,7 +96,7 @@ Bind a menu down-confirm bind for retry and skip cutscene. Ideally, pause, menu-
   Input display is provided here. Notice how "Jump2" is pressed first and held the entire time, while "Jump1" is pressed for subsequent jumps.   
 </details>
 
-[Some example bind layouts](https://docs.google.com/spreadsheets/d/196LjGk2m0i4ZUtzOpTVLT-BRb6p8dcS052eAxJV96uA/edit?gid=985448244#gid=985448244) from various high-level players are collected here. For now, just focus on having both jumps on independent fingers, and dash on a different finger than one of your jumps. For controller players, I recommend having a jump as one of the shoulder buttons, as having both jumps on face buttons can be non-ideal ergonomically.
+[Some example bind layouts](https://docs.google.com/spreadsheets/d/196LjGk2m0i4ZUtzOpTVLT-BRb6p8dcS052eAxJV96uA/edit?gid=985448244) from various high-level players are collected here. For now, just focus on having both jumps on independent fingers, and dash on a different finger than one of your jumps. For controller players, I recommend having a jump as one of the shoulder buttons, as having both jumps on face buttons can be non-ideal ergonomically.
 
 ## One cycle only  
 Retransition if possible to reset the entry cycle. The goal is to reinforce learning of the entry cycle via repetition and avoid having to learn different strats for the same room. (If re-entry is not possible, wait to resync or revert to level 1)
